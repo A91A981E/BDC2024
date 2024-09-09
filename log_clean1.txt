@@ -1,0 +1,973 @@
+nohup: ignoring input
+Namespace(seed=3407, model='iTransformer_iFlashFormer', clean_data=True, root_path='/home/mw/input/bdc_train9198/global/global', checkpoints='./best_model/', factor=1.0, train_val_size=0.95, k_fold=3, print_freq=50, n_experts=2, task='temp', seq_len=168, pred_len=72, freq='h', enc_in=56, d_model=128, n_heads=8, e_layers=1, d_ff=64, dropout=0.1, activation='gelu', pretrain=False, pretrain_ckpt='', resume_epoch=0, num_workers=9, itr=1, train_epochs=3, batch_size=10240, learning_rate=0.001, lradj='type1', weight_decay=1e-06, use_gpu=True, gpu=0, use_multi_gpu=True, devices='0,1', device_ids=[0, 1])
+Use GPU: cuda:0
+
+Fold: 0, Epoch: 1, iters: 50/1337 | loss: 12.1464849 temp 12.1464849 wind 0.0000000 speed: 2.4656s/iter; left time: 162.7722 min
+
+Fold: 0, Epoch: 1, iters: 100/1337 | loss: 10.1598158 temp 10.1598158 wind 0.0000000 speed: 2.2550s/iter; left time: 146.9875 min
+
+Fold: 0, Epoch: 1, iters: 150/1337 | loss: 9.8429711 temp 9.8429711 wind 0.0000000 speed: 2.2845s/iter; left time: 147.0095 min
+
+Fold: 0, Epoch: 1, iters: 200/1337 | loss: 9.6515985 temp 9.6515985 wind 0.0000000 speed: 2.2618s/iter; left time: 143.6625 min
+
+Fold: 0, Epoch: 1, iters: 250/1337 | loss: 9.5241526 temp 9.5241526 wind 0.0000000 speed: 2.2517s/iter; left time: 141.1418 min
+
+Fold: 0, Epoch: 1, iters: 300/1337 | loss: 9.4218988 temp 9.4218988 wind 0.0000000 speed: 2.2294s/iter; left time: 137.8868 min
+
+Fold: 0, Epoch: 1, iters: 350/1337 | loss: 9.3333142 temp 9.3333142 wind 0.0000000 speed: 2.2378s/iter; left time: 136.5442 min
+
+Fold: 0, Epoch: 1, iters: 400/1337 | loss: 9.2826646 temp 9.2826646 wind 0.0000000 speed: 2.2161s/iter; left time: 133.3740 min
+
+Fold: 0, Epoch: 1, iters: 450/1337 | loss: 9.2206151 temp 9.2206151 wind 0.0000000 speed: 2.2470s/iter; left time: 133.3582 min
+
+Fold: 0, Epoch: 1, iters: 550/1337 | loss: 9.0987540 temp 9.0987540 wind 0.0000000 speed: 2.2344s/iter; left time: 128.8860 min
+
+Fold: 0, Epoch: 1, iters: 600/1337 | loss: 9.0955177 temp 9.0955177 wind 0.0000000 speed: 2.2700s/iter; left time: 129.0492 min
+
+Fold: 0, Epoch: 1, iters: 650/1337 | loss: 9.0659661 temp 9.0659661 wind 0.0000000 speed: 2.2313s/iter; left time: 124.9872 min
+
+Fold: 0, Epoch: 1, iters: 700/1337 | loss: 9.0247347 temp 9.0247347 wind 0.0000000 speed: 2.2730s/iter; left time: 125.4302 min
+
+Fold: 0, Epoch: 1, iters: 750/1337 | loss: 8.9659710 temp 8.9659710 wind 0.0000000 speed: 2.2410s/iter; left time: 121.8009 min
+
+Fold: 0, Epoch: 1, iters: 800/1337 | loss: 8.9671859 temp 8.9671859 wind 0.0000000 speed: 2.2353s/iter; left time: 119.6284 min
+
+Fold: 0, Epoch: 1, iters: 850/1337 | loss: 8.9320623 temp 8.9320623 wind 0.0000000 speed: 2.2331s/iter; left time: 117.6498 min
+
+Fold: 0, Epoch: 1, iters: 900/1337 | loss: 8.8920062 temp 8.8920062 wind 0.0000000 speed: 2.2198s/iter; left time: 115.0970 min
+
+Fold: 0, Epoch: 1, iters: 950/1337 | loss: 8.8775440 temp 8.8775440 wind 0.0000000 speed: 2.2550s/iter; left time: 115.0401 min
+
+Fold: 0, Epoch: 1, iters: 1000/1337 | loss: 8.8426832 temp 8.8426832 wind 0.0000000 speed: 2.2796s/iter; left time: 114.3975 min
+
+Fold: 0, Epoch: 1, iters: 1050/1337 | loss: 8.8168870 temp 8.8168870 wind 0.0000000 speed: 2.2317s/iter; left time: 110.1355 min
+
+Fold: 0, Epoch: 1, iters: 1100/1337 | loss: 8.8007265 temp 8.8007265 wind 0.0000000 speed: 2.2617s/iter; left time: 109.7292 min
+
+Fold: 0, Epoch: 1, iters: 1150/1337 | loss: 8.7795315 temp 8.7795315 wind 0.0000000 speed: 2.2744s/iter; left time: 108.4491 min
+
+Fold: 0, Epoch: 1, iters: 1200/1337 | loss: 8.7467916 temp 8.7467916 wind 0.0000000 speed: 2.2713s/iter; left time: 106.4082 min
+
+Fold: 0, Epoch: 1, iters: 1250/1337 | loss: 8.7493765 temp 8.7493765 wind 0.0000000 speed: 2.2382s/iter; left time: 102.9933 min
+
+Fold: 0, Epoch: 1, iters: 1300/1337 | loss: 8.7155609 temp 8.7155609 wind 0.0000000 speed: 2.2636s/iter; left time: 102.2750 min
+Epoch: 1 cost time: 3010.3724706172943	Fold: 0, Epoch: 1, Steps: 1337 | Train Loss: 9.2197778, Temp 9.2197778, Wind 0.0000000, Val Loss: 0.0000000 Temp 0.0000000 Wind 0.0000000
+Updating learning rate to 0.0005
+
+Fold: 0, Epoch: 2, iters: 50/1337 | loss: 8.6415996 temp 8.6415996 wind 0.0000000 speed: 4.0674s/iter; left time: 177.8795 min
+
+Fold: 0, Epoch: 2, iters: 100/1337 | loss: 8.6049344 temp 8.6049344 wind 0.0000000 speed: 2.2262s/iter; left time: 95.5053 min
+
+Fold: 0, Epoch: 2, iters: 150/1337 | loss: 8.6210299 temp 8.6210299 wind 0.0000000 speed: 2.2789s/iter; left time: 95.8668 min
+
+Fold: 0, Epoch: 2, iters: 200/1337 | loss: 8.5983710 temp 8.5983710 wind 0.0000000 speed: 2.2551s/iter; left time: 92.9867 min
+
+Fold: 0, Epoch: 2, iters: 250/1337 | loss: 8.5902350 temp 8.5902350 wind 0.0000000 speed: 2.2291s/iter; left time: 90.0573 min
+
+Fold: 0, Epoch: 2, iters: 300/1337 | loss: 8.5970558 temp 8.5970558 wind 0.0000000 speed: 2.2411s/iter; left time: 88.6713 min
+
+Fold: 0, Epoch: 2, iters: 350/1337 | loss: 8.5335387 temp 8.5335387 wind 0.0000000 speed: 2.2788s/iter; left time: 88.2673 min
+
+Fold: 0, Epoch: 2, iters: 400/1337 | loss: 8.5542920 temp 8.5542920 wind 0.0000000 speed: 2.2512s/iter; left time: 85.3221 min
+
+Fold: 0, Epoch: 2, iters: 450/1337 | loss: 8.5116192 temp 8.5116192 wind 0.0000000 speed: 2.2388s/iter; left time: 82.9865 min
+
+Fold: 0, Epoch: 2, iters: 500/1337 | loss: 8.5178095 temp 8.5178095 wind 0.0000000 speed: 2.2625s/iter; left time: 81.9764 min
+
+Fold: 0, Epoch: 2, iters: 550/1337 | loss: 8.5058027 temp 8.5058027 wind 0.0000000 speed: 2.2601s/iter; left time: 80.0070 min
+
+Fold: 0, Epoch: 2, iters: 600/1337 | loss: 8.4824958 temp 8.4824958 wind 0.0000000 speed: 2.2600s/iter; left time: 78.1222 min
+
+Fold: 0, Epoch: 2, iters: 650/1337 | loss: 8.4932062 temp 8.4932062 wind 0.0000000 speed: 2.2480s/iter; left time: 75.8336 min
+
+Fold: 0, Epoch: 2, iters: 700/1337 | loss: 8.4806508 temp 8.4806508 wind 0.0000000 speed: 2.2537s/iter; left time: 74.1469 min
+
+Fold: 0, Epoch: 2, iters: 750/1337 | loss: 8.4556833 temp 8.4556833 wind 0.0000000 speed: 2.2537s/iter; left time: 72.2675 min
+
+Fold: 0, Epoch: 2, iters: 800/1337 | loss: 8.4323372 temp 8.4323372 wind 0.0000000 speed: 2.2803s/iter; left time: 71.2222 min
+
+Fold: 0, Epoch: 2, iters: 850/1337 | loss: 8.4500469 temp 8.4500469 wind 0.0000000 speed: 2.2403s/iter; left time: 68.1059 min
+
+Fold: 0, Epoch: 2, iters: 900/1337 | loss: 8.4423777 temp 8.4423777 wind 0.0000000 speed: 2.2270s/iter; left time: 65.8460 min
+
+Fold: 0, Epoch: 2, iters: 950/1337 | loss: 8.4059724 temp 8.4059724 wind 0.0000000 speed: 2.2410s/iter; left time: 64.3914 min
+
+Fold: 0, Epoch: 2, iters: 1000/1337 | loss: 8.3925629 temp 8.3925629 wind 0.0000000 speed: 2.2225s/iter; left time: 62.0065 min
+
+Fold: 0, Epoch: 2, iters: 1050/1337 | loss: 8.3850560 temp 8.3850560 wind 0.0000000 speed: 2.2380s/iter; left time: 60.5755 min
+
+Fold: 0, Epoch: 2, iters: 1100/1337 | loss: 8.3729335 temp 8.3729335 wind 0.0000000 speed: 2.2374s/iter; left time: 58.6945 min
+
+Fold: 0, Epoch: 2, iters: 1150/1337 | loss: 8.3886539 temp 8.3886539 wind 0.0000000 speed: 2.2343s/iter; left time: 56.7502 min
+
+Fold: 0, Epoch: 2, iters: 1200/1337 | loss: 8.3736220 temp 8.3736220 wind 0.0000000 speed: 2.2231s/iter; left time: 54.6133 min
+
+Fold: 0, Epoch: 2, iters: 1250/1337 | loss: 8.3546968 temp 8.3546968 wind 0.0000000 speed: 2.2535s/iter; left time: 53.4832 min
+
+Fold: 0, Epoch: 2, iters: 1300/1337 | loss: 8.3592232 temp 8.3592232 wind 0.0000000 speed: 2.2661s/iter; left time: 51.8932 min
+Epoch: 2 cost time: 3006.7403633594513	Fold: 0, Epoch: 2, Steps: 1337 | Train Loss: 8.4784387, Temp 8.4784387, Wind 0.0000000, Val Loss: 0.0000000 Temp 0.0000000 Wind 0.0000000
+Updating learning rate to 0.00025
+
+Fold: 0, Epoch: 3, iters: 50/1337 | loss: 8.2923265 temp 8.2923265 wind 0.0000000 speed: 4.1288s/iter; left time: 88.5624 min
+
+Fold: 0, Epoch: 3, iters: 100/1337 | loss: 8.2885701 temp 8.2885701 wind 0.0000000 speed: 2.2671s/iter; left time: 46.7410 min
+
+Fold: 0, Epoch: 3, iters: 150/1337 | loss: 8.2880982 temp 8.2880982 wind 0.0000000 speed: 2.2630s/iter; left time: 44.7697 min
+
+Fold: 0, Epoch: 3, iters: 200/1337 | loss: 8.2899105 temp 8.2899105 wind 0.0000000 speed: 2.2638s/iter; left time: 42.8996 min
+
+Fold: 0, Epoch: 3, iters: 250/1337 | loss: 8.2706832 temp 8.2706832 wind 0.0000000 speed: 2.2089s/iter; left time: 40.0185 min
+
+Fold: 0, Epoch: 3, iters: 300/1337 | loss: 8.2303999 temp 8.2303999 wind 0.0000000 speed: 2.2594s/iter; left time: 39.0499 min
+
+Fold: 0, Epoch: 3, iters: 350/1337 | loss: 8.2432432 temp 8.2432432 wind 0.0000000 speed: 2.2420s/iter; left time: 36.8808 min
+
+Fold: 0, Epoch: 3, iters: 400/1337 | loss: 8.2254992 temp 8.2254992 wind 0.0000000 speed: 2.2300s/iter; left time: 34.8259 min
+
+Fold: 0, Epoch: 3, iters: 450/1337 | loss: 8.2480177 temp 8.2480177 wind 0.0000000 speed: 2.2566s/iter; left time: 33.3596 min
+
+Fold: 0, Epoch: 3, iters: 500/1337 | loss: 8.2341351 temp 8.2341351 wind 0.0000000 speed: 2.2540s/iter; left time: 31.4435 min
+
+Fold: 0, Epoch: 3, iters: 550/1337 | loss: 8.2010136 temp 8.2010136 wind 0.0000000 speed: 2.2546s/iter; left time: 29.5731 min
+
+Fold: 0, Epoch: 3, iters: 600/1337 | loss: 8.2181300 temp 8.2181300 wind 0.0000000 speed: 2.2312s/iter; left time: 27.4068 min
+
+Fold: 0, Epoch: 3, iters: 650/1337 | loss: 8.2084144 temp 8.2084144 wind 0.0000000 speed: 2.2786s/iter; left time: 26.0900 min
+
+Fold: 0, Epoch: 3, iters: 700/1337 | loss: 8.2335919 temp 8.2335919 wind 0.0000000 speed: 2.2358s/iter; left time: 23.7368 min
+
+Fold: 0, Epoch: 3, iters: 750/1337 | loss: 8.2186529 temp 8.2186529 wind 0.0000000 speed: 2.2557s/iter; left time: 22.0678 min
+
+Fold: 0, Epoch: 3, iters: 800/1337 | loss: 8.2198319 temp 8.2198319 wind 0.0000000 speed: 2.2473s/iter; left time: 20.1132 min
+
+Fold: 0, Epoch: 3, iters: 850/1337 | loss: 8.2172720 temp 8.2172720 wind 0.0000000 speed: 2.2312s/iter; left time: 18.1097 min
+
+Fold: 0, Epoch: 3, iters: 900/1337 | loss: 8.1861238 temp 8.1861238 wind 0.0000000 speed: 2.2624s/iter; left time: 16.4779 min
+
+Fold: 0, Epoch: 3, iters: 950/1337 | loss: 8.1835372 temp 8.1835372 wind 0.0000000 speed: 2.2512s/iter; left time: 14.5203 min
+
+Fold: 0, Epoch: 3, iters: 1000/1337 | loss: 8.1942846 temp 8.1942846 wind 0.0000000 speed: 2.2568s/iter; left time: 12.6757 min
+
+Fold: 0, Epoch: 3, iters: 1050/1337 | loss: 8.1722828 temp 8.1722828 wind 0.0000000 speed: 2.2263s/iter; left time: 10.6489 min
+
+Fold: 0, Epoch: 3, iters: 1100/1337 | loss: 8.1745088 temp 8.1745088 wind 0.0000000 speed: 2.2607s/iter; left time: 8.9299 min
+
+Fold: 0, Epoch: 3, iters: 1150/1337 | loss: 8.1852644 temp 8.1852644 wind 0.0000000 speed: 2.2509s/iter; left time: 7.0152 min
+
+Fold: 0, Epoch: 3, iters: 1200/1337 | loss: 8.1693869 temp 8.1693869 wind 0.0000000 speed: 2.2565s/iter; left time: 5.1523 min
+
+Fold: 0, Epoch: 3, iters: 1250/1337 | loss: 8.1552572 temp 8.1552572 wind 0.0000000 speed: 2.2582s/iter; left time: 3.2743 min
+
+Fold: 0, Epoch: 3, iters: 1300/1337 | loss: 8.1681722 temp 8.1681722 wind 0.0000000 speed: 2.2341s/iter; left time: 1.3777 min
+Epoch: 3 cost time: 3013.088903903961	Fold: 0, Epoch: 3, Steps: 1337 | Train Loss: 8.2184715, Temp 8.2184715, Wind 0.0000000, Val Loss: 0.0000000 Temp 0.0000000 Wind 0.0000000
+Updating learning rate to 0.000125
+
+Fold: 1, Epoch: 1, iters: 50/1337 | loss: 12.0360021 temp 12.0360021 wind 0.0000000 speed: 2.3928s/iter; left time: 157.9615 min
+
+Fold: 1, Epoch: 1, iters: 100/1337 | loss: 10.1299198 temp 10.1299198 wind 0.0000000 speed: 2.2580s/iter; left time: 147.1831 min
+
+Fold: 1, Epoch: 1, iters: 150/1337 | loss: 9.8035437 temp 9.8035437 wind 0.0000000 speed: 2.2581s/iter; left time: 145.3088 min
+
+Fold: 1, Epoch: 1, iters: 200/1337 | loss: 9.6611990 temp 9.6611990 wind 0.0000000 speed: 2.2332s/iter; left time: 141.8447 min
+
+Fold: 1, Epoch: 1, iters: 250/1337 | loss: 9.5308541 temp 9.5308541 wind 0.0000000 speed: 2.2583s/iter; left time: 141.5554 min
+
+Fold: 1, Epoch: 1, iters: 300/1337 | loss: 9.4629218 temp 9.4629218 wind 0.0000000 speed: 2.2342s/iter; left time: 138.1877 min
+
+Fold: 1, Epoch: 1, iters: 350/1337 | loss: 9.3661290 temp 9.3661290 wind 0.0000000 speed: 2.2389s/iter; left time: 136.6116 min
+
+Fold: 1, Epoch: 1, iters: 400/1337 | loss: 9.3203016 temp 9.3203016 wind 0.0000000 speed: 2.2499s/iter; left time: 135.4069 min
+
+Fold: 1, Epoch: 1, iters: 450/1337 | loss: 9.2480984 temp 9.2480984 wind 0.0000000 speed: 2.2606s/iter; left time: 134.1647 min
+
+Fold: 1, Epoch: 1, iters: 500/1337 | loss: 9.1965323 temp 9.1965323 wind 0.0000000 speed: 2.2494s/iter; left time: 131.6258 min
+
+Fold: 1, Epoch: 1, iters: 550/1337 | loss: 9.1472057 temp 9.1472057 wind 0.0000000 speed: 2.2395s/iter; left time: 129.1835 min
+
+Fold: 1, Epoch: 1, iters: 600/1337 | loss: 9.1185254 temp 9.1185254 wind 0.0000000 speed: 2.2426s/iter; left time: 127.4930 min
+
+Fold: 1, Epoch: 1, iters: 650/1337 | loss: 9.1104642 temp 9.1104642 wind 0.0000000 speed: 2.2558s/iter; left time: 126.3598 min
+
+Fold: 1, Epoch: 1, iters: 700/1337 | loss: 9.0312707 temp 9.0312707 wind 0.0000000 speed: 2.2223s/iter; left time: 122.6352 min
+
+Fold: 1, Epoch: 1, iters: 750/1337 | loss: 9.0335376 temp 9.0335376 wind 0.0000000 speed: 2.2360s/iter; left time: 121.5259 min
+
+Fold: 1, Epoch: 1, iters: 800/1337 | loss: 8.9624111 temp 8.9624111 wind 0.0000000 speed: 2.2573s/iter; left time: 120.8020 min
+
+Fold: 1, Epoch: 1, iters: 850/1337 | loss: 8.9264696 temp 8.9264696 wind 0.0000000 speed: 2.2418s/iter; left time: 118.1048 min
+
+Fold: 1, Epoch: 1, iters: 900/1337 | loss: 8.9150250 temp 8.9150250 wind 0.0000000 speed: 2.2637s/iter; left time: 117.3752 min
+
+Fold: 1, Epoch: 1, iters: 950/1337 | loss: 8.9084571 temp 8.9084571 wind 0.0000000 speed: 2.2513s/iter; left time: 114.8549 min
+
+Fold: 1, Epoch: 1, iters: 1000/1337 | loss: 8.8578648 temp 8.8578648 wind 0.0000000 speed: 2.2498s/iter; left time: 112.9030 min
+
+Fold: 1, Epoch: 1, iters: 1050/1337 | loss: 8.8154449 temp 8.8154449 wind 0.0000000 speed: 2.2549s/iter; left time: 111.2776 min
+
+Fold: 1, Epoch: 1, iters: 1100/1337 | loss: 8.8524185 temp 8.8524185 wind 0.0000000 speed: 2.2589s/iter; left time: 109.5921 min
+
+Fold: 1, Epoch: 1, iters: 1150/1337 | loss: 8.8003030 temp 8.8003030 wind 0.0000000 speed: 2.2639s/iter; left time: 107.9483 min
+
+Fold: 1, Epoch: 1, iters: 1200/1337 | loss: 8.8043270 temp 8.8043270 wind 0.0000000 speed: 2.2431s/iter; left time: 105.0901 min
+
+Fold: 1, Epoch: 1, iters: 1250/1337 | loss: 8.7594005 temp 8.7594005 wind 0.0000000 speed: 2.2478s/iter; left time: 103.4344 min
+
+Fold: 1, Epoch: 1, iters: 1300/1337 | loss: 8.7415190 temp 8.7415190 wind 0.0000000 speed: 2.2450s/iter; left time: 101.4379 min
+Epoch: 1 cost time: 3007.1200296878815	Fold: 1, Epoch: 1, Steps: 1337 | Train Loss: 9.2368155, Temp 9.2368155, Wind 0.0000000, Val Loss: 0.0000000 Temp 0.0000000 Wind 0.0000000
+Updating learning rate to 0.0005
+
+Fold: 1, Epoch: 2, iters: 50/1337 | loss: 8.6784373 temp 8.6784373 wind 0.0000000 speed: 4.1160s/iter; left time: 180.0048 min
+
+Fold: 1, Epoch: 2, iters: 100/1337 | loss: 8.6638558 temp 8.6638558 wind 0.0000000 speed: 2.2735s/iter; left time: 97.5320 min
+
+Fold: 1, Epoch: 2, iters: 150/1337 | loss: 8.6130311 temp 8.6130311 wind 0.0000000 speed: 2.2306s/iter; left time: 93.8343 min
+
+Fold: 1, Epoch: 2, iters: 200/1337 | loss: 8.6395004 temp 8.6395004 wind 0.0000000 speed: 2.2603s/iter; left time: 93.2006 min
+
+Fold: 1, Epoch: 2, iters: 250/1337 | loss: 8.6058144 temp 8.6058144 wind 0.0000000 speed: 2.2429s/iter; left time: 90.6119 min
+
+Fold: 1, Epoch: 2, iters: 300/1337 | loss: 8.5864804 temp 8.5864804 wind 0.0000000 speed: 2.2510s/iter; left time: 89.0658 min
+
+Fold: 1, Epoch: 2, iters: 350/1337 | loss: 8.5701330 temp 8.5701330 wind 0.0000000 speed: 2.2281s/iter; left time: 86.3034 min
+
+Fold: 1, Epoch: 2, iters: 400/1337 | loss: 8.5670579 temp 8.5670579 wind 0.0000000 speed: 2.2367s/iter; left time: 84.7719 min
+
+Fold: 1, Epoch: 2, iters: 450/1337 | loss: 8.5360763 temp 8.5360763 wind 0.0000000 speed: 2.2459s/iter; left time: 83.2494 min
+
+Fold: 1, Epoch: 2, iters: 500/1337 | loss: 8.5546207 temp 8.5546207 wind 0.0000000 speed: 2.2688s/iter; left time: 82.2055 min
+
+Fold: 1, Epoch: 2, iters: 550/1337 | loss: 8.5257669 temp 8.5257669 wind 0.0000000 speed: 2.2406s/iter; left time: 79.3158 min
+
+Fold: 1, Epoch: 2, iters: 600/1337 | loss: 8.5052190 temp 8.5052190 wind 0.0000000 speed: 2.2543s/iter; left time: 77.9245 min
+
+Fold: 1, Epoch: 2, iters: 650/1337 | loss: 8.4912065 temp 8.4912065 wind 0.0000000 speed: 2.2245s/iter; left time: 75.0389 min
+
+Fold: 1, Epoch: 2, iters: 700/1337 | loss: 8.4803211 temp 8.4803211 wind 0.0000000 speed: 2.2521s/iter; left time: 74.0939 min
+
+Fold: 1, Epoch: 2, iters: 750/1337 | loss: 8.4594533 temp 8.4594533 wind 0.0000000 speed: 2.2419s/iter; left time: 71.8909 min
+
+Fold: 1, Epoch: 2, iters: 800/1337 | loss: 8.4355921 temp 8.4355921 wind 0.0000000 speed: 2.2425s/iter; left time: 70.0408 min
+
+Fold: 1, Epoch: 2, iters: 850/1337 | loss: 8.4442521 temp 8.4442521 wind 0.0000000 speed: 2.2231s/iter; left time: 67.5823 min
+
+Fold: 1, Epoch: 2, iters: 900/1337 | loss: 8.4364776 temp 8.4364776 wind 0.0000000 speed: 2.2179s/iter; left time: 65.5759 min
+
+Fold: 1, Epoch: 2, iters: 950/1337 | loss: 8.4292939 temp 8.4292939 wind 0.0000000 speed: 2.2408s/iter; left time: 64.3859 min
+
+Fold: 1, Epoch: 2, iters: 1000/1337 | loss: 8.4164622 temp 8.4164622 wind 0.0000000 speed: 2.2311s/iter; left time: 62.2478 min
+
+Fold: 1, Epoch: 2, iters: 1050/1337 | loss: 8.4063037 temp 8.4063037 wind 0.0000000 speed: 2.2333s/iter; left time: 60.4491 min
+
+Fold: 1, Epoch: 2, iters: 1100/1337 | loss: 8.4039248 temp 8.4039248 wind 0.0000000 speed: 2.2569s/iter; left time: 59.2069 min
+
+Fold: 1, Epoch: 2, iters: 1150/1337 | loss: 8.3964357 temp 8.3964357 wind 0.0000000 speed: 2.2599s/iter; left time: 57.4025 min
+
+Fold: 1, Epoch: 2, iters: 1200/1337 | loss: 8.3738283 temp 8.3738283 wind 0.0000000 speed: 2.2684s/iter; left time: 55.7279 min
+
+Fold: 1, Epoch: 2, iters: 1250/1337 | loss: 8.3795786 temp 8.3795786 wind 0.0000000 speed: 2.2280s/iter; left time: 52.8790 min
+
+Fold: 1, Epoch: 2, iters: 1300/1337 | loss: 8.3481544 temp 8.3481544 wind 0.0000000 speed: 2.2597s/iter; left time: 51.7476 min
+Epoch: 2 cost time: 3001.3175587654114	Fold: 1, Epoch: 2, Steps: 1337 | Train Loss: 8.4937675, Temp 8.4937675, Wind 0.0000000, Val Loss: 0.0000000 Temp 0.0000000 Wind 0.0000000
+Updating learning rate to 0.00025
+
+Fold: 1, Epoch: 3, iters: 50/1337 | loss: 8.3140000 temp 8.3140000 wind 0.0000000 speed: 4.0504s/iter; left time: 86.8812 min
+
+Fold: 1, Epoch: 3, iters: 100/1337 | loss: 8.2965639 temp 8.2965639 wind 0.0000000 speed: 2.2519s/iter; left time: 46.4270 min
+
+Fold: 1, Epoch: 3, iters: 150/1337 | loss: 8.2901752 temp 8.2901752 wind 0.0000000 speed: 2.2716s/iter; left time: 44.9390 min
+
+Fold: 1, Epoch: 3, iters: 200/1337 | loss: 8.2781445 temp 8.2781445 wind 0.0000000 speed: 2.2654s/iter; left time: 42.9287 min
+
+Fold: 1, Epoch: 3, iters: 250/1337 | loss: 8.2689235 temp 8.2689235 wind 0.0000000 speed: 2.2601s/iter; left time: 40.9463 min
+
+Fold: 1, Epoch: 3, iters: 300/1337 | loss: 8.2562923 temp 8.2562923 wind 0.0000000 speed: 2.2520s/iter; left time: 38.9225 min
+
+Fold: 1, Epoch: 3, iters: 350/1337 | loss: 8.2653376 temp 8.2653376 wind 0.0000000 speed: 2.2510s/iter; left time: 37.0286 min
+
+Fold: 1, Epoch: 3, iters: 400/1337 | loss: 8.2593081 temp 8.2593081 wind 0.0000000 speed: 2.2554s/iter; left time: 35.2218 min
+
+Fold: 1, Epoch: 3, iters: 450/1337 | loss: 8.2241646 temp 8.2241646 wind 0.0000000 speed: 2.2405s/iter; left time: 33.1220 min
+
+Fold: 1, Epoch: 3, iters: 500/1337 | loss: 8.2325235 temp 8.2325235 wind 0.0000000 speed: 2.2481s/iter; left time: 31.3615 min
+
+Fold: 1, Epoch: 3, iters: 550/1337 | loss: 8.2306111 temp 8.2306111 wind 0.0000000 speed: 2.2238s/iter; left time: 29.1693 min
+
+Fold: 1, Epoch: 3, iters: 600/1337 | loss: 8.2439398 temp 8.2439398 wind 0.0000000 speed: 2.2533s/iter; left time: 27.6776 min
+
+Fold: 1, Epoch: 3, iters: 650/1337 | loss: 8.2417635 temp 8.2417635 wind 0.0000000 speed: 2.2523s/iter; left time: 25.7893 min
+
+Fold: 1, Epoch: 3, iters: 700/1337 | loss: 8.2165878 temp 8.2165878 wind 0.0000000 speed: 2.2544s/iter; left time: 23.9344 min
+
+Fold: 1, Epoch: 3, iters: 750/1337 | loss: 8.2125946 temp 8.2125946 wind 0.0000000 speed: 2.2724s/iter; left time: 22.2319 min
+
+Fold: 1, Epoch: 3, iters: 800/1337 | loss: 8.2119984 temp 8.2119984 wind 0.0000000 speed: 2.2339s/iter; left time: 19.9931 min
+
+Fold: 1, Epoch: 3, iters: 850/1337 | loss: 8.2324565 temp 8.2324565 wind 0.0000000 speed: 2.2386s/iter; left time: 18.1697 min
+
+Fold: 1, Epoch: 3, iters: 900/1337 | loss: 8.1883580 temp 8.1883580 wind 0.0000000 speed: 2.2319s/iter; left time: 16.2556 min
+
+Fold: 1, Epoch: 3, iters: 950/1337 | loss: 8.2002869 temp 8.2002869 wind 0.0000000 speed: 2.2417s/iter; left time: 14.4591 min
+
+Fold: 1, Epoch: 3, iters: 1000/1337 | loss: 8.1873149 temp 8.1873149 wind 0.0000000 speed: 2.2398s/iter; left time: 12.5803 min
+
+Fold: 1, Epoch: 3, iters: 1050/1337 | loss: 8.1908311 temp 8.1908311 wind 0.0000000 speed: 2.2575s/iter; left time: 10.7982 min
+
+Fold: 1, Epoch: 3, iters: 1100/1337 | loss: 8.1823861 temp 8.1823861 wind 0.0000000 speed: 2.1961s/iter; left time: 8.6745 min
+
+Fold: 1, Epoch: 3, iters: 1150/1337 | loss: 8.1848920 temp 8.1848920 wind 0.0000000 speed: 2.2238s/iter; left time: 6.9309 min
+
+Fold: 1, Epoch: 3, iters: 1200/1337 | loss: 8.1578572 temp 8.1578572 wind 0.0000000 speed: 2.2586s/iter; left time: 5.1572 min
+
+Fold: 1, Epoch: 3, iters: 1250/1337 | loss: 8.1517551 temp 8.1517551 wind 0.0000000 speed: 2.2459s/iter; left time: 3.2565 min
+
+Fold: 1, Epoch: 3, iters: 1300/1337 | loss: 8.1564855 temp 8.1564855 wind 0.0000000 speed: 2.2279s/iter; left time: 1.3739 min
+Epoch: 3 cost time: 3007.525228738785	Fold: 1, Epoch: 3, Steps: 1337 | Train Loss: 8.2247825, Temp 8.2247825, Wind 0.0000000, Val Loss: 0.0000000 Temp 0.0000000 Wind 0.0000000
+Updating learning rate to 0.000125
+
+Fold: 2, Epoch: 1, iters: 50/1337 | loss: 12.1358561 temp 12.1358561 wind 0.0000000 speed: 2.3899s/iter; left time: 157.7727 min
+
+Fold: 2, Epoch: 1, iters: 100/1337 | loss: 10.1919129 temp 10.1919129 wind 0.0000000 speed: 2.2594s/iter; left time: 147.2727 min
+
+Fold: 2, Epoch: 1, iters: 150/1337 | loss: 9.8696083 temp 9.8696083 wind 0.0000000 speed: 2.2431s/iter; left time: 144.3449 min
+
+Fold: 2, Epoch: 1, iters: 200/1337 | loss: 9.6535998 temp 9.6535998 wind 0.0000000 speed: 2.2456s/iter; left time: 142.6332 min
+
+Fold: 2, Epoch: 1, iters: 250/1337 | loss: 9.5210168 temp 9.5210168 wind 0.0000000 speed: 2.2274s/iter; left time: 139.6222 min
+
+Fold: 2, Epoch: 1, iters: 300/1337 | loss: 9.4232080 temp 9.4232080 wind 0.0000000 speed: 2.2026s/iter; left time: 136.2303 min
+
+Fold: 2, Epoch: 1, iters: 350/1337 | loss: 9.3799409 temp 9.3799409 wind 0.0000000 speed: 2.2401s/iter; left time: 136.6830 min
+
+Fold: 2, Epoch: 1, iters: 400/1337 | loss: 9.2879639 temp 9.2879639 wind 0.0000000 speed: 2.2280s/iter; left time: 134.0898 min
+
+Fold: 2, Epoch: 1, iters: 450/1337 | loss: 9.2498074 temp 9.2498074 wind 0.0000000 speed: 2.2108s/iter; left time: 131.2118 min
+
+Fold: 2, Epoch: 1, iters: 500/1337 | loss: 9.1983138 temp 9.1983138 wind 0.0000000 speed: 2.2598s/iter; left time: 132.2349 min
+
+Fold: 2, Epoch: 1, iters: 550/1337 | loss: 9.1112681 temp 9.1112681 wind 0.0000000 speed: 2.2557s/iter; left time: 130.1164 min
+
+Fold: 2, Epoch: 1, iters: 600/1337 | loss: 9.0757806 temp 9.0757806 wind 0.0000000 speed: 2.2516s/iter; left time: 128.0022 min
+
+Fold: 2, Epoch: 1, iters: 650/1337 | loss: 9.0489331 temp 9.0489331 wind 0.0000000 speed: 2.2549s/iter; left time: 126.3106 min
+
+Fold: 2, Epoch: 1, iters: 700/1337 | loss: 9.0348769 temp 9.0348769 wind 0.0000000 speed: 2.2548s/iter; left time: 124.4259 min
+
+Fold: 2, Epoch: 1, iters: 750/1337 | loss: 8.9958669 temp 8.9958669 wind 0.0000000 speed: 2.2590s/iter; left time: 122.7758 min
+
+Fold: 2, Epoch: 1, iters: 800/1337 | loss: 8.9538143 temp 8.9538143 wind 0.0000000 speed: 2.2842s/iter; left time: 122.2417 min
+
+Fold: 2, Epoch: 1, iters: 850/1337 | loss: 8.9334645 temp 8.9334645 wind 0.0000000 speed: 2.2507s/iter; left time: 118.5732 min
+
+Fold: 2, Epoch: 1, iters: 900/1337 | loss: 8.8847318 temp 8.8847318 wind 0.0000000 speed: 2.2352s/iter; left time: 115.8931 min
+
+Fold: 2, Epoch: 1, iters: 950/1337 | loss: 8.8711768 temp 8.8711768 wind 0.0000000 speed: 2.2637s/iter; left time: 115.4866 min
+
+Fold: 2, Epoch: 1, iters: 1000/1337 | loss: 8.8694004 temp 8.8694004 wind 0.0000000 speed: 2.2496s/iter; left time: 112.8916 min
+
+Fold: 2, Epoch: 1, iters: 1050/1337 | loss: 8.8175598 temp 8.8175598 wind 0.0000000 speed: 2.2218s/iter; left time: 109.6458 min
+
+Fold: 2, Epoch: 1, iters: 1100/1337 | loss: 8.8155169 temp 8.8155169 wind 0.0000000 speed: 2.2511s/iter; left time: 109.2181 min
+
+Fold: 2, Epoch: 1, iters: 1150/1337 | loss: 8.7774997 temp 8.7774997 wind 0.0000000 speed: 2.2185s/iter; left time: 105.7841 min
+
+Fold: 2, Epoch: 1, iters: 1200/1337 | loss: 8.7466025 temp 8.7466025 wind 0.0000000 speed: 2.2386s/iter; left time: 104.8800 min
+
+Fold: 2, Epoch: 1, iters: 1250/1337 | loss: 8.7284425 temp 8.7284425 wind 0.0000000 speed: 2.2379s/iter; left time: 102.9822 min
+
+Fold: 2, Epoch: 1, iters: 1300/1337 | loss: 8.7089144 temp 8.7089144 wind 0.0000000 speed: 2.2474s/iter; left time: 101.5454 min
+Epoch: 1 cost time: 3001.62379693985	Fold: 2, Epoch: 1, Steps: 1337 | Train Loss: 9.2262896, Temp 9.2262896, Wind 0.0000000, Val Loss: 0.0000000 Temp 0.0000000 Wind 0.0000000
+Updating learning rate to 0.0005
+
+Fold: 2, Epoch: 2, iters: 50/1337 | loss: 8.6420482 temp 8.6420482 wind 0.0000000 speed: 4.1284s/iter; left time: 180.5473 min
+
+Fold: 2, Epoch: 2, iters: 100/1337 | loss: 8.6114559 temp 8.6114559 wind 0.0000000 speed: 2.2024s/iter; left time: 94.4822 min
+
+Fold: 2, Epoch: 2, iters: 150/1337 | loss: 8.6323769 temp 8.6323769 wind 0.0000000 speed: 2.2402s/iter; left time: 94.2358 min
+
+Fold: 2, Epoch: 2, iters: 200/1337 | loss: 8.5761526 temp 8.5761526 wind 0.0000000 speed: 2.2756s/iter; left time: 93.8316 min
+
+Fold: 2, Epoch: 2, iters: 250/1337 | loss: 8.5641451 temp 8.5641451 wind 0.0000000 speed: 2.2383s/iter; left time: 90.4274 min
+
+Fold: 2, Epoch: 2, iters: 300/1337 | loss: 8.5702303 temp 8.5702303 wind 0.0000000 speed: 2.2469s/iter; left time: 88.9034 min
+
+Fold: 2, Epoch: 2, iters: 350/1337 | loss: 8.5422730 temp 8.5422730 wind 0.0000000 speed: 2.2286s/iter; left time: 86.3216 min
+
+Fold: 2, Epoch: 2, iters: 400/1337 | loss: 8.5489885 temp 8.5489885 wind 0.0000000 speed: 2.2286s/iter; left time: 84.4647 min
+
+Fold: 2, Epoch: 2, iters: 450/1337 | loss: 8.5282963 temp 8.5282963 wind 0.0000000 speed: 2.2467s/iter; left time: 83.2792 min
+
+Fold: 2, Epoch: 2, iters: 500/1337 | loss: 8.4991623 temp 8.4991623 wind 0.0000000 speed: 2.2542s/iter; left time: 81.6776 min
+
+Fold: 2, Epoch: 2, iters: 550/1337 | loss: 8.5124174 temp 8.5124174 wind 0.0000000 speed: 2.2536s/iter; left time: 79.7780 min
+
+Fold: 2, Epoch: 2, iters: 600/1337 | loss: 8.4939044 temp 8.4939044 wind 0.0000000 speed: 2.2341s/iter; left time: 77.2250 min
+
+Fold: 2, Epoch: 2, iters: 650/1337 | loss: 8.4735961 temp 8.4735961 wind 0.0000000 speed: 2.2428s/iter; left time: 75.6555 min
+
+Fold: 2, Epoch: 2, iters: 700/1337 | loss: 8.4972486 temp 8.4972486 wind 0.0000000 speed: 2.2396s/iter; left time: 73.6812 min
+
+Fold: 2, Epoch: 2, iters: 750/1337 | loss: 8.4446051 temp 8.4446051 wind 0.0000000 speed: 2.2372s/iter; left time: 71.7386 min
+
+Fold: 2, Epoch: 2, iters: 800/1337 | loss: 8.4581219 temp 8.4581219 wind 0.0000000 speed: 2.2493s/iter; left time: 70.2537 min
+
+Fold: 2, Epoch: 2, iters: 850/1337 | loss: 8.4201313 temp 8.4201313 wind 0.0000000 speed: 2.1996s/iter; left time: 66.8676 min
+
+Fold: 2, Epoch: 2, iters: 900/1337 | loss: 8.4181383 temp 8.4181383 wind 0.0000000 speed: 2.2420s/iter; left time: 66.2879 min
+
+Fold: 2, Epoch: 2, iters: 950/1337 | loss: 8.4015025 temp 8.4015025 wind 0.0000000 speed: 2.2497s/iter; left time: 64.6410 min
+
+Fold: 2, Epoch: 2, iters: 1000/1337 | loss: 8.3813734 temp 8.3813734 wind 0.0000000 speed: 2.2415s/iter; left time: 62.5381 min
+
+Fold: 2, Epoch: 2, iters: 1050/1337 | loss: 8.3758728 temp 8.3758728 wind 0.0000000 speed: 2.2306s/iter; left time: 60.3759 min
+
+Fold: 2, Epoch: 2, iters: 1100/1337 | loss: 8.3809218 temp 8.3809218 wind 0.0000000 speed: 2.2487s/iter; left time: 58.9902 min
+
+Fold: 2, Epoch: 2, iters: 1150/1337 | loss: 8.3490861 temp 8.3490861 wind 0.0000000 speed: 2.2311s/iter; left time: 56.6689 min
+
+Fold: 2, Epoch: 2, iters: 1200/1337 | loss: 8.3542326 temp 8.3542326 wind 0.0000000 speed: 2.2418s/iter; left time: 55.0744 min
+
+Fold: 2, Epoch: 2, iters: 1250/1337 | loss: 8.3333978 temp 8.3333978 wind 0.0000000 speed: 2.2376s/iter; left time: 53.1065 min
+
+Fold: 2, Epoch: 2, iters: 1300/1337 | loss: 8.3092893 temp 8.3092893 wind 0.0000000 speed: 2.2781s/iter; left time: 52.1683 min
+Epoch: 2 cost time: 3000.533750295639	Fold: 2, Epoch: 2, Steps: 1337 | Train Loss: 8.4694894, Temp 8.4694894, Wind 0.0000000, Val Loss: 0.0000000 Temp 0.0000000 Wind 0.0000000
+Updating learning rate to 0.00025
+
+Fold: 2, Epoch: 3, iters: 50/1337 | loss: 8.2853481 temp 8.2853481 wind 0.0000000 speed: 4.1167s/iter; left time: 88.3032 min
+
+Fold: 2, Epoch: 3, iters: 100/1337 | loss: 8.2752822 temp 8.2752822 wind 0.0000000 speed: 2.2492s/iter; left time: 46.3719 min
+
+Fold: 2, Epoch: 3, iters: 150/1337 | loss: 8.2783714 temp 8.2783714 wind 0.0000000 speed: 2.2126s/iter; left time: 43.7718 min
+
+Fold: 2, Epoch: 3, iters: 200/1337 | loss: 8.2603807 temp 8.2603807 wind 0.0000000 speed: 2.2292s/iter; left time: 42.2429 min
+
+Fold: 2, Epoch: 3, iters: 250/1337 | loss: 8.2479101 temp 8.2479101 wind 0.0000000 speed: 2.2539s/iter; left time: 40.8338 min
+
+Fold: 2, Epoch: 3, iters: 300/1337 | loss: 8.2436431 temp 8.2436431 wind 0.0000000 speed: 2.2412s/iter; left time: 38.7350 min
+
+Fold: 2, Epoch: 3, iters: 350/1337 | loss: 8.2290008 temp 8.2290008 wind 0.0000000 speed: 2.2017s/iter; left time: 36.2182 min
+
+Fold: 2, Epoch: 3, iters: 400/1337 | loss: 8.2362577 temp 8.2362577 wind 0.0000000 speed: 2.2257s/iter; left time: 34.7573 min
+
+Fold: 2, Epoch: 3, iters: 450/1337 | loss: 8.2170863 temp 8.2170863 wind 0.0000000 speed: 2.2521s/iter; left time: 33.2933 min
+
+Fold: 2, Epoch: 3, iters: 500/1337 | loss: 8.2207834 temp 8.2207834 wind 0.0000000 speed: 2.2257s/iter; left time: 31.0487 min
+
+Fold: 2, Epoch: 3, iters: 550/1337 | loss: 8.2303732 temp 8.2303732 wind 0.0000000 speed: 2.2451s/iter; left time: 29.4486 min
+
+Fold: 2, Epoch: 3, iters: 600/1337 | loss: 8.2341171 temp 8.2341171 wind 0.0000000 speed: 2.2038s/iter; left time: 27.0697 min
+
+Fold: 2, Epoch: 3, iters: 650/1337 | loss: 8.1827155 temp 8.1827155 wind 0.0000000 speed: 2.2541s/iter; left time: 25.8095 min
+
+Fold: 2, Epoch: 3, iters: 700/1337 | loss: 8.2059224 temp 8.2059224 wind 0.0000000 speed: 1.7412s/iter; left time: 18.4860 min
+
+Fold: 2, Epoch: 3, iters: 750/1337 | loss: 8.2042241 temp 8.2042241 wind 0.0000000 speed: 2.2259s/iter; left time: 21.7770 min
+
+Fold: 2, Epoch: 3, iters: 800/1337 | loss: 8.1905789 temp 8.1905789 wind 0.0000000 speed: 2.2155s/iter; left time: 19.8285 min
+
+Fold: 2, Epoch: 3, iters: 850/1337 | loss: 8.1827569 temp 8.1827569 wind 0.0000000 speed: 2.2245s/iter; left time: 18.0557 min
+
+Fold: 2, Epoch: 3, iters: 900/1337 | loss: 8.1803164 temp 8.1803164 wind 0.0000000 speed: 2.2169s/iter; left time: 16.1461 min
+
+Fold: 2, Epoch: 3, iters: 950/1337 | loss: 8.1583599 temp 8.1583599 wind 0.0000000 speed: 2.2156s/iter; left time: 14.2905 min
+
+Fold: 2, Epoch: 3, iters: 1000/1337 | loss: 8.1724765 temp 8.1724765 wind 0.0000000 speed: 2.2170s/iter; left time: 12.4523 min
+
+Fold: 2, Epoch: 3, iters: 1050/1337 | loss: 8.1828535 temp 8.1828535 wind 0.0000000 speed: 2.2221s/iter; left time: 10.6291 min
+
+Fold: 2, Epoch: 3, iters: 1100/1337 | loss: 8.1565857 temp 8.1565857 wind 0.0000000 speed: 2.2276s/iter; left time: 8.7989 min
+
+Fold: 2, Epoch: 3, iters: 1150/1337 | loss: 8.1367785 temp 8.1367785 wind 0.0000000 speed: 2.2062s/iter; left time: 6.8761 min
+
+Fold: 2, Epoch: 3, iters: 1200/1337 | loss: 8.1534348 temp 8.1534348 wind 0.0000000 speed: 2.2257s/iter; left time: 5.0821 min
+
+Fold: 2, Epoch: 3, iters: 1250/1337 | loss: 8.1494123 temp 8.1494123 wind 0.0000000 speed: 2.2106s/iter; left time: 3.2054 min
+
+Fold: 2, Epoch: 3, iters: 1300/1337 | loss: 8.1332504 temp 8.1332504 wind 0.0000000 speed: 2.2318s/iter; left time: 1.3763 min
+Epoch: 3 cost time: 2953.4597640037537	Fold: 2, Epoch: 3, Steps: 1337 | Train Loss: 8.2036184, Temp 8.2036184, Wind 0.0000000, Val Loss: 0.0000000 Temp 0.0000000 Wind 0.0000000
+Updating learning rate to 0.000125
+Namespace(seed=3407, model='iTransformer_iFlashFormer', clean_data=True, root_path='/home/mw/input/bdc_train9198/global/global', checkpoints='./best_model/', factor=1.0, train_val_size=0.95, k_fold=3, print_freq=50, n_experts=2, task='both', seq_len=168, pred_len=72, freq='h', enc_in=56, d_model=128, n_heads=8, e_layers=1, d_ff=64, dropout=0.1, activation='gelu', pretrain=False, pretrain_ckpt='', resume_epoch=0, num_workers=9, itr=1, train_epochs=3, batch_size=10240, learning_rate=0.001, lradj='type1', weight_decay=1e-06, use_gpu=True, gpu=0, use_multi_gpu=True, devices='0,1', device_ids=[0, 1])
+Use GPU: cuda:0
+
+Fold: 0, Epoch: 1, iters: 50/1337 | loss: 15.6483134 temp 12.1154159 wind 3.5328975 speed: 2.6890s/iter; left time: 177.5175 min
+
+Fold: 0, Epoch: 1, iters: 100/1337 | loss: 13.4774479 temp 10.1009336 wind 3.3765142 speed: 2.4652s/iter; left time: 160.6916 min
+
+Fold: 0, Epoch: 1, iters: 150/1337 | loss: 13.1617066 temp 9.8059889 wind 3.3557178 speed: 2.4557s/iter; left time: 158.0274 min
+
+Fold: 0, Epoch: 1, iters: 200/1337 | loss: 12.9719043 temp 9.6412588 wind 3.3306455 speed: 2.4581s/iter; left time: 156.1309 min
+
+Fold: 0, Epoch: 1, iters: 250/1337 | loss: 12.8078206 temp 9.5017617 wind 3.3060590 speed: 2.4487s/iter; left time: 153.4925 min
+
+Fold: 0, Epoch: 1, iters: 300/1337 | loss: 12.6866323 temp 9.3784925 wind 3.3081398 speed: 2.4523s/iter; left time: 151.6721 min
+
+Fold: 0, Epoch: 1, iters: 350/1337 | loss: 12.6114517 temp 9.3318751 wind 3.2795766 speed: 2.4641s/iter; left time: 150.3497 min
+
+Fold: 0, Epoch: 1, iters: 400/1337 | loss: 12.5416792 temp 9.2603563 wind 3.2813229 speed: 2.4465s/iter; left time: 147.2415 min
+
+Fold: 0, Epoch: 1, iters: 450/1337 | loss: 12.5174489 temp 9.2328790 wind 3.2845699 speed: 2.4491s/iter; left time: 145.3556 min
+
+Fold: 0, Epoch: 1, iters: 500/1337 | loss: 12.4368727 temp 9.1705058 wind 3.2663669 speed: 2.4602s/iter; left time: 143.9629 min
+
+Fold: 0, Epoch: 1, iters: 550/1337 | loss: 12.3463474 temp 9.0925395 wind 3.2538079 speed: 2.4598s/iter; left time: 141.8897 min
+
+Fold: 0, Epoch: 1, iters: 600/1337 | loss: 12.3396611 temp 9.0876474 wind 3.2520138 speed: 2.4645s/iter; left time: 140.1041 min
+
+Fold: 0, Epoch: 1, iters: 650/1337 | loss: 12.2693242 temp 9.0252693 wind 3.2440549 speed: 2.4568s/iter; left time: 137.6216 min
+
+Fold: 0, Epoch: 1, iters: 700/1337 | loss: 12.2396537 temp 9.0038437 wind 3.2358100 speed: 2.4557s/iter; left time: 135.5121 min
+
+Fold: 0, Epoch: 1, iters: 750/1337 | loss: 12.2113016 temp 8.9723384 wind 3.2389631 speed: 2.4542s/iter; left time: 133.3847 min
+
+Fold: 0, Epoch: 1, iters: 800/1337 | loss: 12.1520034 temp 8.9276452 wind 3.2243582 speed: 2.4635s/iter; left time: 131.8391 min
+
+Fold: 0, Epoch: 1, iters: 850/1337 | loss: 12.1556554 temp 8.9312475 wind 3.2244079 speed: 2.4327s/iter; left time: 128.1646 min
+
+Fold: 0, Epoch: 1, iters: 900/1337 | loss: 12.0974535 temp 8.8851883 wind 3.2122652 speed: 2.4551s/iter; left time: 127.2969 min
+
+Fold: 0, Epoch: 1, iters: 950/1337 | loss: 12.0674860 temp 8.8532247 wind 3.2142613 speed: 2.4515s/iter; left time: 125.0692 min
+
+Fold: 0, Epoch: 1, iters: 1000/1337 | loss: 12.0287368 temp 8.8276254 wind 3.2011115 speed: 2.4466s/iter; left time: 122.7772 min
+
+Fold: 0, Epoch: 1, iters: 1050/1337 | loss: 12.0415456 temp 8.8372414 wind 3.2043042 speed: 2.4766s/iter; left time: 122.2223 min
+
+Fold: 0, Epoch: 1, iters: 1100/1337 | loss: 11.9887324 temp 8.7942697 wind 3.1944627 speed: 2.4590s/iter; left time: 119.3043 min
+
+Fold: 0, Epoch: 1, iters: 1150/1337 | loss: 11.9699685 temp 8.7730918 wind 3.1968767 speed: 2.4501s/iter; left time: 116.8286 min
+
+Fold: 0, Epoch: 1, iters: 1200/1337 | loss: 11.9567605 temp 8.7648588 wind 3.1919017 speed: 2.4425s/iter; left time: 114.4332 min
+
+Fold: 0, Epoch: 1, iters: 1250/1337 | loss: 11.9295366 temp 8.7353767 wind 3.1941600 speed: 2.4637s/iter; left time: 113.3715 min
+
+Fold: 0, Epoch: 1, iters: 1300/1337 | loss: 11.8593578 temp 8.6812310 wind 3.1781268 speed: 2.4709s/iter; left time: 111.6424 min
+Epoch: 1 cost time: 3287.1359882354736	Fold: 0, Epoch: 1, Steps: 1337 | Train Loss: 12.4639410, Temp 9.2052144, Wind 3.2587266, Val Loss: 0.0000000 Temp 0.0000000 Wind 0.0000000
+Updating learning rate to 0.0005
+
+Fold: 0, Epoch: 2, iters: 50/1337 | loss: 11.7909061 temp 8.6217408 wind 3.1691653 speed: 4.4512s/iter; left time: 194.6673 min
+
+Fold: 0, Epoch: 2, iters: 100/1337 | loss: 11.7761242 temp 8.6060334 wind 3.1700907 speed: 2.4483s/iter; left time: 105.0336 min
+
+Fold: 0, Epoch: 2, iters: 150/1337 | loss: 11.7640817 temp 8.5980483 wind 3.1660334 speed: 2.4540s/iter; left time: 103.2324 min
+
+Fold: 0, Epoch: 2, iters: 200/1337 | loss: 11.7580049 temp 8.5855656 wind 3.1724393 speed: 2.4776s/iter; left time: 102.1599 min
+
+Fold: 0, Epoch: 2, iters: 250/1337 | loss: 11.7257502 temp 8.5648360 wind 3.1609142 speed: 2.4405s/iter; left time: 98.5966 min
+
+Fold: 0, Epoch: 2, iters: 300/1337 | loss: 11.7445427 temp 8.5818522 wind 3.1626905 speed: 2.4482s/iter; left time: 96.8686 min
+
+Fold: 0, Epoch: 2, iters: 350/1337 | loss: 11.6768855 temp 8.5150449 wind 3.1618406 speed: 2.4430s/iter; left time: 94.6238 min
+
+Fold: 0, Epoch: 2, iters: 400/1337 | loss: 11.6800897 temp 8.5306951 wind 3.1493946 speed: 2.4758s/iter; left time: 93.8338 min
+
+Fold: 0, Epoch: 2, iters: 450/1337 | loss: 11.6638678 temp 8.5062260 wind 3.1576417 speed: 2.4550s/iter; left time: 90.9977 min
+
+Fold: 0, Epoch: 2, iters: 500/1337 | loss: 11.6756160 temp 8.5189429 wind 3.1566730 speed: 2.4696s/iter; left time: 89.4827 min
+
+Fold: 0, Epoch: 2, iters: 550/1337 | loss: 11.6592459 temp 8.5068392 wind 3.1524067 speed: 2.4572s/iter; left time: 86.9837 min
+
+Fold: 0, Epoch: 2, iters: 600/1337 | loss: 11.6108249 temp 8.4606263 wind 3.1501986 speed: 2.4601s/iter; left time: 85.0390 min
+
+Fold: 0, Epoch: 2, iters: 650/1337 | loss: 11.6172468 temp 8.4684228 wind 3.1488240 speed: 2.4640s/iter; left time: 83.1185 min
+
+Fold: 0, Epoch: 2, iters: 700/1337 | loss: 11.5966238 temp 8.4485494 wind 3.1480744 speed: 2.4666s/iter; left time: 81.1495 min
+
+Fold: 0, Epoch: 2, iters: 750/1337 | loss: 11.5668409 temp 8.4300400 wind 3.1368009 speed: 2.4442s/iter; left time: 78.3768 min
+
+Fold: 0, Epoch: 2, iters: 800/1337 | loss: 11.5619419 temp 8.4217641 wind 3.1401777 speed: 2.4562s/iter; left time: 76.7141 min
+
+Fold: 0, Epoch: 2, iters: 850/1337 | loss: 11.5389160 temp 8.4009182 wind 3.1379978 speed: 2.4690s/iter; left time: 75.0577 min
+
+Fold: 0, Epoch: 2, iters: 900/1337 | loss: 11.5569211 temp 8.4177837 wind 3.1391374 speed: 2.4601s/iter; left time: 72.7365 min
+
+Fold: 0, Epoch: 2, iters: 950/1337 | loss: 11.5071402 temp 8.3747234 wind 3.1324169 speed: 2.4540s/iter; left time: 70.5126 min
+
+Fold: 0, Epoch: 2, iters: 1000/1337 | loss: 11.5227545 temp 8.3838816 wind 3.1388730 speed: 2.4215s/iter; left time: 67.5602 min
+
+Fold: 0, Epoch: 2, iters: 1050/1337 | loss: 11.5145109 temp 8.3844356 wind 3.1300752 speed: 2.4486s/iter; left time: 66.2753 min
+
+Fold: 0, Epoch: 2, iters: 1100/1337 | loss: 11.4799204 temp 8.3476247 wind 3.1322957 speed: 2.4607s/iter; left time: 64.5530 min
+
+Fold: 0, Epoch: 2, iters: 1150/1337 | loss: 11.4696719 temp 8.3326882 wind 3.1369837 speed: 2.4525s/iter; left time: 62.2935 min
+
+Fold: 0, Epoch: 2, iters: 1200/1337 | loss: 11.4721721 temp 8.3452290 wind 3.1269431 speed: 2.4505s/iter; left time: 60.1995 min
+
+Fold: 0, Epoch: 2, iters: 1250/1337 | loss: 11.4589619 temp 8.3295530 wind 3.1294088 speed: 2.4552s/iter; left time: 58.2705 min
+
+Fold: 0, Epoch: 2, iters: 1300/1337 | loss: 11.4323767 temp 8.3040234 wind 3.1283533 speed: 2.4630s/iter; left time: 56.4021 min
+Epoch: 2 cost time: 3285.531717300415	Fold: 0, Epoch: 2, Steps: 1337 | Train Loss: 11.6030555, Temp 8.4563726, Wind 3.1466829, Val Loss: 0.0000000 Temp 0.0000000 Wind 0.0000000
+Updating learning rate to 0.00025
+
+Fold: 0, Epoch: 3, iters: 50/1337 | loss: 11.3946925 temp 8.2770103 wind 3.1176823 speed: 4.4304s/iter; left time: 95.0331 min
+
+Fold: 0, Epoch: 3, iters: 100/1337 | loss: 11.3568430 temp 8.2414204 wind 3.1154226 speed: 2.4543s/iter; left time: 50.5988 min
+
+Fold: 0, Epoch: 3, iters: 150/1337 | loss: 11.3578512 temp 8.2454936 wind 3.1123576 speed: 2.4664s/iter; left time: 48.7934 min
+
+Fold: 0, Epoch: 3, iters: 200/1337 | loss: 11.3407537 temp 8.2240618 wind 3.1166919 speed: 2.4549s/iter; left time: 46.5198 min
+
+Fold: 0, Epoch: 3, iters: 250/1337 | loss: 11.3603413 temp 8.2429795 wind 3.1173619 speed: 2.4358s/iter; left time: 44.1287 min
+
+Fold: 0, Epoch: 3, iters: 300/1337 | loss: 11.3688820 temp 8.2476339 wind 3.1212480 speed: 2.4471s/iter; left time: 42.2938 min
+
+Fold: 0, Epoch: 3, iters: 350/1337 | loss: 11.3230327 temp 8.2176528 wind 3.1053799 speed: 2.4591s/iter; left time: 40.4520 min
+
+Fold: 0, Epoch: 3, iters: 400/1337 | loss: 11.3335283 temp 8.2198282 wind 3.1137001 speed: 2.4635s/iter; left time: 38.4720 min
+
+Fold: 0, Epoch: 3, iters: 450/1337 | loss: 11.3280717 temp 8.2160670 wind 3.1120048 speed: 2.4576s/iter; left time: 36.3321 min
+
+Fold: 0, Epoch: 3, iters: 500/1337 | loss: 11.3362735 temp 8.2266725 wind 3.1096010 speed: 2.4713s/iter; left time: 34.4740 min
+
+Fold: 0, Epoch: 3, iters: 550/1337 | loss: 11.3193932 temp 8.2112159 wind 3.1081772 speed: 2.4694s/iter; left time: 32.3906 min
+
+Fold: 0, Epoch: 3, iters: 600/1337 | loss: 11.3247537 temp 8.2100966 wind 3.1146570 speed: 2.4455s/iter; left time: 30.0394 min
+
+Fold: 0, Epoch: 3, iters: 650/1337 | loss: 11.2733903 temp 8.1708406 wind 3.1025497 speed: 2.4559s/iter; left time: 28.1197 min
+
+Fold: 0, Epoch: 3, iters: 700/1337 | loss: 11.3113131 temp 8.2027896 wind 3.1085235 speed: 2.4581s/iter; left time: 26.0973 min
+
+Fold: 0, Epoch: 3, iters: 750/1337 | loss: 11.2698520 temp 8.1659195 wind 3.1039325 speed: 2.4354s/iter; left time: 23.8266 min
+
+Fold: 0, Epoch: 3, iters: 800/1337 | loss: 11.2940425 temp 8.1855317 wind 3.1085108 speed: 2.4684s/iter; left time: 22.0923 min
+
+Fold: 0, Epoch: 3, iters: 850/1337 | loss: 11.2939071 temp 8.1871782 wind 3.1067289 speed: 2.4520s/iter; left time: 19.9023 min
+
+Fold: 0, Epoch: 3, iters: 900/1337 | loss: 11.2710564 temp 8.1615305 wind 3.1095259 speed: 2.4713s/iter; left time: 17.9990 min
+
+Fold: 0, Epoch: 3, iters: 950/1337 | loss: 11.2849979 temp 8.1772578 wind 3.1077401 speed: 2.4598s/iter; left time: 15.8658 min
+
+Fold: 0, Epoch: 3, iters: 1000/1337 | loss: 11.2496171 temp 8.1498001 wind 3.0998170 speed: 2.4622s/iter; left time: 13.8293 min
+
+Fold: 0, Epoch: 3, iters: 1050/1337 | loss: 11.2698302 temp 8.1673709 wind 3.1024593 speed: 2.4518s/iter; left time: 11.7280 min
+
+Fold: 0, Epoch: 3, iters: 1100/1337 | loss: 11.2735431 temp 8.1733342 wind 3.1002089 speed: 2.4694s/iter; left time: 9.7541 min
+
+Fold: 0, Epoch: 3, iters: 1150/1337 | loss: 11.2554391 temp 8.1525968 wind 3.1028423 speed: 2.4068s/iter; left time: 7.5011 min
+
+Fold: 0, Epoch: 3, iters: 1200/1337 | loss: 11.2299944 temp 8.1313122 wind 3.0986822 speed: 2.4570s/iter; left time: 5.6102 min
+
+Fold: 0, Epoch: 3, iters: 1250/1337 | loss: 11.2239687 temp 8.1245796 wind 3.0993892 speed: 2.4412s/iter; left time: 3.5397 min
+
+Fold: 0, Epoch: 3, iters: 1300/1337 | loss: 11.2286613 temp 8.1327223 wind 3.0959390 speed: 2.4524s/iter; left time: 1.5123 min
+Epoch: 3 cost time: 3282.6204936504364	Fold: 0, Epoch: 3, Steps: 1337 | Train Loss: 11.3006714, Temp 8.1929285, Wind 3.1077429, Val Loss: 0.0000000 Temp 0.0000000 Wind 0.0000000
+Updating learning rate to 0.000125
+
+Fold: 1, Epoch: 1, iters: 50/1337 | loss: 15.6443847 temp 12.1238670 wind 3.5205177 speed: 2.6251s/iter; left time: 173.3001 min
+
+Fold: 1, Epoch: 1, iters: 100/1337 | loss: 13.5657621 temp 10.1799505 wind 3.3858116 speed: 2.4460s/iter; left time: 159.4353 min
+
+Fold: 1, Epoch: 1, iters: 150/1337 | loss: 13.1671062 temp 9.8122609 wind 3.3548454 speed: 2.4616s/iter; left time: 158.4029 min
+
+Fold: 1, Epoch: 1, iters: 200/1337 | loss: 12.9853399 temp 9.6561080 wind 3.3292319 speed: 2.4476s/iter; left time: 155.4643 min
+
+Fold: 1, Epoch: 1, iters: 250/1337 | loss: 12.8710028 temp 9.5530937 wind 3.3179092 speed: 2.4558s/iter; left time: 153.9405 min
+
+Fold: 1, Epoch: 1, iters: 300/1337 | loss: 12.7254852 temp 9.4229066 wind 3.3025786 speed: 2.4705s/iter; left time: 152.8023 min
+
+Fold: 1, Epoch: 1, iters: 350/1337 | loss: 12.6621279 temp 9.3775640 wind 3.2845638 speed: 2.4640s/iter; left time: 150.3474 min
+
+Fold: 1, Epoch: 1, iters: 400/1337 | loss: 12.5424795 temp 9.2678803 wind 3.2745992 speed: 2.4498s/iter; left time: 147.4363 min
+
+Fold: 1, Epoch: 1, iters: 450/1337 | loss: 12.4898931 temp 9.2166996 wind 3.2731935 speed: 2.4730s/iter; left time: 146.7748 min
+
+Fold: 1, Epoch: 1, iters: 500/1337 | loss: 12.4193025 temp 9.1565439 wind 3.2627586 speed: 2.4668s/iter; left time: 144.3460 min
+
+Fold: 1, Epoch: 1, iters: 550/1337 | loss: 12.4129374 temp 9.1626249 wind 3.2503125 speed: 2.4625s/iter; left time: 142.0439 min
+
+Fold: 1, Epoch: 1, iters: 600/1337 | loss: 12.3577520 temp 9.1086283 wind 3.2491236 speed: 2.4722s/iter; left time: 140.5468 min
+
+Fold: 1, Epoch: 1, iters: 650/1337 | loss: 12.2779939 temp 9.0412202 wind 3.2367737 speed: 2.4369s/iter; left time: 136.5060 min
+
+Fold: 1, Epoch: 1, iters: 700/1337 | loss: 12.2582319 temp 9.0148978 wind 3.2433340 speed: 2.4622s/iter; left time: 135.8714 min
+
+Fold: 1, Epoch: 1, iters: 750/1337 | loss: 12.2028872 temp 8.9757516 wind 3.2271356 speed: 2.4691s/iter; left time: 134.1960 min
+
+Fold: 1, Epoch: 1, iters: 800/1337 | loss: 12.1808827 temp 8.9543802 wind 3.2265026 speed: 2.4701s/iter; left time: 132.1910 min
+
+Fold: 1, Epoch: 1, iters: 850/1337 | loss: 12.1665919 temp 8.9470518 wind 3.2195400 speed: 2.4569s/iter; left time: 129.4394 min
+
+Fold: 1, Epoch: 1, iters: 900/1337 | loss: 12.1127934 temp 8.8981486 wind 3.2146448 speed: 2.4523s/iter; left time: 127.1526 min
+
+Fold: 1, Epoch: 1, iters: 950/1337 | loss: 12.0803031 temp 8.8686081 wind 3.2116950 speed: 2.4692s/iter; left time: 125.9685 min
+
+Fold: 1, Epoch: 1, iters: 1000/1337 | loss: 12.0745081 temp 8.8686873 wind 3.2058209 speed: 2.4638s/iter; left time: 123.6426 min
+
+Fold: 1, Epoch: 1, iters: 1050/1337 | loss: 12.0074232 temp 8.8127681 wind 3.1946551 speed: 2.4733s/iter; left time: 122.0562 min
+
+Fold: 1, Epoch: 1, iters: 1100/1337 | loss: 11.9967564 temp 8.7983901 wind 3.1983664 speed: 2.4730s/iter; left time: 119.9826 min
+
+Fold: 1, Epoch: 1, iters: 1150/1337 | loss: 11.9545277 temp 8.7614746 wind 3.1930531 speed: 2.4535s/iter; left time: 116.9928 min
+
+Fold: 1, Epoch: 1, iters: 1200/1337 | loss: 11.9325761 temp 8.7415343 wind 3.1910418 speed: 2.4776s/iter; left time: 116.0749 min
+
+Fold: 1, Epoch: 1, iters: 1250/1337 | loss: 11.9370879 temp 8.7547831 wind 3.1823048 speed: 2.4591s/iter; left time: 113.1580 min
+
+Fold: 1, Epoch: 1, iters: 1300/1337 | loss: 11.8999420 temp 8.7115987 wind 3.1883432 speed: 2.4230s/iter; left time: 109.4814 min
+Epoch: 1 cost time: 3289.884297609329	Fold: 1, Epoch: 1, Steps: 1337 | Train Loss: 12.4798654, Temp 9.2229429, Wind 3.2569225, Val Loss: 0.0000000 Temp 0.0000000 Wind 0.0000000
+Updating learning rate to 0.0005
+
+Fold: 1, Epoch: 2, iters: 50/1337 | loss: 11.8206535 temp 8.6464542 wind 3.1741994 speed: 4.4422s/iter; left time: 194.2733 min
+
+Fold: 1, Epoch: 2, iters: 100/1337 | loss: 11.8004488 temp 8.6266571 wind 3.1737917 speed: 2.4487s/iter; left time: 105.0513 min
+
+Fold: 1, Epoch: 2, iters: 150/1337 | loss: 11.7576811 temp 8.5949913 wind 3.1626898 speed: 2.4822s/iter; left time: 104.4175 min
+
+Fold: 1, Epoch: 2, iters: 200/1337 | loss: 11.7513606 temp 8.5880671 wind 3.1632935 speed: 2.4688s/iter; left time: 101.7960 min
+
+Fold: 1, Epoch: 2, iters: 250/1337 | loss: 11.7249656 temp 8.5564028 wind 3.1685628 speed: 2.4479s/iter; left time: 98.8936 min
+
+Fold: 1, Epoch: 2, iters: 300/1337 | loss: 11.7081716 temp 8.5504548 wind 3.1577168 speed: 2.4837s/iter; left time: 98.2704 min
+
+Fold: 1, Epoch: 2, iters: 350/1337 | loss: 11.6957357 temp 8.5365480 wind 3.1591877 speed: 2.4693s/iter; left time: 95.6444 min
+
+Fold: 1, Epoch: 2, iters: 400/1337 | loss: 11.6892509 temp 8.5372673 wind 3.1519835 speed: 2.4465s/iter; left time: 92.7208 min
+
+Fold: 1, Epoch: 2, iters: 450/1337 | loss: 11.6701641 temp 8.5119851 wind 3.1581790 speed: 2.4651s/iter; left time: 91.3721 min
+
+Fold: 1, Epoch: 2, iters: 500/1337 | loss: 11.6765413 temp 8.5232311 wind 3.1533102 speed: 2.4711s/iter; left time: 89.5371 min
+
+Fold: 1, Epoch: 2, iters: 550/1337 | loss: 11.6673505 temp 8.5131580 wind 3.1541925 speed: 2.4604s/iter; left time: 87.0995 min
+
+Fold: 1, Epoch: 2, iters: 600/1337 | loss: 11.6217476 temp 8.4750750 wind 3.1466726 speed: 2.4644s/iter; left time: 85.1866 min
+
+Fold: 1, Epoch: 2, iters: 650/1337 | loss: 11.6071684 temp 8.4681977 wind 3.1389707 speed: 2.4694s/iter; left time: 83.3001 min
+
+Fold: 1, Epoch: 2, iters: 700/1337 | loss: 11.6095133 temp 8.4594191 wind 3.1500941 speed: 2.4532s/iter; left time: 80.7110 min
+
+Fold: 1, Epoch: 2, iters: 750/1337 | loss: 11.6140966 temp 8.4696631 wind 3.1444335 speed: 2.4727s/iter; left time: 79.2919 min
+
+Fold: 1, Epoch: 2, iters: 800/1337 | loss: 11.5854952 temp 8.4468851 wind 3.1386101 speed: 2.4523s/iter; left time: 76.5933 min
+
+Fold: 1, Epoch: 2, iters: 850/1337 | loss: 11.5926306 temp 8.4459777 wind 3.1466529 speed: 2.4606s/iter; left time: 74.8028 min
+
+Fold: 1, Epoch: 2, iters: 900/1337 | loss: 11.5501156 temp 8.4185276 wind 3.1315880 speed: 2.4637s/iter; left time: 72.8424 min
+
+Fold: 1, Epoch: 2, iters: 950/1337 | loss: 11.5498505 temp 8.4181249 wind 3.1317256 speed: 2.4486s/iter; left time: 70.3559 min
+
+Fold: 1, Epoch: 2, iters: 1000/1337 | loss: 11.5071774 temp 8.3758453 wind 3.1313322 speed: 2.4496s/iter; left time: 68.3442 min
+
+Fold: 1, Epoch: 2, iters: 1050/1337 | loss: 11.5470481 temp 8.4078006 wind 3.1392475 speed: 2.4618s/iter; left time: 66.6334 min
+
+Fold: 1, Epoch: 2, iters: 1100/1337 | loss: 11.5197607 temp 8.3903249 wind 3.1294358 speed: 2.4544s/iter; left time: 64.3875 min
+
+Fold: 1, Epoch: 2, iters: 1150/1337 | loss: 11.4993921 temp 8.3708034 wind 3.1285886 speed: 2.4673s/iter; left time: 62.6682 min
+
+Fold: 1, Epoch: 2, iters: 1200/1337 | loss: 11.4862819 temp 8.3557345 wind 3.1305474 speed: 2.4656s/iter; left time: 60.5722 min
+
+Fold: 1, Epoch: 2, iters: 1250/1337 | loss: 11.4763970 temp 8.3441816 wind 3.1322154 speed: 2.4551s/iter; left time: 58.2677 min
+
+Fold: 1, Epoch: 2, iters: 1300/1337 | loss: 11.4727697 temp 8.3466255 wind 3.1261442 speed: 2.4744s/iter; left time: 56.6648 min
+Epoch: 2 cost time: 3292.394191980362	Fold: 1, Epoch: 2, Steps: 1337 | Train Loss: 11.6185688, Temp 8.4720412, Wind 3.1465276, Val Loss: 0.0000000 Temp 0.0000000 Wind 0.0000000
+Updating learning rate to 0.00025
+
+Fold: 1, Epoch: 3, iters: 50/1337 | loss: 11.4036155 temp 8.2831801 wind 3.1204354 speed: 4.4212s/iter; left time: 94.8352 min
+
+Fold: 1, Epoch: 3, iters: 100/1337 | loss: 11.3981779 temp 8.2780599 wind 3.1201180 speed: 2.4214s/iter; left time: 49.9205 min
+
+Fold: 1, Epoch: 3, iters: 150/1337 | loss: 11.4024326 temp 8.2828407 wind 3.1195918 speed: 2.4424s/iter; left time: 48.3182 min
+
+Fold: 1, Epoch: 3, iters: 200/1337 | loss: 11.3779396 temp 8.2604535 wind 3.1174861 speed: 2.4493s/iter; left time: 46.4149 min
+
+Fold: 1, Epoch: 3, iters: 250/1337 | loss: 11.3680930 temp 8.2549368 wind 3.1131563 speed: 2.4643s/iter; left time: 44.6443 min
+
+Fold: 1, Epoch: 3, iters: 300/1337 | loss: 11.3818680 temp 8.2691017 wind 3.1127663 speed: 2.4480s/iter; left time: 42.3100 min
+
+Fold: 1, Epoch: 3, iters: 350/1337 | loss: 11.3549135 temp 8.2438865 wind 3.1110270 speed: 2.4455s/iter; left time: 40.2282 min
+
+Fold: 1, Epoch: 3, iters: 400/1337 | loss: 11.3482848 temp 8.2381549 wind 3.1101299 speed: 2.4630s/iter; left time: 38.4642 min
+
+Fold: 1, Epoch: 3, iters: 450/1337 | loss: 11.3272804 temp 8.2189642 wind 3.1083162 speed: 2.4689s/iter; left time: 36.4985 min
+
+Fold: 1, Epoch: 3, iters: 500/1337 | loss: 11.3495035 temp 8.2333449 wind 3.1161586 speed: 2.4655s/iter; left time: 34.3937 min
+
+Fold: 1, Epoch: 3, iters: 550/1337 | loss: 11.3398664 temp 8.2296705 wind 3.1101960 speed: 2.4519s/iter; left time: 32.1601 min
+
+Fold: 1, Epoch: 3, iters: 600/1337 | loss: 11.3390284 temp 8.2281331 wind 3.1108953 speed: 2.4744s/iter; left time: 30.3938 min
+
+Fold: 1, Epoch: 3, iters: 650/1337 | loss: 11.3270367 temp 8.2232377 wind 3.1037990 speed: 2.4589s/iter; left time: 28.1546 min
+
+Fold: 1, Epoch: 3, iters: 700/1337 | loss: 11.3183652 temp 8.2045288 wind 3.1138364 speed: 2.4624s/iter; left time: 26.1420 min
+
+Fold: 1, Epoch: 3, iters: 750/1337 | loss: 11.3098617 temp 8.2050043 wind 3.1048574 speed: 2.4469s/iter; left time: 23.9389 min
+
+Fold: 1, Epoch: 3, iters: 800/1337 | loss: 11.2945729 temp 8.1922053 wind 3.1023677 speed: 2.4526s/iter; left time: 21.9512 min
+
+Fold: 1, Epoch: 3, iters: 850/1337 | loss: 11.2956495 temp 8.1973466 wind 3.0983029 speed: 2.4530s/iter; left time: 19.9099 min
+
+Fold: 1, Epoch: 3, iters: 900/1337 | loss: 11.2996685 temp 8.1940084 wind 3.1056602 speed: 2.4770s/iter; left time: 18.0405 min
+
+Fold: 1, Epoch: 3, iters: 950/1337 | loss: 11.2735864 temp 8.1657246 wind 3.1078618 speed: 2.4558s/iter; left time: 15.8397 min
+
+Fold: 1, Epoch: 3, iters: 1000/1337 | loss: 11.2911118 temp 8.1900530 wind 3.1010589 speed: 2.4558s/iter; left time: 13.7936 min
+
+Fold: 1, Epoch: 3, iters: 1050/1337 | loss: 11.2714186 temp 8.1647106 wind 3.1067079 speed: 2.4641s/iter; left time: 11.7867 min
+
+Fold: 1, Epoch: 3, iters: 1100/1337 | loss: 11.2568123 temp 8.1613486 wind 3.0954637 speed: 2.4663s/iter; left time: 9.7421 min
+
+Fold: 1, Epoch: 3, iters: 1150/1337 | loss: 11.2381332 temp 8.1355511 wind 3.1025821 speed: 2.4558s/iter; left time: 7.6539 min
+
+Fold: 1, Epoch: 3, iters: 1200/1337 | loss: 11.2874581 temp 8.1861525 wind 3.1013056 speed: 2.4565s/iter; left time: 5.6091 min
+
+Fold: 1, Epoch: 3, iters: 1250/1337 | loss: 11.2382710 temp 8.1348034 wind 3.1034676 speed: 2.4626s/iter; left time: 3.5708 min
+
+Fold: 1, Epoch: 3, iters: 1300/1337 | loss: 11.2332358 temp 8.1356831 wind 3.0975527 speed: 2.4689s/iter; left time: 1.5225 min
+Epoch: 3 cost time: 3286.2429337501526	Fold: 1, Epoch: 3, Steps: 1337 | Train Loss: 11.3185158, Temp 8.2104523, Wind 3.1080635, Val Loss: 0.0000000 Temp 0.0000000 Wind 0.0000000
+Updating learning rate to 0.000125
+
+Fold: 2, Epoch: 1, iters: 50/1337 | loss: 15.5003008 temp 11.9801662 wind 3.5201345 speed: 2.6058s/iter; left time: 172.0289 min
+
+Fold: 2, Epoch: 1, iters: 100/1337 | loss: 13.5544813 temp 10.1702332 wind 3.3842482 speed: 2.4380s/iter; left time: 158.9200 min
+
+Fold: 2, Epoch: 1, iters: 150/1337 | loss: 13.2166061 temp 9.8711352 wind 3.3454709 speed: 2.4619s/iter; left time: 158.4202 min
+
+Fold: 2, Epoch: 1, iters: 200/1337 | loss: 13.0087381 temp 9.6801566 wind 3.3285816 speed: 2.4554s/iter; left time: 155.9587 min
+
+Fold: 2, Epoch: 1, iters: 250/1337 | loss: 12.8927315 temp 9.5792783 wind 3.3134532 speed: 2.4214s/iter; left time: 151.7790 min
+
+Fold: 2, Epoch: 1, iters: 300/1337 | loss: 12.7484512 temp 9.4488514 wind 3.2995998 speed: 2.4655s/iter; left time: 152.4935 min
+
+Fold: 2, Epoch: 1, iters: 350/1337 | loss: 12.6639479 temp 9.3681734 wind 3.2957745 speed: 2.4612s/iter; left time: 150.1771 min
+
+Fold: 2, Epoch: 1, iters: 400/1337 | loss: 12.5763868 temp 9.2975040 wind 3.2788828 speed: 2.4599s/iter; left time: 148.0426 min
+
+Fold: 2, Epoch: 1, iters: 450/1337 | loss: 12.5236067 temp 9.2582065 wind 3.2654002 speed: 2.4507s/iter; left time: 145.4463 min
+
+Fold: 2, Epoch: 1, iters: 500/1337 | loss: 12.4688453 temp 9.2032721 wind 3.2655731 speed: 2.4499s/iter; left time: 143.3578 min
+
+Fold: 2, Epoch: 1, iters: 550/1337 | loss: 12.4103739 temp 9.1536920 wind 3.2566819 speed: 2.4506s/iter; left time: 141.3574 min
+
+Fold: 2, Epoch: 1, iters: 600/1337 | loss: 12.3516141 temp 9.1015775 wind 3.2500366 speed: 2.4577s/iter; left time: 139.7218 min
+
+Fold: 2, Epoch: 1, iters: 650/1337 | loss: 12.2670240 temp 9.0305045 wind 3.2365196 speed: 2.4491s/iter; left time: 137.1922 min
+
+Fold: 2, Epoch: 1, iters: 700/1337 | loss: 12.2860603 temp 9.0475021 wind 3.2385583 speed: 2.4888s/iter; left time: 137.3413 min
+
+Fold: 2, Epoch: 1, iters: 750/1337 | loss: 12.2410688 temp 9.0062750 wind 3.2347937 speed: 2.4647s/iter; left time: 133.9547 min
+
+Fold: 2, Epoch: 1, iters: 800/1337 | loss: 12.2213474 temp 8.9863862 wind 3.2349613 speed: 2.4672s/iter; left time: 132.0379 min
+
+Fold: 2, Epoch: 1, iters: 850/1337 | loss: 12.1790727 temp 8.9572685 wind 3.2218042 speed: 2.4694s/iter; left time: 130.0980 min
+
+Fold: 2, Epoch: 1, iters: 900/1337 | loss: 12.1276293 temp 8.9049404 wind 3.2226890 speed: 2.4584s/iter; left time: 127.4680 min
+
+Fold: 2, Epoch: 1, iters: 950/1337 | loss: 12.0856332 temp 8.8722578 wind 3.2133755 speed: 2.4595s/iter; left time: 125.4732 min
+
+Fold: 2, Epoch: 1, iters: 1000/1337 | loss: 12.0818304 temp 8.8713765 wind 3.2104540 speed: 2.4649s/iter; left time: 123.6957 min
+
+Fold: 2, Epoch: 1, iters: 1050/1337 | loss: 12.0183011 temp 8.8177424 wind 3.2005587 speed: 2.4526s/iter; left time: 121.0350 min
+
+Fold: 2, Epoch: 1, iters: 1100/1337 | loss: 11.9980173 temp 8.7990224 wind 3.1989948 speed: 2.4464s/iter; left time: 118.6899 min
+
+Fold: 2, Epoch: 1, iters: 1150/1337 | loss: 11.9601597 temp 8.7651213 wind 3.1950384 speed: 2.4681s/iter; left time: 117.6872 min
+
+Fold: 2, Epoch: 1, iters: 1200/1337 | loss: 11.9556833 temp 8.7716579 wind 3.1840254 speed: 2.4588s/iter; left time: 115.1951 min
+
+Fold: 2, Epoch: 1, iters: 1250/1337 | loss: 11.9315246 temp 8.7433337 wind 3.1881908 speed: 2.4406s/iter; left time: 112.3102 min
+
+Fold: 2, Epoch: 1, iters: 1300/1337 | loss: 11.9012113 temp 8.7140699 wind 3.1871413 speed: 2.4728s/iter; left time: 111.7312 min
+Epoch: 1 cost time: 3285.0167620182037	Fold: 2, Epoch: 1, Steps: 1337 | Train Loss: 12.4899454, Temp 9.2317790, Wind 3.2581664, Val Loss: 0.0000000 Temp 0.0000000 Wind 0.0000000
+Updating learning rate to 0.0005
+
+Fold: 2, Epoch: 2, iters: 50/1337 | loss: 11.8538019 temp 8.6796643 wind 3.1741377 speed: 4.4342s/iter; left time: 193.9218 min
+
+Fold: 2, Epoch: 2, iters: 100/1337 | loss: 11.8061103 temp 8.6310968 wind 3.1750136 speed: 2.4345s/iter; left time: 104.4410 min
+
+Fold: 2, Epoch: 2, iters: 150/1337 | loss: 11.7941270 temp 8.6305846 wind 3.1635424 speed: 2.4475s/iter; left time: 102.9580 min
+
+Fold: 2, Epoch: 2, iters: 200/1337 | loss: 11.7624290 temp 8.5993302 wind 3.1630989 speed: 2.4588s/iter; left time: 101.3837 min
+
+Fold: 2, Epoch: 2, iters: 250/1337 | loss: 11.7609309 temp 8.5900197 wind 3.1709110 speed: 2.4525s/iter; left time: 99.0803 min
+
+Fold: 2, Epoch: 2, iters: 300/1337 | loss: 11.7301525 temp 8.5751027 wind 3.1550497 speed: 2.4575s/iter; left time: 97.2342 min
+
+Fold: 2, Epoch: 2, iters: 350/1337 | loss: 11.7309580 temp 8.5689281 wind 3.1620298 speed: 2.4640s/iter; left time: 95.4385 min
+
+Fold: 2, Epoch: 2, iters: 400/1337 | loss: 11.7025113 temp 8.5478557 wind 3.1546556 speed: 2.4565s/iter; left time: 93.1013 min
+
+Fold: 2, Epoch: 2, iters: 450/1337 | loss: 11.7105207 temp 8.5584893 wind 3.1520315 speed: 2.4468s/iter; left time: 90.6952 min
+
+Fold: 2, Epoch: 2, iters: 500/1337 | loss: 11.6999933 temp 8.5390785 wind 3.1609149 speed: 2.4666s/iter; left time: 89.3738 min
+
+Fold: 2, Epoch: 2, iters: 550/1337 | loss: 11.6596070 temp 8.5046516 wind 3.1549555 speed: 2.4566s/iter; left time: 86.9647 min
+
+Fold: 2, Epoch: 2, iters: 650/1337 | loss: 11.6361020 temp 8.4833172 wind 3.1527848 speed: 2.4606s/iter; left time: 83.0049 min
+
+Fold: 2, Epoch: 2, iters: 700/1337 | loss: 11.6204161 temp 8.4721313 wind 3.1482849 speed: 2.4740s/iter; left time: 81.3933 min
+
+Fold: 2, Epoch: 2, iters: 750/1337 | loss: 11.6425868 temp 8.4905050 wind 3.1520817 speed: 2.4524s/iter; left time: 78.6417 min
+
+Fold: 2, Epoch: 2, iters: 800/1337 | loss: 11.6086106 temp 8.4570795 wind 3.1515311 speed: 2.4676s/iter; left time: 77.0724 min
+
+Fold: 2, Epoch: 2, iters: 850/1337 | loss: 11.5861071 temp 8.4414869 wind 3.1446201 speed: 2.4583s/iter; left time: 74.7317 min
+
+Fold: 2, Epoch: 2, iters: 900/1337 | loss: 11.5966936 temp 8.4568281 wind 3.1398655 speed: 2.4476s/iter; left time: 72.3688 min
+
+Fold: 2, Epoch: 2, iters: 950/1337 | loss: 11.5590382 temp 8.4190048 wind 3.1400334 speed: 2.4645s/iter; left time: 70.8141 min
+
+Fold: 2, Epoch: 2, iters: 1000/1337 | loss: 11.5709779 temp 8.4294035 wind 3.1415744 speed: 2.4654s/iter; left time: 68.7838 min
+
+Fold: 2, Epoch: 2, iters: 1050/1337 | loss: 11.5485369 temp 8.4109259 wind 3.1376110 speed: 2.4645s/iter; left time: 66.7058 min
+
+Fold: 2, Epoch: 2, iters: 1100/1337 | loss: 11.5482365 temp 8.4095085 wind 3.1387280 speed: 2.4371s/iter; left time: 63.9327 min
+
+Fold: 2, Epoch: 2, iters: 1150/1337 | loss: 11.5168800 temp 8.3822958 wind 3.1345843 speed: 2.4696s/iter; left time: 62.7268 min
+
+Fold: 2, Epoch: 2, iters: 1200/1337 | loss: 11.4865191 temp 8.3507934 wind 3.1357257 speed: 2.4669s/iter; left time: 60.6041 min
+
+Fold: 2, Epoch: 2, iters: 1250/1337 | loss: 11.4989254 temp 8.3748948 wind 3.1240306 speed: 2.4623s/iter; left time: 58.4380 min
+
+Fold: 2, Epoch: 2, iters: 1300/1337 | loss: 11.5083618 temp 8.3732584 wind 3.1351035 speed: 2.4615s/iter; left time: 56.3685 min
+Epoch: 2 cost time: 3286.523481607437	Fold: 2, Epoch: 2, Steps: 1337 | Train Loss: 11.6412496, Temp 8.4912221, Wind 3.1500275, Val Loss: 0.0000000 Temp 0.0000000 Wind 0.0000000
+Updating learning rate to 0.00025
+
+Fold: 2, Epoch: 3, iters: 50/1337 | loss: 11.4079011 temp 8.2900875 wind 3.1178137 speed: 4.4609s/iter; left time: 95.6869 min
+
+Fold: 2, Epoch: 3, iters: 100/1337 | loss: 11.4252483 temp 8.3056398 wind 3.1196084 speed: 2.4883s/iter; left time: 51.2996 min
+
+Fold: 2, Epoch: 3, iters: 150/1337 | loss: 11.3949098 temp 8.2803552 wind 3.1145546 speed: 2.4411s/iter; left time: 48.2934 min
+
+Fold: 2, Epoch: 3, iters: 200/1337 | loss: 11.4201129 temp 8.2985526 wind 3.1215603 speed: 2.4477s/iter; left time: 46.3839 min
+
+Fold: 2, Epoch: 3, iters: 250/1337 | loss: 11.4138768 temp 8.2977633 wind 3.1161135 speed: 2.4623s/iter; left time: 44.6093 min
+
+Fold: 2, Epoch: 3, iters: 300/1337 | loss: 11.3872690 temp 8.2673693 wind 3.1198997 speed: 2.4608s/iter; left time: 42.5310 min
+
+Fold: 2, Epoch: 3, iters: 350/1337 | loss: 11.3654407 temp 8.2508534 wind 3.1145873 speed: 2.4682s/iter; left time: 40.6013 min
+
+Fold: 2, Epoch: 3, iters: 400/1337 | loss: 11.3630496 temp 8.2525644 wind 3.1104852 speed: 2.4619s/iter; left time: 38.4463 min
+
+Fold: 2, Epoch: 3, iters: 450/1337 | loss: 11.3478307 temp 8.2388835 wind 3.1089473 speed: 2.4424s/iter; left time: 36.1064 min
+
+Fold: 2, Epoch: 3, iters: 500/1337 | loss: 11.3455416 temp 8.2268670 wind 3.1186747 speed: 2.4412s/iter; left time: 34.0548 min
+
+Fold: 2, Epoch: 3, iters: 550/1337 | loss: 11.3651564 temp 8.2532787 wind 3.1118777 speed: 2.4433s/iter; left time: 32.0486 min
+
+Fold: 2, Epoch: 3, iters: 600/1337 | loss: 11.3734813 temp 8.2572993 wind 3.1161820 speed: 2.4556s/iter; left time: 30.1630 min
+
+Fold: 2, Epoch: 3, iters: 650/1337 | loss: 11.3623967 temp 8.2517281 wind 3.1106685 speed: 2.4804s/iter; left time: 28.4003 min
+
+Fold: 2, Epoch: 3, iters: 700/1337 | loss: 11.3423133 temp 8.2293723 wind 3.1129410 speed: 2.4479s/iter; left time: 25.9886 min
+
+Fold: 2, Epoch: 3, iters: 750/1337 | loss: 11.3460851 temp 8.2325626 wind 3.1135226 speed: 2.4687s/iter; left time: 24.1517 min
+
+Fold: 2, Epoch: 3, iters: 800/1337 | loss: 11.3195336 temp 8.2090660 wind 3.1104675 speed: 2.4560s/iter; left time: 21.9809 min
+
+Fold: 2, Epoch: 3, iters: 850/1337 | loss: 11.3404984 temp 8.2296001 wind 3.1108983 speed: 2.4628s/iter; left time: 19.9899 min
+
+Fold: 2, Epoch: 3, iters: 900/1337 | loss: 11.3202398 temp 8.2078187 wind 3.1124211 speed: 2.4501s/iter; left time: 17.8449 min
+
+Fold: 2, Epoch: 3, iters: 950/1337 | loss: 11.3365794 temp 8.2264148 wind 3.1101647 speed: 2.4576s/iter; left time: 15.8512 min
+
+Fold: 2, Epoch: 3, iters: 1000/1337 | loss: 11.3135396 temp 8.2003917 wind 3.1131478 speed: 2.4625s/iter; left time: 13.8308 min
+
+Fold: 2, Epoch: 3, iters: 1050/1337 | loss: 11.2948586 temp 8.1957112 wind 3.0991474 speed: 2.4524s/iter; left time: 11.7309 min
+
+Fold: 2, Epoch: 3, iters: 1100/1337 | loss: 11.3026889 temp 8.1925537 wind 3.1101352 speed: 2.4526s/iter; left time: 9.6877 min
+
+Fold: 2, Epoch: 3, iters: 1150/1337 | loss: 11.3091891 temp 8.2015911 wind 3.1075981 speed: 2.4547s/iter; left time: 7.6504 min
+
+Fold: 2, Epoch: 3, iters: 1200/1337 | loss: 11.2997357 temp 8.1959768 wind 3.1037589 speed: 2.4703s/iter; left time: 5.6406 min
+
+Fold: 2, Epoch: 3, iters: 1250/1337 | loss: 11.2853742 temp 8.1859257 wind 3.0994485 speed: 2.4757s/iter; left time: 3.5897 min
+
+Fold: 2, Epoch: 3, iters: 1300/1337 | loss: 11.2682656 temp 8.1565033 wind 3.1117623 speed: 2.4522s/iter; left time: 1.5122 min
+Epoch: 3 cost time: 3288.9280564785004	Fold: 2, Epoch: 3, Steps: 1337 | Train Loss: 11.3466645, Temp 8.2346146, Wind 3.1120499, Val Loss: 0.0000000 Temp 0.0000000 Wind 0.0000000
+Updating learning rate to 0.000125

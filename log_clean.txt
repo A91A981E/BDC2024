@@ -1,0 +1,1938 @@
+Use GPU: cuda:0
+
+Fold: 0, Epoch: 1, iters: 50/1334 | speed: 2.7243s/iter; left time: 179.4434 min
+
+Fold: 0, Epoch: 1, iters: 100/1334 | speed: 2.6115s/iter; left time: 169.8359 min
+
+Fold: 0, Epoch: 1, iters: 150/1334 | speed: 2.5620s/iter; left time: 164.4803 min
+
+Fold: 0, Epoch: 1, iters: 200/1334 | speed: 2.5357s/iter; left time: 160.6774 min
+
+Fold: 0, Epoch: 1, iters: 250/1334 | speed: 2.5245s/iter; left time: 157.8626 min
+
+Fold: 0, Epoch: 1, iters: 300/1334 | speed: 2.5132s/iter; left time: 155.0673 min
+
+Fold: 0, Epoch: 1, iters: 350/1334 | speed: 2.5065s/iter; left time: 152.5595 min
+
+Fold: 0, Epoch: 1, iters: 400/1334 | speed: 2.5027s/iter; left time: 150.2439 min
+
+Fold: 0, Epoch: 1, iters: 450/1334 | speed: 2.4983s/iter; left time: 147.8997 min
+
+Fold: 0, Epoch: 1, iters: 500/1334 | speed: 2.4985s/iter; left time: 145.8287 min
+
+Fold: 0, Epoch: 1, iters: 550/1334 | speed: 2.4941s/iter; left time: 143.4952 min
+
+Fold: 0, Epoch: 1, iters: 600/1334 | speed: 2.4930s/iter; left time: 141.3547 min
+
+Fold: 0, Epoch: 1, iters: 650/1334 | speed: 2.4905s/iter; left time: 139.1379 min
+
+Fold: 0, Epoch: 1, iters: 700/1334 | speed: 2.4897s/iter; left time: 137.0186 min
+
+Fold: 0, Epoch: 1, iters: 750/1334 | speed: 2.4879s/iter; left time: 134.8440 min
+
+Fold: 0, Epoch: 1, iters: 800/1334 | speed: 2.4874s/iter; left time: 132.7468 min
+
+Fold: 0, Epoch: 1, iters: 850/1334 | speed: 2.4861s/iter; left time: 130.6018 min
+
+Fold: 0, Epoch: 1, iters: 900/1334 | speed: 2.4856s/iter; left time: 128.5075 min
+
+Fold: 0, Epoch: 1, iters: 950/1334 | speed: 2.4860s/iter; left time: 126.4547 min
+
+Fold: 0, Epoch: 1, iters: 1000/1334 | speed: 2.4848s/iter; left time: 124.3217 min
+
+Fold: 0, Epoch: 1, iters: 1050/1334 | speed: 2.4847s/iter; left time: 122.2489 min
+
+Fold: 0, Epoch: 1, iters: 1100/1334 | speed: 2.4848s/iter; left time: 120.1798 min
+
+Fold: 0, Epoch: 1, iters: 1150/1334 | speed: 2.4858s/iter; left time: 118.1579 min
+
+Fold: 0, Epoch: 1, iters: 1200/1334 | speed: 2.4855s/iter; left time: 116.0716 min
+
+Fold: 0, Epoch: 1, iters: 1250/1334 | speed: 2.4854s/iter; left time: 113.9962 min
+
+Fold: 0, Epoch: 1, iters: 1300/1334 | speed: 2.4848s/iter; left time: 111.8991 min
+Epoch: 1 cost time: 3307.5337586402893Updating learning rate to 0.0005
+
+Fold: 0, Epoch: 2, iters: 50/1334 | speed: 68.9745s/iter; left time: 3009.5880 min
+
+Fold: 0, Epoch: 2, iters: 100/1334 | speed: 35.7378s/iter; left time: 1529.5765 min
+
+Fold: 0, Epoch: 2, iters: 150/1334 | speed: 24.6617s/iter; left time: 1034.9696 min
+
+Fold: 0, Epoch: 2, iters: 200/1334 | speed: 19.1142s/iter; left time: 786.2324 min
+
+Fold: 0, Epoch: 2, iters: 250/1334 | speed: 15.7898s/iter; left time: 636.3272 min
+
+Fold: 0, Epoch: 2, iters: 300/1334 | speed: 13.5676s/iter; left time: 535.4660 min
+
+Fold: 0, Epoch: 2, iters: 350/1334 | speed: 11.9824s/iter; left time: 462.9202 min
+
+Fold: 0, Epoch: 2, iters: 400/1334 | speed: 10.7956s/iter; left time: 408.0742 min
+
+Fold: 0, Epoch: 2, iters: 450/1334 | speed: 9.8716s/iter; left time: 364.9189 min
+
+Fold: 0, Epoch: 2, iters: 550/1334 | speed: 8.5303s/iter; left time: 301.1179 min
+
+Fold: 0, Epoch: 2, iters: 600/1334 | speed: 8.0257s/iter; left time: 276.6176 min
+
+Fold: 0, Epoch: 2, iters: 650/1334 | speed: 7.5999s/iter; left time: 255.6091 min
+
+Fold: 0, Epoch: 2, iters: 700/1334 | speed: 7.2349s/iter; left time: 237.3057 min
+
+Fold: 0, Epoch: 2, iters: 750/1334 | speed: 6.9172s/iter; left time: 221.1209 min
+
+Fold: 0, Epoch: 2, iters: 800/1334 | speed: 6.6417s/iter; left time: 206.7788 min
+
+Fold: 0, Epoch: 2, iters: 850/1334 | speed: 6.3970s/iter; left time: 193.8286 min
+
+Fold: 0, Epoch: 2, iters: 900/1334 | speed: 6.1792s/iter; left time: 182.0804 min
+
+Fold: 0, Epoch: 2, iters: 950/1334 | speed: 5.9856s/iter; left time: 171.3891 min
+
+Fold: 0, Epoch: 2, iters: 1000/1334 | speed: 5.8114s/iter; left time: 161.5562 min
+
+Fold: 0, Epoch: 2, iters: 1050/1334 | speed: 5.6521s/iter; left time: 152.4195 min
+
+Fold: 0, Epoch: 2, iters: 1100/1334 | speed: 5.5079s/iter; left time: 143.9407 min
+
+Fold: 0, Epoch: 2, iters: 1150/1334 | speed: 5.3765s/iter; left time: 136.0247 min
+
+Fold: 0, Epoch: 2, iters: 1200/1334 | speed: 5.2552s/iter; left time: 128.5766 min
+
+Fold: 0, Epoch: 2, iters: 1250/1334 | speed: 5.1440s/iter; left time: 121.5687 min
+
+Fold: 0, Epoch: 2, iters: 1300/1334 | speed: 5.0407s/iter; left time: 114.9278 min
+Epoch: 2 cost time: 3313.5645864009857Updating learning rate to 0.00025
+
+Fold: 0, Epoch: 3, iters: 50/1334 | speed: 135.3838s/iter; left time: 2897.2128 min
+
+Fold: 0, Epoch: 3, iters: 100/1334 | speed: 68.9219s/iter; left time: 1417.4942 min
+
+Fold: 0, Epoch: 3, iters: 150/1334 | speed: 46.7713s/iter; left time: 922.9532 min
+
+Fold: 0, Epoch: 3, iters: 200/1334 | speed: 35.6996s/iter; left time: 674.7227 min
+
+Fold: 0, Epoch: 3, iters: 250/1334 | speed: 29.0549s/iter; left time: 524.9261 min
+
+Fold: 0, Epoch: 3, iters: 300/1334 | speed: 24.6276s/iter; left time: 424.4160 min
+
+Fold: 0, Epoch: 3, iters: 350/1334 | speed: 21.4631s/iter; left time: 351.9943 min
+
+Fold: 0, Epoch: 3, iters: 400/1334 | speed: 19.0859s/iter; left time: 297.1044 min
+
+Fold: 0, Epoch: 3, iters: 450/1334 | speed: 17.2388s/iter; left time: 253.9845 min
+
+Fold: 0, Epoch: 3, iters: 500/1334 | speed: 15.7604s/iter; left time: 219.0700 min
+
+Fold: 0, Epoch: 3, iters: 550/1334 | speed: 14.5521s/iter; left time: 190.1481 min
+
+Fold: 0, Epoch: 3, iters: 600/1334 | speed: 13.5474s/iter; left time: 165.7297 min
+
+Fold: 0, Epoch: 3, iters: 650/1334 | speed: 12.6930s/iter; left time: 144.7001 min
+
+Fold: 0, Epoch: 3, iters: 700/1334 | speed: 11.9654s/iter; left time: 126.4340 min
+
+Fold: 0, Epoch: 3, iters: 750/1334 | speed: 11.3347s/iter; left time: 110.3245 min
+
+Fold: 0, Epoch: 3, iters: 800/1334 | speed: 10.7829s/iter; left time: 95.9678 min
+
+Fold: 0, Epoch: 3, iters: 850/1334 | speed: 10.2959s/iter; left time: 83.0536 min
+
+Fold: 0, Epoch: 3, iters: 900/1334 | speed: 9.8623s/iter; left time: 71.3371 min
+
+Fold: 0, Epoch: 3, iters: 950/1334 | speed: 9.4741s/iter; left time: 60.6342 min
+
+Fold: 0, Epoch: 3, iters: 1000/1334 | speed: 9.1241s/iter; left time: 50.7908 min
+
+Fold: 0, Epoch: 3, iters: 1050/1334 | speed: 8.8083s/iter; left time: 41.6926 min
+
+Fold: 0, Epoch: 3, iters: 1100/1334 | speed: 8.5212s/iter; left time: 33.2326 min
+
+Fold: 0, Epoch: 3, iters: 1150/1334 | speed: 8.2592s/iter; left time: 25.3282 min
+
+Fold: 0, Epoch: 3, iters: 1200/1334 | speed: 8.0188s/iter; left time: 17.9086 min
+
+Fold: 0, Epoch: 3, iters: 1250/1334 | speed: 7.7975s/iter; left time: 10.9165 min
+
+Fold: 0, Epoch: 3, iters: 1300/1334 | speed: 7.5941s/iter; left time: 4.3033 min
+Epoch: 3 cost time: 3312.893651008606Updating learning rate to 0.000125
+
+Fold: 1, Epoch: 1, iters: 50/1334 | speed: 2.6251s/iter; left time: 172.9099 min
+
+Fold: 1, Epoch: 1, iters: 100/1334 | speed: 2.5630s/iter; left time: 166.6822 min
+
+Fold: 1, Epoch: 1, iters: 150/1334 | speed: 2.5351s/iter; left time: 162.7504 min
+
+Fold: 1, Epoch: 1, iters: 200/1334 | speed: 2.5267s/iter; left time: 160.1097 min
+
+Fold: 1, Epoch: 1, iters: 250/1334 | speed: 2.5184s/iter; left time: 157.4838 min
+
+Fold: 1, Epoch: 1, iters: 300/1334 | speed: 2.5145s/iter; left time: 155.1458 min
+
+Fold: 1, Epoch: 1, iters: 350/1334 | speed: 2.5122s/iter; left time: 152.9086 min
+
+Fold: 1, Epoch: 1, iters: 400/1334 | speed: 2.5073s/iter; left time: 150.5204 min
+
+Fold: 1, Epoch: 1, iters: 450/1334 | speed: 2.5057s/iter; left time: 148.3379 min
+
+Fold: 1, Epoch: 1, iters: 500/1334 | speed: 2.5063s/iter; left time: 146.2851 min
+
+Fold: 1, Epoch: 1, iters: 550/1334 | speed: 2.5055s/iter; left time: 144.1496 min
+
+Fold: 1, Epoch: 1, iters: 600/1334 | speed: 2.5050s/iter; left time: 142.0333 min
+
+Fold: 1, Epoch: 1, iters: 650/1334 | speed: 2.5052s/iter; left time: 139.9585 min
+
+Fold: 1, Epoch: 1, iters: 700/1334 | speed: 2.5039s/iter; left time: 137.7961 min
+
+Fold: 1, Epoch: 1, iters: 750/1334 | speed: 2.5032s/iter; left time: 135.6760 min
+
+Fold: 1, Epoch: 1, iters: 800/1334 | speed: 2.5025s/iter; left time: 133.5489 min
+
+Fold: 1, Epoch: 1, iters: 850/1334 | speed: 2.5014s/iter; left time: 131.4086 min
+
+Fold: 1, Epoch: 1, iters: 900/1334 | speed: 2.5001s/iter; left time: 129.2576 min
+
+Fold: 1, Epoch: 1, iters: 950/1334 | speed: 2.4962s/iter; left time: 126.9734 min
+
+Fold: 1, Epoch: 1, iters: 1000/1334 | speed: 2.4946s/iter; left time: 124.8144 min
+
+Fold: 1, Epoch: 1, iters: 1050/1334 | speed: 2.4929s/iter; left time: 122.6516 min
+
+Fold: 1, Epoch: 1, iters: 1100/1334 | speed: 2.4927s/iter; left time: 120.5643 min
+
+Fold: 1, Epoch: 1, iters: 1150/1334 | speed: 2.4918s/iter; left time: 118.4435 min
+
+Fold: 1, Epoch: 1, iters: 1200/1334 | speed: 2.4908s/iter; left time: 116.3222 min
+
+Fold: 1, Epoch: 1, iters: 1250/1334 | speed: 2.4913s/iter; left time: 114.2690 min
+
+Fold: 1, Epoch: 1, iters: 1300/1334 | speed: 2.4912s/iter; left time: 112.1890 min
+Epoch: 1 cost time: 3316.8732211589813Updating learning rate to 0.0005
+
+Fold: 1, Epoch: 2, iters: 50/1334 | speed: 69.1102s/iter; left time: 3015.5097 min
+
+Fold: 1, Epoch: 2, iters: 100/1334 | speed: 35.7977s/iter; left time: 1532.1436 min
+
+Fold: 1, Epoch: 2, iters: 150/1334 | speed: 24.6867s/iter; left time: 1036.0164 min
+
+Fold: 1, Epoch: 2, iters: 200/1334 | speed: 19.1443s/iter; left time: 787.4701 min
+
+Fold: 1, Epoch: 2, iters: 250/1334 | speed: 15.8091s/iter; left time: 637.1064 min
+
+Fold: 1, Epoch: 2, iters: 300/1334 | speed: 13.5919s/iter; left time: 536.4258 min
+
+Fold: 1, Epoch: 2, iters: 350/1334 | speed: 12.0038s/iter; left time: 463.7462 min
+
+Fold: 1, Epoch: 2, iters: 400/1334 | speed: 10.8157s/iter; left time: 408.8324 min
+
+Fold: 1, Epoch: 2, iters: 450/1334 | speed: 9.8906s/iter; left time: 365.6216 min
+
+Fold: 1, Epoch: 2, iters: 500/1334 | speed: 9.1501s/iter; left time: 330.6220 min
+
+Fold: 1, Epoch: 2, iters: 550/1334 | speed: 8.5440s/iter; left time: 301.6021 min
+
+Fold: 1, Epoch: 2, iters: 600/1334 | speed: 8.0383s/iter; left time: 277.0519 min
+
+Fold: 1, Epoch: 2, iters: 650/1334 | speed: 7.6111s/iter; left time: 255.9860 min
+
+Fold: 1, Epoch: 2, iters: 700/1334 | speed: 7.2470s/iter; left time: 237.7003 min
+
+Fold: 1, Epoch: 2, iters: 750/1334 | speed: 6.9303s/iter; left time: 221.5373 min
+
+Fold: 1, Epoch: 2, iters: 800/1334 | speed: 6.6525s/iter; left time: 207.1143 min
+
+Fold: 1, Epoch: 2, iters: 850/1334 | speed: 6.4071s/iter; left time: 194.1362 min
+
+Fold: 1, Epoch: 2, iters: 900/1334 | speed: 6.1887s/iter; left time: 182.3596 min
+
+Fold: 1, Epoch: 2, iters: 950/1334 | speed: 5.9940s/iter; left time: 171.6291 min
+
+Fold: 1, Epoch: 2, iters: 1000/1334 | speed: 5.8197s/iter; left time: 161.7876 min
+
+Fold: 1, Epoch: 2, iters: 1050/1334 | speed: 5.6610s/iter; left time: 152.6570 min
+
+Fold: 1, Epoch: 2, iters: 1100/1334 | speed: 5.5172s/iter; left time: 144.1837 min
+
+Fold: 1, Epoch: 2, iters: 1150/1334 | speed: 5.3860s/iter; left time: 136.2660 min
+
+Fold: 1, Epoch: 2, iters: 1200/1334 | speed: 5.2649s/iter; left time: 128.8135 min
+
+Fold: 1, Epoch: 2, iters: 1250/1334 | speed: 5.1518s/iter; left time: 121.7541 min
+
+Fold: 1, Epoch: 2, iters: 1300/1334 | speed: 5.0507s/iter; left time: 115.1559 min
+Epoch: 2 cost time: 3319.7091188430786Updating learning rate to 0.00025
+
+Fold: 1, Epoch: 3, iters: 50/1334 | speed: 135.6333s/iter; left time: 2902.5532 min
+
+Fold: 1, Epoch: 3, iters: 100/1334 | speed: 69.0585s/iter; left time: 1420.3030 min
+
+Fold: 1, Epoch: 3, iters: 150/1334 | speed: 46.8672s/iter; left time: 924.8459 min
+
+Fold: 1, Epoch: 3, iters: 200/1334 | speed: 35.7729s/iter; left time: 676.1082 min
+
+Fold: 1, Epoch: 3, iters: 250/1334 | speed: 29.1186s/iter; left time: 526.0757 min
+
+Fold: 1, Epoch: 3, iters: 300/1334 | speed: 24.6764s/iter; left time: 425.2562 min
+
+Fold: 1, Epoch: 3, iters: 350/1334 | speed: 21.5066s/iter; left time: 352.7088 min
+
+Fold: 1, Epoch: 3, iters: 400/1334 | speed: 19.1305s/iter; left time: 297.7983 min
+
+Fold: 1, Epoch: 3, iters: 450/1334 | speed: 17.2843s/iter; left time: 254.6556 min
+
+Fold: 1, Epoch: 3, iters: 500/1334 | speed: 15.8042s/iter; left time: 219.6778 min
+
+Fold: 1, Epoch: 3, iters: 550/1334 | speed: 14.5937s/iter; left time: 190.6904 min
+
+Fold: 1, Epoch: 3, iters: 600/1334 | speed: 13.5853s/iter; left time: 166.1933 min
+
+Fold: 1, Epoch: 3, iters: 650/1334 | speed: 12.7323s/iter; left time: 145.1480 min
+
+Fold: 1, Epoch: 3, iters: 700/1334 | speed: 12.0003s/iter; left time: 126.8029 min
+
+Fold: 1, Epoch: 3, iters: 750/1334 | speed: 11.3658s/iter; left time: 110.6270 min
+
+Fold: 1, Epoch: 3, iters: 800/1334 | speed: 10.8112s/iter; left time: 96.2194 min
+
+Fold: 1, Epoch: 3, iters: 850/1334 | speed: 10.3213s/iter; left time: 83.2589 min
+
+Fold: 1, Epoch: 3, iters: 900/1334 | speed: 9.8866s/iter; left time: 71.5133 min
+
+Fold: 1, Epoch: 3, iters: 950/1334 | speed: 9.4971s/iter; left time: 60.7815 min
+
+Fold: 1, Epoch: 3, iters: 1000/1334 | speed: 9.1471s/iter; left time: 50.9189 min
+
+Fold: 1, Epoch: 3, iters: 1050/1334 | speed: 8.8302s/iter; left time: 41.7962 min
+
+Fold: 1, Epoch: 3, iters: 1100/1334 | speed: 8.5408s/iter; left time: 33.3091 min
+
+Fold: 1, Epoch: 3, iters: 1150/1334 | speed: 8.2778s/iter; left time: 25.3852 min
+
+Fold: 1, Epoch: 3, iters: 1200/1334 | speed: 8.0375s/iter; left time: 17.9504 min
+
+Fold: 1, Epoch: 3, iters: 1250/1334 | speed: 7.8155s/iter; left time: 10.9417 min
+
+Fold: 1, Epoch: 3, iters: 1300/1334 | speed: 7.6106s/iter; left time: 4.3126 min
+Epoch: 3 cost time: 3321.548641681671Updating learning rate to 0.000125
+
+Fold: 2, Epoch: 1, iters: 50/1334 | speed: 2.6214s/iter; left time: 172.6650 min
+
+Fold: 2, Epoch: 1, iters: 100/1334 | speed: 2.5499s/iter; left time: 165.8254 min
+
+Fold: 2, Epoch: 1, iters: 150/1334 | speed: 2.5280s/iter; left time: 162.2982 min
+
+Fold: 2, Epoch: 1, iters: 200/1334 | speed: 2.5184s/iter; left time: 159.5855 min
+
+Fold: 2, Epoch: 1, iters: 250/1334 | speed: 2.5072s/iter; left time: 156.7818 min
+
+Fold: 2, Epoch: 1, iters: 300/1334 | speed: 2.5090s/iter; left time: 154.8037 min
+
+Fold: 2, Epoch: 1, iters: 350/1334 | speed: 2.5067s/iter; left time: 152.5758 min
+
+Fold: 2, Epoch: 1, iters: 400/1334 | speed: 2.5030s/iter; left time: 150.2658 min
+
+Fold: 2, Epoch: 1, iters: 450/1334 | speed: 2.5011s/iter; left time: 148.0657 min
+
+Fold: 2, Epoch: 1, iters: 500/1334 | speed: 2.4981s/iter; left time: 145.8078 min
+
+Fold: 2, Epoch: 1, iters: 550/1334 | speed: 2.4993s/iter; left time: 143.7956 min
+
+Fold: 2, Epoch: 1, iters: 600/1334 | speed: 2.4989s/iter; left time: 141.6884 min
+
+Fold: 2, Epoch: 1, iters: 650/1334 | speed: 2.4982s/iter; left time: 139.5643 min
+
+Fold: 2, Epoch: 1, iters: 700/1334 | speed: 2.4992s/iter; left time: 137.5393 min
+
+Fold: 2, Epoch: 1, iters: 750/1334 | speed: 2.4976s/iter; left time: 135.3697 min
+
+Fold: 2, Epoch: 1, iters: 800/1334 | speed: 2.4968s/iter; left time: 133.2433 min
+
+Fold: 2, Epoch: 1, iters: 850/1334 | speed: 2.4977s/iter; left time: 131.2100 min
+
+Fold: 2, Epoch: 1, iters: 900/1334 | speed: 2.4969s/iter; left time: 129.0886 min
+
+Fold: 2, Epoch: 1, iters: 950/1334 | speed: 2.4958s/iter; left time: 126.9554 min
+
+Fold: 2, Epoch: 1, iters: 1000/1334 | speed: 2.4974s/iter; left time: 124.9518 min
+
+Fold: 2, Epoch: 1, iters: 1050/1334 | speed: 2.4974s/iter; left time: 122.8741 min
+
+Fold: 2, Epoch: 1, iters: 1100/1334 | speed: 2.4971s/iter; left time: 120.7750 min
+
+Fold: 2, Epoch: 1, iters: 1150/1334 | speed: 2.4970s/iter; left time: 118.6915 min
+
+Fold: 2, Epoch: 1, iters: 1200/1334 | speed: 2.4962s/iter; left time: 116.5716 min
+
+Fold: 2, Epoch: 1, iters: 1250/1334 | speed: 2.4958s/iter; left time: 114.4733 min
+
+Fold: 2, Epoch: 1, iters: 1300/1334 | speed: 2.4959s/iter; left time: 112.3979 min
+Epoch: 1 cost time: 3323.28199839592Updating learning rate to 0.0005
+
+Fold: 2, Epoch: 2, iters: 50/1334 | speed: 69.2481s/iter; left time: 3021.5261 min
+
+Fold: 2, Epoch: 2, iters: 100/1334 | speed: 35.8753s/iter; left time: 1535.4636 min
+
+Fold: 2, Epoch: 2, iters: 150/1334 | speed: 24.7409s/iter; left time: 1038.2936 min
+
+Fold: 2, Epoch: 2, iters: 200/1334 | speed: 19.1829s/iter; left time: 789.0578 min
+
+Fold: 2, Epoch: 2, iters: 250/1334 | speed: 15.8442s/iter; left time: 638.5195 min
+
+Fold: 2, Epoch: 2, iters: 300/1334 | speed: 13.6213s/iter; left time: 537.5881 min
+
+Fold: 2, Epoch: 2, iters: 350/1334 | speed: 12.0296s/iter; left time: 464.7422 min
+
+Fold: 2, Epoch: 2, iters: 400/1334 | speed: 10.8374s/iter; left time: 409.6548 min
+
+Fold: 2, Epoch: 2, iters: 450/1334 | speed: 9.9093s/iter; left time: 366.3146 min
+
+Fold: 2, Epoch: 2, iters: 500/1334 | speed: 9.1666s/iter; left time: 331.2184 min
+
+Fold: 2, Epoch: 2, iters: 550/1334 | speed: 8.5585s/iter; left time: 302.1158 min
+
+Fold: 2, Epoch: 2, iters: 600/1334 | speed: 8.0525s/iter; left time: 277.5416 min
+
+Fold: 2, Epoch: 2, iters: 650/1334 | speed: 7.6261s/iter; left time: 256.4924 min
+
+Fold: 2, Epoch: 2, iters: 700/1334 | speed: 7.2580s/iter; left time: 238.0618 min
+
+Fold: 2, Epoch: 2, iters: 750/1334 | speed: 6.9405s/iter; left time: 221.8658 min
+
+Fold: 2, Epoch: 2, iters: 800/1334 | speed: 6.6625s/iter; left time: 207.4255 min
+
+Fold: 2, Epoch: 2, iters: 850/1334 | speed: 6.4161s/iter; left time: 194.4064 min
+
+Fold: 2, Epoch: 2, iters: 900/1334 | speed: 6.1986s/iter; left time: 182.6532 min
+
+Fold: 2, Epoch: 2, iters: 950/1334 | speed: 6.0034s/iter; left time: 171.8960 min
+
+Fold: 2, Epoch: 2, iters: 1000/1334 | speed: 5.8287s/iter; left time: 162.0365 min
+
+Fold: 2, Epoch: 2, iters: 1050/1334 | speed: 5.6703s/iter; left time: 152.9101 min
+
+Fold: 2, Epoch: 2, iters: 1100/1334 | speed: 5.5254s/iter; left time: 144.3981 min
+
+Fold: 2, Epoch: 2, iters: 1150/1334 | speed: 5.3946s/iter; left time: 136.4823 min
+
+Fold: 2, Epoch: 2, iters: 1200/1334 | speed: 5.2730s/iter; left time: 129.0137 min
+
+Fold: 2, Epoch: 2, iters: 1250/1334 | speed: 5.1617s/iter; left time: 121.9891 min
+
+Fold: 2, Epoch: 2, iters: 1300/1334 | speed: 5.0586s/iter; left time: 115.3353 min
+Epoch: 2 cost time: 3323.2773230075836Updating learning rate to 0.00025
+
+Fold: 2, Epoch: 3, iters: 50/1334 | speed: 135.8423s/iter; left time: 2907.0262 min
+
+Fold: 2, Epoch: 3, iters: 100/1334 | speed: 69.1599s/iter; left time: 1422.3884 min
+
+Fold: 2, Epoch: 3, iters: 150/1334 | speed: 46.9373s/iter; left time: 926.2287 min
+
+Fold: 2, Epoch: 3, iters: 200/1334 | speed: 35.8271s/iter; left time: 677.1316 min
+
+Fold: 2, Epoch: 3, iters: 250/1334 | speed: 29.1605s/iter; left time: 526.8325 min
+
+Fold: 2, Epoch: 3, iters: 300/1334 | speed: 24.7146s/iter; left time: 425.9155 min
+
+Fold: 2, Epoch: 3, iters: 350/1334 | speed: 21.5397s/iter; left time: 353.2503 min
+
+Fold: 2, Epoch: 3, iters: 400/1334 | speed: 19.1571s/iter; left time: 298.2121 min
+
+Fold: 2, Epoch: 3, iters: 450/1334 | speed: 17.3036s/iter; left time: 254.9401 min
+
+Fold: 2, Epoch: 3, iters: 500/1334 | speed: 15.8208s/iter; left time: 219.9087 min
+
+Fold: 2, Epoch: 3, iters: 550/1334 | speed: 14.6095s/iter; left time: 190.8973 min
+
+Fold: 2, Epoch: 3, iters: 600/1334 | speed: 13.5992s/iter; left time: 166.3641 min
+
+Fold: 2, Epoch: 3, iters: 650/1334 | speed: 12.7451s/iter; left time: 145.2937 min
+
+Fold: 2, Epoch: 3, iters: 700/1334 | speed: 12.0137s/iter; left time: 126.9447 min
+
+Fold: 2, Epoch: 3, iters: 750/1334 | speed: 11.3776s/iter; left time: 110.7422 min
+
+Fold: 2, Epoch: 3, iters: 800/1334 | speed: 10.8226s/iter; left time: 96.3211 min
+
+Fold: 2, Epoch: 3, iters: 850/1334 | speed: 10.3317s/iter; left time: 83.3423 min
+
+Fold: 2, Epoch: 3, iters: 900/1334 | speed: 9.8965s/iter; left time: 71.5844 min
+
+Fold: 2, Epoch: 3, iters: 950/1334 | speed: 9.5073s/iter; left time: 60.8470 min
+
+Fold: 2, Epoch: 3, iters: 1000/1334 | speed: 9.1564s/iter; left time: 50.9704 min
+
+Fold: 2, Epoch: 3, iters: 1050/1334 | speed: 8.8388s/iter; left time: 41.8369 min
+
+Fold: 2, Epoch: 3, iters: 1100/1334 | speed: 8.5499s/iter; left time: 33.3444 min
+
+Fold: 2, Epoch: 3, iters: 1150/1334 | speed: 8.2872s/iter; left time: 25.4139 min
+
+Fold: 2, Epoch: 3, iters: 1200/1334 | speed: 8.0464s/iter; left time: 17.9702 min
+
+Fold: 2, Epoch: 3, iters: 1250/1334 | speed: 7.8240s/iter; left time: 10.9535 min
+
+Fold: 2, Epoch: 3, iters: 1300/1334 | speed: 7.6182s/iter; left time: 4.3170 min
+Epoch: 3 cost time: 3321.1887352466583Updating learning rate to 0.000125
+Namespace(seed=3042, model='iTransformer_iFlashFormer', clean_data=True, root_path='/home/mw/input/bdc_train9198/global/global', checkpoints='./best_model/', factor=1.0, train_val_size=0.95, k_fold=3, print_freq=50, n_experts=2, task='temp', seq_len=168, pred_len=72, freq='h', enc_in=56, d_model=128, n_heads=8, e_layers=1, d_ff=64, dropout=0.1, activation='gelu', pretrain=False, pretrain_ckpt='', resume_epoch=0, num_workers=9, itr=1, train_epochs=3, batch_size=10240, learning_rate=0.001, lradj='type1', weight_decay=1e-06, use_gpu=True, gpu=0, use_multi_gpu=True, devices='0,1', device_ids=[0, 1])
+Use GPU: cuda:0
+
+Fold: 0, Epoch: 1, iters: 50/1334 | speed: 2.4652s/iter; left time: 162.3717 min
+
+Fold: 0, Epoch: 1, iters: 100/1334 | speed: 2.2530s/iter; left time: 146.5215 min
+
+Fold: 0, Epoch: 1, iters: 150/1334 | speed: 2.2506s/iter; left time: 144.4904 min
+
+Fold: 0, Epoch: 1, iters: 200/1334 | speed: 2.2417s/iter; left time: 142.0460 min
+
+Fold: 0, Epoch: 1, iters: 250/1334 | speed: 2.2425s/iter; left time: 140.2298 min
+
+Fold: 0, Epoch: 1, iters: 300/1334 | speed: 2.2654s/iter; left time: 139.7733 min
+
+Fold: 0, Epoch: 1, iters: 350/1334 | speed: 2.2313s/iter; left time: 135.8101 min
+
+Fold: 0, Epoch: 1, iters: 400/1334 | speed: 2.2198s/iter; left time: 133.2642 min
+
+Fold: 0, Epoch: 1, iters: 450/1334 | speed: 2.2595s/iter; left time: 133.7608 min
+
+Fold: 0, Epoch: 1, iters: 500/1334 | speed: 2.2539s/iter; left time: 131.5528 min
+
+Fold: 0, Epoch: 1, iters: 550/1334 | speed: 2.2111s/iter; left time: 127.2099 min
+
+Fold: 0, Epoch: 1, iters: 600/1334 | speed: 2.2556s/iter; left time: 127.8941 min
+
+Fold: 0, Epoch: 1, iters: 650/1334 | speed: 2.2365s/iter; left time: 124.9441 min
+
+Fold: 0, Epoch: 1, iters: 700/1334 | speed: 2.2533s/iter; left time: 124.0071 min
+
+Fold: 0, Epoch: 1, iters: 750/1334 | speed: 2.2234s/iter; left time: 120.5098 min
+
+Fold: 0, Epoch: 1, iters: 800/1334 | speed: 2.2333s/iter; left time: 119.1855 min
+
+Fold: 0, Epoch: 1, iters: 850/1334 | speed: 2.2522s/iter; left time: 118.3137 min
+
+Fold: 0, Epoch: 1, iters: 900/1334 | speed: 2.2469s/iter; left time: 116.1628 min
+
+Fold: 0, Epoch: 1, iters: 950/1334 | speed: 2.2590s/iter; left time: 114.9089 min
+
+Fold: 0, Epoch: 1, iters: 1000/1334 | speed: 2.2372s/iter; left time: 111.9331 min
+
+Fold: 0, Epoch: 1, iters: 1050/1334 | speed: 2.2521s/iter; left time: 110.8027 min
+
+Fold: 0, Epoch: 1, iters: 1100/1334 | speed: 2.2391s/iter; left time: 108.2997 min
+
+Fold: 0, Epoch: 1, iters: 1150/1334 | speed: 2.2524s/iter; left time: 107.0620 min
+
+Fold: 0, Epoch: 1, iters: 1200/1334 | speed: 2.2154s/iter; left time: 103.4602 min
+
+Fold: 0, Epoch: 1, iters: 1250/1334 | speed: 2.2702s/iter; left time: 104.1255 min
+
+Fold: 0, Epoch: 1, iters: 1300/1334 | speed: 2.2407s/iter; left time: 100.9055 min
+Epoch: 1 cost time: 2997.232536792755Updating learning rate to 0.0005
+
+Fold: 0, Epoch: 2, iters: 50/1334 | speed: 3.9723s/iter; left time: 173.3254 min
+
+Fold: 0, Epoch: 2, iters: 100/1334 | speed: 2.2305s/iter; left time: 95.4663 min
+
+Fold: 0, Epoch: 2, iters: 150/1334 | speed: 2.2586s/iter; left time: 94.7842 min
+
+Fold: 0, Epoch: 2, iters: 200/1334 | speed: 2.2264s/iter; left time: 91.5792 min
+
+Fold: 0, Epoch: 2, iters: 250/1334 | speed: 2.2249s/iter; left time: 89.6653 min
+
+Fold: 0, Epoch: 2, iters: 300/1334 | speed: 2.2298s/iter; left time: 88.0040 min
+
+Fold: 0, Epoch: 2, iters: 350/1334 | speed: 2.2651s/iter; left time: 87.5069 min
+
+Fold: 0, Epoch: 2, iters: 400/1334 | speed: 2.2282s/iter; left time: 84.2248 min
+
+Fold: 0, Epoch: 2, iters: 450/1334 | speed: 2.2437s/iter; left time: 82.9420 min
+
+Fold: 0, Epoch: 2, iters: 500/1334 | speed: 2.2438s/iter; left time: 81.0765 min
+
+Fold: 0, Epoch: 2, iters: 600/1334 | speed: 2.2476s/iter; left time: 77.4685 min
+
+Fold: 0, Epoch: 2, iters: 650/1334 | speed: 2.2281s/iter; left time: 74.9399 min
+
+Fold: 0, Epoch: 2, iters: 700/1334 | speed: 2.2420s/iter; left time: 73.5363 min
+
+Fold: 0, Epoch: 2, iters: 750/1334 | speed: 2.2354s/iter; left time: 71.4595 min
+
+Fold: 0, Epoch: 2, iters: 800/1334 | speed: 2.2249s/iter; left time: 69.2671 min
+
+Fold: 0, Epoch: 2, iters: 850/1334 | speed: 2.2562s/iter; left time: 68.3625 min
+
+Fold: 0, Epoch: 2, iters: 900/1334 | speed: 2.2578s/iter; left time: 66.5310 min
+
+Fold: 0, Epoch: 2, iters: 950/1334 | speed: 2.2396s/iter; left time: 64.1275 min
+
+Fold: 0, Epoch: 2, iters: 1000/1334 | speed: 2.2389s/iter; left time: 62.2400 min
+
+Fold: 0, Epoch: 2, iters: 1050/1334 | speed: 2.2697s/iter; left time: 61.2066 min
+
+Fold: 0, Epoch: 2, iters: 1100/1334 | speed: 2.2481s/iter; left time: 58.7501 min
+
+Fold: 0, Epoch: 2, iters: 1150/1334 | speed: 2.2019s/iter; left time: 55.7069 min
+
+Fold: 0, Epoch: 2, iters: 1200/1334 | speed: 2.2700s/iter; left time: 55.5388 min
+
+Fold: 0, Epoch: 2, iters: 1250/1334 | speed: 2.2135s/iter; left time: 52.3125 min
+
+Fold: 0, Epoch: 2, iters: 1300/1334 | speed: 2.2551s/iter; left time: 51.4152 min
+Epoch: 2 cost time: 2988.829615831375Updating learning rate to 0.00025
+
+Fold: 0, Epoch: 3, iters: 50/1334 | speed: 3.8811s/iter; left time: 83.0553 min
+
+Fold: 0, Epoch: 3, iters: 100/1334 | speed: 2.2434s/iter; left time: 46.1396 min
+
+Fold: 0, Epoch: 3, iters: 150/1334 | speed: 2.2601s/iter; left time: 44.5989 min
+
+Fold: 0, Epoch: 3, iters: 200/1334 | speed: 2.2451s/iter; left time: 42.4323 min
+
+Fold: 0, Epoch: 3, iters: 250/1334 | speed: 2.2493s/iter; left time: 40.6368 min
+
+Fold: 0, Epoch: 3, iters: 300/1334 | speed: 2.2159s/iter; left time: 38.1875 min
+
+Fold: 0, Epoch: 3, iters: 350/1334 | speed: 1.7541s/iter; left time: 28.7670 min
+
+Fold: 0, Epoch: 3, iters: 400/1334 | speed: 2.1998s/iter; left time: 34.2430 min
+
+Fold: 0, Epoch: 3, iters: 450/1334 | speed: 2.2295s/iter; left time: 32.8475 min
+
+Fold: 0, Epoch: 3, iters: 500/1334 | speed: 2.2023s/iter; left time: 30.6115 min
+
+Fold: 0, Epoch: 3, iters: 550/1334 | speed: 2.2134s/iter; left time: 28.9212 min
+
+Fold: 0, Epoch: 3, iters: 600/1334 | speed: 2.2600s/iter; left time: 27.6478 min
+
+Fold: 0, Epoch: 3, iters: 650/1334 | speed: 2.2128s/iter; left time: 25.2256 min
+
+Fold: 0, Epoch: 3, iters: 700/1334 | speed: 2.2089s/iter; left time: 23.3404 min
+
+Fold: 0, Epoch: 3, iters: 750/1334 | speed: 2.2245s/iter; left time: 21.6515 min
+
+Fold: 0, Epoch: 3, iters: 800/1334 | speed: 2.2201s/iter; left time: 19.7585 min
+
+Fold: 0, Epoch: 3, iters: 850/1334 | speed: 2.2162s/iter; left time: 17.8770 min
+
+Fold: 0, Epoch: 3, iters: 900/1334 | speed: 2.2229s/iter; left time: 16.0792 min
+
+Fold: 0, Epoch: 3, iters: 950/1334 | speed: 2.2126s/iter; left time: 14.1604 min
+
+Fold: 0, Epoch: 3, iters: 1000/1334 | speed: 2.2235s/iter; left time: 12.3774 min
+
+Fold: 0, Epoch: 3, iters: 1050/1334 | speed: 2.2171s/iter; left time: 10.4944 min
+
+Fold: 0, Epoch: 3, iters: 1100/1334 | speed: 2.2176s/iter; left time: 8.6486 min
+
+Fold: 0, Epoch: 3, iters: 1150/1334 | speed: 2.2365s/iter; left time: 6.8585 min
+
+Fold: 0, Epoch: 3, iters: 1200/1334 | speed: 2.2388s/iter; left time: 5.0000 min
+
+Fold: 0, Epoch: 3, iters: 1250/1334 | speed: 2.2007s/iter; left time: 3.0810 min
+
+Fold: 0, Epoch: 3, iters: 1300/1334 | speed: 2.2177s/iter; left time: 1.2567 min
+Epoch: 3 cost time: 2944.9728198051453Updating learning rate to 0.000125
+
+Fold: 1, Epoch: 1, iters: 50/1334 | speed: 2.4210s/iter; left time: 159.4616 min
+
+Fold: 1, Epoch: 1, iters: 100/1334 | speed: 2.2428s/iter; left time: 145.8573 min
+
+Fold: 1, Epoch: 1, iters: 150/1334 | speed: 2.2046s/iter; left time: 141.5385 min
+
+Fold: 1, Epoch: 1, iters: 200/1334 | speed: 2.2066s/iter; left time: 139.8234 min
+
+Fold: 1, Epoch: 1, iters: 250/1334 | speed: 2.2215s/iter; left time: 138.9162 min
+
+Fold: 1, Epoch: 1, iters: 300/1334 | speed: 2.2289s/iter; left time: 137.5254 min
+
+Fold: 1, Epoch: 1, iters: 350/1334 | speed: 2.2047s/iter; left time: 134.1904 min
+
+Fold: 1, Epoch: 1, iters: 400/1334 | speed: 2.2415s/iter; left time: 134.5653 min
+
+Fold: 1, Epoch: 1, iters: 450/1334 | speed: 2.2257s/iter; left time: 131.7591 min
+
+Fold: 1, Epoch: 1, iters: 500/1334 | speed: 2.2167s/iter; left time: 129.3805 min
+
+Fold: 1, Epoch: 1, iters: 550/1334 | speed: 2.2067s/iter; left time: 126.9615 min
+
+Fold: 1, Epoch: 1, iters: 600/1334 | speed: 2.2015s/iter; left time: 124.8275 min
+
+Fold: 1, Epoch: 1, iters: 650/1334 | speed: 2.1981s/iter; left time: 122.8007 min
+
+Fold: 1, Epoch: 1, iters: 700/1334 | speed: 2.2191s/iter; left time: 122.1259 min
+
+Fold: 1, Epoch: 1, iters: 750/1334 | speed: 2.2180s/iter; left time: 120.2133 min
+
+Fold: 1, Epoch: 1, iters: 800/1334 | speed: 2.2189s/iter; left time: 118.4130 min
+
+Fold: 1, Epoch: 1, iters: 850/1334 | speed: 2.2238s/iter; left time: 116.8213 min
+
+Fold: 1, Epoch: 1, iters: 900/1334 | speed: 2.1943s/iter; left time: 113.4449 min
+
+Fold: 1, Epoch: 1, iters: 950/1334 | speed: 2.2204s/iter; left time: 112.9454 min
+
+Fold: 1, Epoch: 1, iters: 1000/1334 | speed: 2.2002s/iter; left time: 110.0846 min
+
+Fold: 1, Epoch: 1, iters: 1050/1334 | speed: 2.2260s/iter; left time: 109.5215 min
+
+Fold: 1, Epoch: 1, iters: 1100/1334 | speed: 2.2412s/iter; left time: 108.4017 min
+
+Fold: 1, Epoch: 1, iters: 1150/1334 | speed: 2.2080s/iter; left time: 104.9524 min
+
+Fold: 1, Epoch: 1, iters: 1200/1334 | speed: 2.2264s/iter; left time: 103.9751 min
+
+Fold: 1, Epoch: 1, iters: 1250/1334 | speed: 2.2243s/iter; left time: 102.0222 min
+
+Fold: 1, Epoch: 1, iters: 1300/1334 | speed: 2.2389s/iter; left time: 100.8238 min
+Epoch: 1 cost time: 2962.335952758789Updating learning rate to 0.0005
+
+Fold: 1, Epoch: 2, iters: 50/1334 | speed: 3.9048s/iter; left time: 170.3792 min
+
+Fold: 1, Epoch: 2, iters: 100/1334 | speed: 2.2144s/iter; left time: 94.7785 min
+
+Fold: 1, Epoch: 2, iters: 150/1334 | speed: 2.2269s/iter; left time: 93.4542 min
+
+Fold: 1, Epoch: 2, iters: 200/1334 | speed: 2.2272s/iter; left time: 91.6134 min
+
+Fold: 1, Epoch: 2, iters: 250/1334 | speed: 2.2118s/iter; left time: 89.1371 min
+
+Fold: 1, Epoch: 2, iters: 300/1334 | speed: 2.2239s/iter; left time: 87.7715 min
+
+Fold: 1, Epoch: 2, iters: 350/1334 | speed: 2.2153s/iter; left time: 85.5825 min
+
+Fold: 1, Epoch: 2, iters: 400/1334 | speed: 2.2270s/iter; left time: 84.1819 min
+
+Fold: 1, Epoch: 2, iters: 450/1334 | speed: 2.2287s/iter; left time: 82.3887 min
+
+Fold: 1, Epoch: 2, iters: 500/1334 | speed: 2.2049s/iter; left time: 79.6703 min
+
+Fold: 1, Epoch: 2, iters: 550/1334 | speed: 2.2230s/iter; left time: 78.4727 min
+
+Fold: 1, Epoch: 2, iters: 600/1334 | speed: 2.2123s/iter; left time: 76.2498 min
+
+Fold: 1, Epoch: 2, iters: 650/1334 | speed: 2.2061s/iter; left time: 74.1994 min
+
+Fold: 1, Epoch: 2, iters: 700/1334 | speed: 2.1996s/iter; left time: 72.1477 min
+
+Fold: 1, Epoch: 2, iters: 750/1334 | speed: 2.2224s/iter; left time: 71.0437 min
+
+Fold: 1, Epoch: 2, iters: 800/1334 | speed: 2.2096s/iter; left time: 68.7936 min
+
+Fold: 1, Epoch: 2, iters: 850/1334 | speed: 2.2089s/iter; left time: 66.9310 min
+
+Fold: 1, Epoch: 2, iters: 900/1334 | speed: 2.2064s/iter; left time: 65.0140 min
+
+Fold: 1, Epoch: 2, iters: 950/1334 | speed: 2.1641s/iter; left time: 61.9654 min
+
+Fold: 1, Epoch: 2, iters: 1000/1334 | speed: 2.1900s/iter; left time: 60.8821 min
+
+Fold: 1, Epoch: 2, iters: 1050/1334 | speed: 2.1860s/iter; left time: 58.9502 min
+
+Fold: 1, Epoch: 2, iters: 1100/1334 | speed: 2.2065s/iter; left time: 57.6629 min
+
+Fold: 1, Epoch: 2, iters: 1150/1334 | speed: 2.2029s/iter; left time: 55.7337 min
+
+Fold: 1, Epoch: 2, iters: 1200/1334 | speed: 2.1931s/iter; left time: 53.6590 min
+
+Fold: 1, Epoch: 2, iters: 1250/1334 | speed: 2.2239s/iter; left time: 52.5586 min
+
+Fold: 1, Epoch: 2, iters: 1300/1334 | speed: 2.1993s/iter; left time: 50.1438 min
+Epoch: 2 cost time: 2948.153754711151Updating learning rate to 0.00025
+
+Fold: 1, Epoch: 3, iters: 50/1334 | speed: 3.8609s/iter; left time: 82.6234 min
+
+Fold: 1, Epoch: 3, iters: 100/1334 | speed: 2.1918s/iter; left time: 45.0786 min
+
+Fold: 1, Epoch: 3, iters: 150/1334 | speed: 2.1975s/iter; left time: 43.3640 min
+
+Fold: 1, Epoch: 3, iters: 200/1334 | speed: 2.2225s/iter; left time: 42.0045 min
+
+Fold: 1, Epoch: 3, iters: 250/1334 | speed: 2.1861s/iter; left time: 39.4952 min
+
+Fold: 1, Epoch: 3, iters: 300/1334 | speed: 2.2051s/iter; left time: 38.0017 min
+
+Fold: 1, Epoch: 3, iters: 350/1334 | speed: 2.2175s/iter; left time: 36.3670 min
+
+Fold: 1, Epoch: 3, iters: 400/1334 | speed: 2.1982s/iter; left time: 34.2182 min
+
+Fold: 1, Epoch: 3, iters: 450/1334 | speed: 2.1975s/iter; left time: 32.3767 min
+
+Fold: 1, Epoch: 3, iters: 500/1334 | speed: 2.2190s/iter; left time: 30.8438 min
+
+Fold: 1, Epoch: 3, iters: 550/1334 | speed: 2.2041s/iter; left time: 28.8000 min
+
+Fold: 1, Epoch: 3, iters: 600/1334 | speed: 2.1758s/iter; left time: 26.6176 min
+
+Fold: 1, Epoch: 3, iters: 650/1334 | speed: 2.2106s/iter; left time: 25.2011 min
+
+Fold: 1, Epoch: 3, iters: 700/1334 | speed: 2.1999s/iter; left time: 23.2454 min
+
+Fold: 1, Epoch: 3, iters: 750/1334 | speed: 2.2064s/iter; left time: 21.4755 min
+
+Fold: 1, Epoch: 3, iters: 800/1334 | speed: 2.1893s/iter; left time: 19.4850 min
+
+Fold: 1, Epoch: 3, iters: 850/1334 | speed: 2.2078s/iter; left time: 17.8093 min
+
+Fold: 1, Epoch: 3, iters: 900/1334 | speed: 2.2223s/iter; left time: 16.0745 min
+
+Fold: 1, Epoch: 3, iters: 950/1334 | speed: 2.2096s/iter; left time: 14.1416 min
+
+Fold: 1, Epoch: 3, iters: 1000/1334 | speed: 2.2088s/iter; left time: 12.2958 min
+
+Fold: 1, Epoch: 3, iters: 1050/1334 | speed: 2.1951s/iter; left time: 10.3901 min
+
+Fold: 1, Epoch: 3, iters: 1100/1334 | speed: 2.2197s/iter; left time: 8.6570 min
+
+Fold: 1, Epoch: 3, iters: 1150/1334 | speed: 2.2020s/iter; left time: 6.7528 min
+
+Fold: 1, Epoch: 3, iters: 1200/1334 | speed: 2.1696s/iter; left time: 4.8454 min
+
+Fold: 1, Epoch: 3, iters: 1250/1334 | speed: 2.2012s/iter; left time: 3.0816 min
+
+Fold: 1, Epoch: 3, iters: 1300/1334 | speed: 2.2258s/iter; left time: 1.2613 min
+Epoch: 3 cost time: 2941.5418837070465Updating learning rate to 0.000125
+
+Fold: 2, Epoch: 1, iters: 50/1334 | speed: 2.4974s/iter; left time: 164.4984 min
+
+Fold: 2, Epoch: 1, iters: 100/1334 | speed: 2.3315s/iter; left time: 151.6257 min
+
+Fold: 2, Epoch: 1, iters: 150/1334 | speed: 2.2832s/iter; left time: 146.5808 min
+
+Fold: 2, Epoch: 1, iters: 200/1334 | speed: 2.2679s/iter; left time: 143.7122 min
+
+Fold: 2, Epoch: 1, iters: 250/1334 | speed: 2.2383s/iter; left time: 139.9671 min
+
+Fold: 2, Epoch: 1, iters: 300/1334 | speed: 2.3047s/iter; left time: 142.2011 min
+
+Fold: 2, Epoch: 1, iters: 350/1334 | speed: 2.3670s/iter; left time: 144.0712 min
+
+Fold: 2, Epoch: 1, iters: 400/1334 | speed: 2.3224s/iter; left time: 139.4185 min
+
+Fold: 2, Epoch: 1, iters: 450/1334 | speed: 2.3527s/iter; left time: 139.2815 min
+
+Fold: 2, Epoch: 1, iters: 500/1334 | speed: 2.3371s/iter; left time: 136.4064 min
+
+Fold: 2, Epoch: 1, iters: 550/1334 | speed: 2.3585s/iter; left time: 135.6895 min
+
+Fold: 2, Epoch: 1, iters: 600/1334 | speed: 2.3784s/iter; left time: 134.8568 min
+
+Fold: 2, Epoch: 1, iters: 650/1334 | speed: 2.3638s/iter; left time: 132.0562 min
+
+Fold: 2, Epoch: 1, iters: 700/1334 | speed: 2.3740s/iter; left time: 130.6514 min
+
+Fold: 2, Epoch: 1, iters: 750/1334 | speed: 2.3427s/iter; left time: 126.9757 min
+
+Fold: 2, Epoch: 1, iters: 800/1334 | speed: 2.3302s/iter; left time: 124.3551 min
+
+Fold: 2, Epoch: 1, iters: 850/1334 | speed: 2.3118s/iter; left time: 121.4456 min
+
+Fold: 2, Epoch: 1, iters: 900/1334 | speed: 2.3790s/iter; left time: 122.9966 min
+
+Fold: 2, Epoch: 1, iters: 950/1334 | speed: 2.3287s/iter; left time: 118.4552 min
+
+Fold: 2, Epoch: 1, iters: 1000/1334 | speed: 2.3530s/iter; left time: 117.7295 min
+
+Fold: 2, Epoch: 1, iters: 1050/1334 | speed: 2.3514s/iter; left time: 115.6886 min
+
+Fold: 2, Epoch: 1, iters: 1100/1334 | speed: 2.3072s/iter; left time: 111.5894 min
+
+Fold: 2, Epoch: 1, iters: 1150/1334 | speed: 2.3605s/iter; left time: 112.2012 min
+
+Fold: 2, Epoch: 1, iters: 1200/1334 | speed: 2.3484s/iter; left time: 109.6704 min
+
+Fold: 2, Epoch: 1, iters: 1250/1334 | speed: 2.3543s/iter; left time: 107.9859 min
+
+Fold: 2, Epoch: 1, iters: 1300/1334 | speed: 2.3196s/iter; left time: 104.4602 min
+Epoch: 1 cost time: 3111.76518702507Updating learning rate to 0.0005
+
+Fold: 2, Epoch: 2, iters: 50/1334 | speed: 4.0753s/iter; left time: 177.8197 min
+
+Fold: 2, Epoch: 2, iters: 100/1334 | speed: 2.3330s/iter; left time: 99.8514 min
+
+Fold: 2, Epoch: 2, iters: 150/1334 | speed: 2.3449s/iter; left time: 98.4096 min
+
+Fold: 2, Epoch: 2, iters: 200/1334 | speed: 2.3612s/iter; left time: 97.1227 min
+
+Fold: 2, Epoch: 2, iters: 250/1334 | speed: 2.3568s/iter; left time: 94.9796 min
+
+Fold: 2, Epoch: 2, iters: 300/1334 | speed: 2.3321s/iter; left time: 92.0388 min
+
+Fold: 2, Epoch: 2, iters: 350/1334 | speed: 2.3548s/iter; left time: 90.9748 min
+
+Fold: 2, Epoch: 2, iters: 400/1334 | speed: 2.3513s/iter; left time: 88.8785 min
+
+Fold: 2, Epoch: 2, iters: 450/1334 | speed: 2.3235s/iter; left time: 85.8934 min
+
+Fold: 2, Epoch: 2, iters: 500/1334 | speed: 2.3344s/iter; left time: 84.3497 min
+
+Fold: 2, Epoch: 2, iters: 550/1334 | speed: 2.3320s/iter; left time: 82.3191 min
+
+Fold: 2, Epoch: 2, iters: 600/1334 | speed: 2.3057s/iter; left time: 79.4707 min
+
+Fold: 2, Epoch: 2, iters: 650/1334 | speed: 2.3272s/iter; left time: 78.2721 min
+
+Fold: 2, Epoch: 2, iters: 700/1334 | speed: 2.3389s/iter; left time: 76.7143 min
+
+Fold: 2, Epoch: 2, iters: 750/1334 | speed: 2.3338s/iter; left time: 74.6024 min
+
+Fold: 2, Epoch: 2, iters: 800/1334 | speed: 2.3092s/iter; left time: 71.8916 min
+
+Fold: 2, Epoch: 2, iters: 850/1334 | speed: 2.3742s/iter; left time: 71.9388 min
+
+Fold: 2, Epoch: 2, iters: 900/1334 | speed: 2.3529s/iter; left time: 69.3319 min
+
+Fold: 2, Epoch: 2, iters: 950/1334 | speed: 2.3526s/iter; left time: 67.3636 min
+
+Fold: 2, Epoch: 2, iters: 1000/1334 | speed: 2.3185s/iter; left time: 64.4541 min
+
+Fold: 2, Epoch: 2, iters: 1050/1334 | speed: 2.3095s/iter; left time: 62.2791 min
+
+Fold: 2, Epoch: 2, iters: 1100/1334 | speed: 2.3146s/iter; left time: 60.4875 min
+
+Fold: 2, Epoch: 2, iters: 1150/1334 | speed: 2.3296s/iter; left time: 58.9383 min
+
+Fold: 2, Epoch: 2, iters: 1200/1334 | speed: 2.3126s/iter; left time: 56.5827 min
+
+Fold: 2, Epoch: 2, iters: 1250/1334 | speed: 2.3659s/iter; left time: 55.9132 min
+
+Fold: 2, Epoch: 2, iters: 1300/1334 | speed: 2.3260s/iter; left time: 53.0339 min
+Epoch: 2 cost time: 3115.2129669189453Updating learning rate to 0.00025
+
+Fold: 2, Epoch: 3, iters: 50/1334 | speed: 4.1300s/iter; left time: 88.3829 min
+
+Fold: 2, Epoch: 3, iters: 100/1334 | speed: 2.3379s/iter; left time: 48.0837 min
+
+Fold: 2, Epoch: 3, iters: 150/1334 | speed: 2.3305s/iter; left time: 45.9879 min
+
+Fold: 2, Epoch: 3, iters: 200/1334 | speed: 2.3391s/iter; left time: 44.2091 min
+
+Fold: 2, Epoch: 3, iters: 250/1334 | speed: 2.3218s/iter; left time: 41.9470 min
+
+Fold: 2, Epoch: 3, iters: 300/1334 | speed: 2.3273s/iter; left time: 40.1077 min
+
+Fold: 2, Epoch: 3, iters: 350/1334 | speed: 2.2777s/iter; left time: 37.3537 min
+
+Fold: 2, Epoch: 3, iters: 400/1334 | speed: 2.2565s/iter; left time: 35.1266 min
+
+Fold: 2, Epoch: 3, iters: 450/1334 | speed: 2.2836s/iter; left time: 33.6452 min
+
+Fold: 2, Epoch: 3, iters: 500/1334 | speed: 2.3055s/iter; left time: 32.0463 min
+
+Fold: 2, Epoch: 3, iters: 550/1334 | speed: 2.2786s/iter; left time: 29.7738 min
+
+Fold: 2, Epoch: 3, iters: 600/1334 | speed: 2.2830s/iter; left time: 27.9293 min
+
+Fold: 2, Epoch: 3, iters: 650/1334 | speed: 2.2973s/iter; left time: 26.1898 min
+
+Fold: 2, Epoch: 3, iters: 700/1334 | speed: 2.2814s/iter; left time: 24.1071 min
+
+Fold: 2, Epoch: 3, iters: 750/1334 | speed: 2.2892s/iter; left time: 22.2813 min
+
+Fold: 2, Epoch: 3, iters: 800/1334 | speed: 2.2700s/iter; left time: 20.2029 min
+
+Fold: 2, Epoch: 3, iters: 850/1334 | speed: 2.2858s/iter; left time: 18.4392 min
+
+Fold: 2, Epoch: 3, iters: 900/1334 | speed: 2.2649s/iter; left time: 16.3830 min
+
+Fold: 2, Epoch: 3, iters: 950/1334 | speed: 2.2582s/iter; left time: 14.4528 min
+
+Fold: 2, Epoch: 3, iters: 1000/1334 | speed: 2.2656s/iter; left time: 12.6121 min
+
+Fold: 2, Epoch: 3, iters: 1050/1334 | speed: 2.2755s/iter; left time: 10.7708 min
+
+Fold: 2, Epoch: 3, iters: 1100/1334 | speed: 2.2605s/iter; left time: 8.8161 min
+
+Fold: 2, Epoch: 3, iters: 1150/1334 | speed: 2.2564s/iter; left time: 6.9197 min
+
+Fold: 2, Epoch: 3, iters: 1200/1334 | speed: 2.2936s/iter; left time: 5.1224 min
+
+Fold: 2, Epoch: 3, iters: 1250/1334 | speed: 2.2900s/iter; left time: 3.2059 min
+
+Fold: 2, Epoch: 3, iters: 1300/1334 | speed: 2.2644s/iter; left time: 1.2831 min
+Epoch: 3 cost time: 3056.6176521778107Updating learning rate to 0.000125
+Namespace(seed=3042, model='iTransformer_iFlashFormer', clean_data=True, root_path='/home/mw/input/bdc_train9198/global/global', checkpoints='./best_model/', factor=1.0, train_val_size=0.95, k_fold=3, print_freq=50, n_experts=2, task='wind', seq_len=168, pred_len=72, freq='h', enc_in=56, d_model=128, n_heads=8, e_layers=1, d_ff=64, dropout=0.1, activation='gelu', pretrain=False, pretrain_ckpt='', resume_epoch=0, num_workers=9, itr=1, train_epochs=3, batch_size=10240, learning_rate=0.001, lradj='type1', weight_decay=1e-06, use_gpu=True, gpu=0, use_multi_gpu=True, devices='0,1', device_ids=[0, 1])
+Use GPU: cuda:0
+
+Fold: 0, Epoch: 1, iters: 50/1334 | speed: 2.5157s/iter; left time: 165.7015 min
+
+Fold: 0, Epoch: 1, iters: 100/1334 | speed: 2.2557s/iter; left time: 146.6982 min
+
+Fold: 0, Epoch: 1, iters: 150/1334 | speed: 2.2690s/iter; left time: 145.6716 min
+
+Fold: 0, Epoch: 1, iters: 200/1334 | speed: 2.2814s/iter; left time: 144.5644 min
+
+Fold: 0, Epoch: 1, iters: 250/1334 | speed: 2.2775s/iter; left time: 142.4186 min
+
+Fold: 0, Epoch: 1, iters: 300/1334 | speed: 2.2640s/iter; left time: 139.6915 min
+
+Fold: 0, Epoch: 1, iters: 350/1334 | speed: 2.2765s/iter; left time: 138.5600 min
+
+Fold: 0, Epoch: 1, iters: 400/1334 | speed: 2.2610s/iter; left time: 135.7354 min
+
+Fold: 0, Epoch: 1, iters: 450/1334 | speed: 2.2753s/iter; left time: 134.6948 min
+
+Fold: 0, Epoch: 1, iters: 500/1334 | speed: 2.2655s/iter; left time: 132.2273 min
+
+Fold: 0, Epoch: 1, iters: 550/1334 | speed: 2.2611s/iter; left time: 130.0913 min
+
+Fold: 0, Epoch: 1, iters: 600/1334 | speed: 2.2673s/iter; left time: 128.5579 min
+
+Fold: 0, Epoch: 1, iters: 650/1334 | speed: 2.2281s/iter; left time: 124.4792 min
+
+Fold: 0, Epoch: 1, iters: 700/1334 | speed: 2.2722s/iter; left time: 125.0487 min
+
+Fold: 0, Epoch: 1, iters: 750/1334 | speed: 2.2702s/iter; left time: 123.0467 min
+
+Fold: 0, Epoch: 1, iters: 800/1334 | speed: 2.2412s/iter; left time: 119.6050 min
+
+Fold: 0, Epoch: 1, iters: 850/1334 | speed: 2.2807s/iter; left time: 119.8115 min
+
+Fold: 0, Epoch: 1, iters: 900/1334 | speed: 2.2994s/iter; left time: 118.8800 min
+
+Fold: 0, Epoch: 1, iters: 950/1334 | speed: 2.2589s/iter; left time: 114.9015 min
+
+Fold: 0, Epoch: 1, iters: 1000/1334 | speed: 2.2584s/iter; left time: 112.9933 min
+
+Fold: 0, Epoch: 1, iters: 1050/1334 | speed: 2.2830s/iter; left time: 112.3241 min
+
+Fold: 0, Epoch: 1, iters: 1100/1334 | speed: 2.2533s/iter; left time: 108.9870 min
+
+Fold: 0, Epoch: 1, iters: 1150/1334 | speed: 2.2344s/iter; left time: 106.2103 min
+
+Fold: 0, Epoch: 1, iters: 1200/1334 | speed: 2.2537s/iter; left time: 105.2499 min
+
+Fold: 0, Epoch: 1, iters: 1250/1334 | speed: 2.2320s/iter; left time: 102.3766 min
+
+Fold: 0, Epoch: 1, iters: 1300/1334 | speed: 2.2123s/iter; left time: 99.6279 min
+Epoch: 1 cost time: 3019.74915099144Updating learning rate to 0.0005
+
+Fold: 0, Epoch: 2, iters: 50/1334 | speed: 3.9382s/iter; left time: 171.8359 min
+
+Fold: 0, Epoch: 2, iters: 100/1334 | speed: 2.2218s/iter; left time: 95.0925 min
+
+Fold: 0, Epoch: 2, iters: 150/1334 | speed: 2.2510s/iter; left time: 94.4668 min
+
+Fold: 0, Epoch: 2, iters: 200/1334 | speed: 2.2342s/iter; left time: 91.9013 min
+
+Fold: 0, Epoch: 2, iters: 250/1334 | speed: 2.2539s/iter; left time: 90.8318 min
+
+Fold: 0, Epoch: 2, iters: 300/1334 | speed: 2.2115s/iter; left time: 87.2788 min
+
+Fold: 0, Epoch: 2, iters: 350/1334 | speed: 2.2346s/iter; left time: 86.3299 min
+
+Fold: 0, Epoch: 2, iters: 400/1334 | speed: 2.2259s/iter; left time: 84.1389 min
+
+Fold: 0, Epoch: 2, iters: 450/1334 | speed: 2.2444s/iter; left time: 82.9674 min
+
+Fold: 0, Epoch: 2, iters: 500/1334 | speed: 2.2672s/iter; left time: 81.9227 min
+
+Fold: 0, Epoch: 2, iters: 550/1334 | speed: 2.2551s/iter; left time: 79.6036 min
+
+Fold: 0, Epoch: 2, iters: 600/1334 | speed: 2.2331s/iter; left time: 76.9687 min
+
+Fold: 0, Epoch: 2, iters: 650/1334 | speed: 2.2234s/iter; left time: 74.7817 min
+
+Fold: 0, Epoch: 2, iters: 700/1334 | speed: 2.2187s/iter; left time: 72.7749 min
+
+Fold: 0, Epoch: 2, iters: 750/1334 | speed: 2.2713s/iter; left time: 72.6073 min
+
+Fold: 0, Epoch: 2, iters: 800/1334 | speed: 2.2342s/iter; left time: 69.5588 min
+
+Fold: 0, Epoch: 2, iters: 850/1334 | speed: 2.2409s/iter; left time: 67.9003 min
+
+Fold: 0, Epoch: 2, iters: 900/1334 | speed: 2.2321s/iter; left time: 65.7735 min
+
+Fold: 0, Epoch: 2, iters: 950/1334 | speed: 2.2526s/iter; left time: 64.4994 min
+
+Fold: 0, Epoch: 2, iters: 1000/1334 | speed: 2.2217s/iter; left time: 61.7641 min
+
+Fold: 0, Epoch: 2, iters: 1050/1334 | speed: 2.2252s/iter; left time: 60.0051 min
+
+Fold: 0, Epoch: 2, iters: 1100/1334 | speed: 2.2532s/iter; left time: 58.8827 min
+
+Fold: 0, Epoch: 2, iters: 1150/1334 | speed: 2.2475s/iter; left time: 56.8608 min
+
+Fold: 0, Epoch: 2, iters: 1200/1334 | speed: 2.2354s/iter; left time: 54.6940 min
+
+Fold: 0, Epoch: 2, iters: 1250/1334 | speed: 2.2459s/iter; left time: 53.0773 min
+
+Fold: 0, Epoch: 2, iters: 1300/1334 | speed: 2.2329s/iter; left time: 50.9098 min
+Epoch: 2 cost time: 2987.3245389461517Updating learning rate to 0.00025
+
+Fold: 0, Epoch: 3, iters: 50/1334 | speed: 3.9324s/iter; left time: 84.1526 min
+
+Fold: 0, Epoch: 3, iters: 100/1334 | speed: 2.2402s/iter; left time: 46.0744 min
+
+Fold: 0, Epoch: 3, iters: 150/1334 | speed: 2.2476s/iter; left time: 44.3528 min
+
+Fold: 0, Epoch: 3, iters: 200/1334 | speed: 2.2161s/iter; left time: 41.8844 min
+
+Fold: 0, Epoch: 3, iters: 250/1334 | speed: 2.2312s/iter; left time: 40.3099 min
+
+Fold: 0, Epoch: 3, iters: 300/1334 | speed: 2.2273s/iter; left time: 38.3837 min
+
+Fold: 0, Epoch: 3, iters: 350/1334 | speed: 2.3346s/iter; left time: 38.2871 min
+
+Fold: 0, Epoch: 3, iters: 400/1334 | speed: 2.3076s/iter; left time: 35.9223 min
+
+Fold: 0, Epoch: 3, iters: 450/1334 | speed: 2.3428s/iter; left time: 34.5173 min
+
+Fold: 0, Epoch: 3, iters: 500/1334 | speed: 2.3143s/iter; left time: 32.1694 min
+
+Fold: 0, Epoch: 3, iters: 550/1334 | speed: 2.2956s/iter; left time: 29.9952 min
+
+Fold: 0, Epoch: 3, iters: 600/1334 | speed: 2.3347s/iter; left time: 28.5607 min
+
+Fold: 0, Epoch: 3, iters: 650/1334 | speed: 2.3150s/iter; left time: 26.3911 min
+
+Fold: 0, Epoch: 3, iters: 700/1334 | speed: 2.3114s/iter; left time: 24.4236 min
+
+Fold: 0, Epoch: 3, iters: 750/1334 | speed: 2.2896s/iter; left time: 22.2852 min
+
+Fold: 0, Epoch: 3, iters: 800/1334 | speed: 2.2583s/iter; left time: 20.0987 min
+
+Fold: 0, Epoch: 3, iters: 850/1334 | speed: 2.2972s/iter; left time: 18.5305 min
+
+Fold: 0, Epoch: 3, iters: 900/1334 | speed: 2.3220s/iter; left time: 16.7958 min
+
+Fold: 0, Epoch: 3, iters: 950/1334 | speed: 2.2896s/iter; left time: 14.6537 min
+
+Fold: 0, Epoch: 3, iters: 1000/1334 | speed: 2.3004s/iter; left time: 12.8054 min
+
+Fold: 0, Epoch: 3, iters: 1050/1334 | speed: 2.3125s/iter; left time: 10.9460 min
+
+Fold: 0, Epoch: 3, iters: 1100/1334 | speed: 2.3144s/iter; left time: 9.0262 min
+
+Fold: 0, Epoch: 3, iters: 1150/1334 | speed: 2.2829s/iter; left time: 7.0009 min
+
+Fold: 0, Epoch: 3, iters: 1200/1334 | speed: 2.2946s/iter; left time: 5.1247 min
+
+Fold: 0, Epoch: 3, iters: 1250/1334 | speed: 2.2681s/iter; left time: 3.1754 min
+
+Fold: 0, Epoch: 3, iters: 1300/1334 | speed: 2.3052s/iter; left time: 1.3063 min
+Epoch: 3 cost time: 3053.751814842224Updating learning rate to 0.000125
+
+Fold: 1, Epoch: 1, iters: 50/1334 | speed: 2.4514s/iter; left time: 161.4655 min
+
+Fold: 1, Epoch: 1, iters: 100/1334 | speed: 2.2889s/iter; left time: 148.8568 min
+
+Fold: 1, Epoch: 1, iters: 150/1334 | speed: 2.2929s/iter; left time: 147.2062 min
+
+Fold: 1, Epoch: 1, iters: 200/1334 | speed: 2.2880s/iter; left time: 144.9828 min
+
+Fold: 1, Epoch: 1, iters: 250/1334 | speed: 2.2803s/iter; left time: 142.5928 min
+
+Fold: 1, Epoch: 1, iters: 300/1334 | speed: 2.2897s/iter; left time: 141.2746 min
+
+Fold: 1, Epoch: 1, iters: 350/1334 | speed: 2.3340s/iter; left time: 142.0628 min
+
+Fold: 1, Epoch: 1, iters: 400/1334 | speed: 2.3014s/iter; left time: 138.1600 min
+
+Fold: 1, Epoch: 1, iters: 450/1334 | speed: 2.3133s/iter; left time: 136.9463 min
+
+Fold: 1, Epoch: 1, iters: 500/1334 | speed: 2.2771s/iter; left time: 132.9084 min
+
+Fold: 1, Epoch: 1, iters: 550/1334 | speed: 2.2966s/iter; left time: 132.1314 min
+
+Fold: 1, Epoch: 1, iters: 600/1334 | speed: 2.3286s/iter; left time: 132.0307 min
+
+Fold: 1, Epoch: 1, iters: 650/1334 | speed: 2.2591s/iter; left time: 126.2103 min
+
+Fold: 1, Epoch: 1, iters: 700/1334 | speed: 2.2929s/iter; left time: 126.1881 min
+
+Fold: 1, Epoch: 1, iters: 750/1334 | speed: 2.2989s/iter; left time: 124.6031 min
+
+Fold: 1, Epoch: 1, iters: 800/1334 | speed: 2.2899s/iter; left time: 122.2053 min
+
+Fold: 1, Epoch: 1, iters: 850/1334 | speed: 2.3274s/iter; left time: 122.2656 min
+
+Fold: 1, Epoch: 1, iters: 900/1334 | speed: 2.2528s/iter; left time: 116.4686 min
+
+Fold: 1, Epoch: 1, iters: 950/1334 | speed: 2.2853s/iter; left time: 116.2448 min
+
+Fold: 1, Epoch: 1, iters: 1000/1334 | speed: 2.2898s/iter; left time: 114.5664 min
+
+Fold: 1, Epoch: 1, iters: 1050/1334 | speed: 2.2522s/iter; left time: 110.8069 min
+
+Fold: 1, Epoch: 1, iters: 1100/1334 | speed: 2.2841s/iter; left time: 110.4734 min
+
+Fold: 1, Epoch: 1, iters: 1150/1334 | speed: 2.2587s/iter; left time: 107.3633 min
+
+Fold: 1, Epoch: 1, iters: 1200/1334 | speed: 2.2576s/iter; left time: 105.4315 min
+
+Fold: 1, Epoch: 1, iters: 1250/1334 | speed: 2.2512s/iter; left time: 103.2531 min
+
+Fold: 1, Epoch: 1, iters: 1300/1334 | speed: 2.2212s/iter; left time: 100.0265 min
+Epoch: 1 cost time: 3035.371381521225Updating learning rate to 0.0005
+
+Fold: 1, Epoch: 2, iters: 50/1334 | speed: 3.5739s/iter; left time: 155.9416 min
+
+Fold: 1, Epoch: 2, iters: 100/1334 | speed: 2.2758s/iter; left time: 97.4053 min
+
+Fold: 1, Epoch: 2, iters: 150/1334 | speed: 2.2400s/iter; left time: 94.0050 min
+
+Fold: 1, Epoch: 2, iters: 200/1334 | speed: 2.2499s/iter; left time: 92.5460 min
+
+Fold: 1, Epoch: 2, iters: 250/1334 | speed: 2.2704s/iter; left time: 91.4973 min
+
+Fold: 1, Epoch: 2, iters: 300/1334 | speed: 2.2661s/iter; left time: 89.4336 min
+
+Fold: 1, Epoch: 2, iters: 350/1334 | speed: 2.2641s/iter; left time: 87.4691 min
+
+Fold: 1, Epoch: 2, iters: 400/1334 | speed: 2.2507s/iter; left time: 85.0752 min
+
+Fold: 1, Epoch: 2, iters: 450/1334 | speed: 2.2574s/iter; left time: 83.4504 min
+
+Fold: 1, Epoch: 2, iters: 500/1334 | speed: 2.2829s/iter; left time: 82.4882 min
+
+Fold: 1, Epoch: 2, iters: 550/1334 | speed: 2.2771s/iter; left time: 80.3815 min
+
+Fold: 1, Epoch: 2, iters: 600/1334 | speed: 2.2401s/iter; left time: 77.2104 min
+
+Fold: 1, Epoch: 2, iters: 650/1334 | speed: 2.2672s/iter; left time: 76.2538 min
+
+Fold: 1, Epoch: 2, iters: 700/1334 | speed: 2.2656s/iter; left time: 74.3107 min
+
+Fold: 1, Epoch: 2, iters: 750/1334 | speed: 2.2504s/iter; left time: 71.9370 min
+
+Fold: 1, Epoch: 2, iters: 800/1334 | speed: 2.2559s/iter; left time: 70.2347 min
+
+Fold: 1, Epoch: 2, iters: 850/1334 | speed: 2.2408s/iter; left time: 67.8972 min
+
+Fold: 1, Epoch: 2, iters: 900/1334 | speed: 2.2693s/iter; left time: 66.8694 min
+
+Fold: 1, Epoch: 2, iters: 950/1334 | speed: 2.2704s/iter; left time: 65.0089 min
+
+Fold: 1, Epoch: 2, iters: 1000/1334 | speed: 2.2638s/iter; left time: 62.9324 min
+
+Fold: 1, Epoch: 2, iters: 1050/1334 | speed: 2.2620s/iter; left time: 60.9976 min
+
+Fold: 1, Epoch: 2, iters: 1100/1334 | speed: 2.2597s/iter; left time: 59.0535 min
+
+Fold: 1, Epoch: 2, iters: 1150/1334 | speed: 2.2615s/iter; left time: 57.2159 min
+
+Fold: 1, Epoch: 2, iters: 1200/1334 | speed: 2.2706s/iter; left time: 55.5544 min
+
+Fold: 1, Epoch: 2, iters: 1250/1334 | speed: 2.2771s/iter; left time: 53.8144 min
+
+Fold: 1, Epoch: 2, iters: 1300/1334 | speed: 2.2721s/iter; left time: 51.8029 min
+Epoch: 2 cost time: 3009.355007171631Updating learning rate to 0.00025
+
+Fold: 1, Epoch: 3, iters: 50/1334 | speed: 3.9741s/iter; left time: 85.0460 min
+
+Fold: 1, Epoch: 3, iters: 100/1334 | speed: 2.2508s/iter; left time: 46.2915 min
+
+Fold: 1, Epoch: 3, iters: 150/1334 | speed: 2.2543s/iter; left time: 44.4844 min
+
+Fold: 1, Epoch: 3, iters: 200/1334 | speed: 2.2544s/iter; left time: 42.6080 min
+
+Fold: 1, Epoch: 3, iters: 250/1334 | speed: 2.2448s/iter; left time: 40.5552 min
+
+Fold: 1, Epoch: 3, iters: 300/1334 | speed: 2.2711s/iter; left time: 39.1394 min
+
+Fold: 1, Epoch: 3, iters: 350/1334 | speed: 2.2528s/iter; left time: 36.9460 min
+
+Fold: 1, Epoch: 3, iters: 400/1334 | speed: 2.2709s/iter; left time: 35.3507 min
+
+Fold: 1, Epoch: 3, iters: 450/1334 | speed: 2.2795s/iter; left time: 33.5842 min
+
+Fold: 1, Epoch: 3, iters: 500/1334 | speed: 2.2319s/iter; left time: 31.0231 min
+
+Fold: 1, Epoch: 3, iters: 550/1334 | speed: 2.2486s/iter; left time: 29.3823 min
+
+Fold: 1, Epoch: 3, iters: 600/1334 | speed: 2.2406s/iter; left time: 27.4099 min
+
+Fold: 1, Epoch: 3, iters: 650/1334 | speed: 2.2438s/iter; left time: 25.5797 min
+
+Fold: 1, Epoch: 3, iters: 700/1334 | speed: 2.2350s/iter; left time: 23.6167 min
+
+Fold: 1, Epoch: 3, iters: 750/1334 | speed: 2.2605s/iter; left time: 22.0019 min
+
+Fold: 1, Epoch: 3, iters: 800/1334 | speed: 2.2610s/iter; left time: 20.1226 min
+
+Fold: 1, Epoch: 3, iters: 850/1334 | speed: 2.1824s/iter; left time: 17.6043 min
+
+Fold: 1, Epoch: 3, iters: 900/1334 | speed: 2.2267s/iter; left time: 16.1062 min
+
+Fold: 1, Epoch: 3, iters: 950/1334 | speed: 2.2186s/iter; left time: 14.1993 min
+
+Fold: 1, Epoch: 3, iters: 1000/1334 | speed: 2.2033s/iter; left time: 12.2653 min
+
+Fold: 1, Epoch: 3, iters: 1050/1334 | speed: 2.2070s/iter; left time: 10.4463 min
+
+Fold: 1, Epoch: 3, iters: 1100/1334 | speed: 2.2191s/iter; left time: 8.6544 min
+
+Fold: 1, Epoch: 3, iters: 1150/1334 | speed: 2.2038s/iter; left time: 6.7582 min
+
+Fold: 1, Epoch: 3, iters: 1200/1334 | speed: 2.2048s/iter; left time: 4.9241 min
+
+Fold: 1, Epoch: 3, iters: 1250/1334 | speed: 2.2113s/iter; left time: 3.0958 min
+
+Fold: 1, Epoch: 3, iters: 1300/1334 | speed: 2.1978s/iter; left time: 1.2454 min
+Epoch: 3 cost time: 2983.9083518981934Updating learning rate to 0.000125
+
+Fold: 2, Epoch: 1, iters: 50/1334 | speed: 2.3834s/iter; left time: 156.9836 min
+
+Fold: 2, Epoch: 1, iters: 100/1334 | speed: 2.2049s/iter; left time: 143.3924 min
+
+Fold: 2, Epoch: 1, iters: 150/1334 | speed: 2.2020s/iter; left time: 141.3667 min
+
+Fold: 2, Epoch: 1, iters: 200/1334 | speed: 2.2024s/iter; left time: 139.5557 min
+
+Fold: 2, Epoch: 1, iters: 250/1334 | speed: 2.2144s/iter; left time: 138.4761 min
+
+Fold: 2, Epoch: 1, iters: 300/1334 | speed: 2.2091s/iter; left time: 136.3032 min
+
+Fold: 2, Epoch: 1, iters: 350/1334 | speed: 2.1902s/iter; left time: 133.3120 min
+
+Fold: 2, Epoch: 1, iters: 400/1334 | speed: 2.2065s/iter; left time: 132.4631 min
+
+Fold: 2, Epoch: 1, iters: 450/1334 | speed: 2.1942s/iter; left time: 129.8939 min
+
+Fold: 2, Epoch: 1, iters: 500/1334 | speed: 2.2118s/iter; left time: 129.0928 min
+
+Fold: 2, Epoch: 1, iters: 550/1334 | speed: 2.2000s/iter; left time: 126.5736 min
+
+Fold: 2, Epoch: 1, iters: 600/1334 | speed: 2.1922s/iter; left time: 124.2954 min
+
+Fold: 2, Epoch: 1, iters: 650/1334 | speed: 2.1904s/iter; left time: 122.3695 min
+
+Fold: 2, Epoch: 1, iters: 700/1334 | speed: 2.2160s/iter; left time: 121.9552 min
+
+Fold: 2, Epoch: 1, iters: 750/1334 | speed: 2.1980s/iter; left time: 119.1298 min
+
+Fold: 2, Epoch: 1, iters: 800/1334 | speed: 2.2085s/iter; left time: 117.8603 min
+
+Fold: 2, Epoch: 1, iters: 850/1334 | speed: 2.2013s/iter; left time: 115.6425 min
+
+Fold: 2, Epoch: 1, iters: 900/1334 | speed: 2.2025s/iter; left time: 113.8717 min
+
+Fold: 2, Epoch: 1, iters: 950/1334 | speed: 2.2036s/iter; left time: 112.0900 min
+
+Fold: 2, Epoch: 1, iters: 1000/1334 | speed: 2.2074s/iter; left time: 110.4435 min
+
+Fold: 2, Epoch: 1, iters: 1050/1334 | speed: 2.2123s/iter; left time: 108.8428 min
+
+Fold: 2, Epoch: 1, iters: 1100/1334 | speed: 2.2040s/iter; left time: 106.6004 min
+
+Fold: 2, Epoch: 1, iters: 1150/1334 | speed: 2.2056s/iter; left time: 104.8396 min
+
+Fold: 2, Epoch: 1, iters: 1200/1334 | speed: 2.2026s/iter; left time: 102.8592 min
+
+Fold: 2, Epoch: 1, iters: 1250/1334 | speed: 2.1975s/iter; left time: 100.7900 min
+
+Fold: 2, Epoch: 1, iters: 1300/1334 | speed: 2.2205s/iter; left time: 99.9985 min
+Epoch: 1 cost time: 2941.3601722717285Updating learning rate to 0.0005
+
+Fold: 2, Epoch: 2, iters: 50/1334 | speed: 3.8834s/iter; left time: 169.4449 min
+
+Fold: 2, Epoch: 2, iters: 100/1334 | speed: 2.1976s/iter; left time: 94.0574 min
+
+Fold: 2, Epoch: 2, iters: 150/1334 | speed: 2.2125s/iter; left time: 92.8523 min
+
+Fold: 2, Epoch: 2, iters: 200/1334 | speed: 2.2131s/iter; left time: 91.0329 min
+
+Fold: 2, Epoch: 2, iters: 250/1334 | speed: 2.2214s/iter; left time: 89.5215 min
+
+Fold: 2, Epoch: 2, iters: 300/1334 | speed: 2.1908s/iter; left time: 86.4620 min
+
+Fold: 2, Epoch: 2, iters: 350/1334 | speed: 2.1957s/iter; left time: 84.8254 min
+
+Fold: 2, Epoch: 2, iters: 400/1334 | speed: 2.2058s/iter; left time: 83.3802 min
+
+Fold: 2, Epoch: 2, iters: 450/1334 | speed: 2.2039s/iter; left time: 81.4714 min
+
+Fold: 2, Epoch: 2, iters: 500/1334 | speed: 2.2107s/iter; left time: 79.8813 min
+
+Fold: 2, Epoch: 2, iters: 550/1334 | speed: 2.2071s/iter; left time: 77.9101 min
+
+Fold: 2, Epoch: 2, iters: 600/1334 | speed: 2.2096s/iter; left time: 76.1581 min
+
+Fold: 2, Epoch: 2, iters: 650/1334 | speed: 2.2199s/iter; left time: 74.6627 min
+
+Fold: 2, Epoch: 2, iters: 700/1334 | speed: 2.2011s/iter; left time: 72.1949 min
+
+Fold: 2, Epoch: 2, iters: 750/1334 | speed: 2.2157s/iter; left time: 70.8289 min
+
+Fold: 2, Epoch: 2, iters: 800/1334 | speed: 2.1884s/iter; left time: 68.1318 min
+
+Fold: 2, Epoch: 2, iters: 850/1334 | speed: 2.1621s/iter; left time: 65.5109 min
+
+Fold: 2, Epoch: 2, iters: 900/1334 | speed: 2.2185s/iter; left time: 65.3720 min
+
+Fold: 2, Epoch: 2, iters: 950/1334 | speed: 2.1891s/iter; left time: 62.6801 min
+
+Fold: 2, Epoch: 2, iters: 1000/1334 | speed: 2.2226s/iter; left time: 61.7888 min
+
+Fold: 2, Epoch: 2, iters: 1050/1334 | speed: 2.2176s/iter; left time: 59.8002 min
+
+Fold: 2, Epoch: 2, iters: 1100/1334 | speed: 2.2213s/iter; left time: 58.0507 min
+
+Fold: 2, Epoch: 2, iters: 1150/1334 | speed: 2.2156s/iter; left time: 56.0543 min
+
+Fold: 2, Epoch: 2, iters: 1200/1334 | speed: 2.2171s/iter; left time: 54.2446 min
+
+Fold: 2, Epoch: 2, iters: 1250/1334 | speed: 2.1998s/iter; left time: 51.9890 min
+
+Fold: 2, Epoch: 2, iters: 1300/1334 | speed: 2.2173s/iter; left time: 50.5547 min
+Epoch: 2 cost time: 2945.9177074432373Updating learning rate to 0.00025
+
+Fold: 2, Epoch: 3, iters: 50/1334 | speed: 3.8842s/iter; left time: 83.1228 min
+
+Fold: 2, Epoch: 3, iters: 100/1334 | speed: 2.2273s/iter; left time: 45.8075 min
+
+Fold: 2, Epoch: 3, iters: 150/1334 | speed: 2.2223s/iter; left time: 43.8529 min
+
+Fold: 2, Epoch: 3, iters: 200/1334 | speed: 2.2591s/iter; left time: 42.6965 min
+
+Fold: 2, Epoch: 3, iters: 250/1334 | speed: 2.2325s/iter; left time: 40.3343 min
+
+Fold: 2, Epoch: 3, iters: 300/1334 | speed: 2.2445s/iter; left time: 38.6810 min
+
+Fold: 2, Epoch: 3, iters: 350/1334 | speed: 2.2250s/iter; left time: 36.4903 min
+
+Fold: 2, Epoch: 3, iters: 400/1334 | speed: 2.2169s/iter; left time: 34.5100 min
+
+Fold: 2, Epoch: 3, iters: 450/1334 | speed: 2.2110s/iter; left time: 32.5754 min
+
+Fold: 2, Epoch: 3, iters: 500/1334 | speed: 2.1998s/iter; left time: 30.5777 min
+
+Fold: 2, Epoch: 3, iters: 550/1334 | speed: 2.2132s/iter; left time: 28.9186 min
+
+Fold: 2, Epoch: 3, iters: 600/1334 | speed: 2.2130s/iter; left time: 27.0729 min
+
+Fold: 2, Epoch: 3, iters: 650/1334 | speed: 2.2308s/iter; left time: 25.4306 min
+
+Fold: 2, Epoch: 3, iters: 700/1334 | speed: 2.2211s/iter; left time: 23.4700 min
+
+Fold: 2, Epoch: 3, iters: 750/1334 | speed: 2.2117s/iter; left time: 21.5273 min
+
+Fold: 2, Epoch: 3, iters: 800/1334 | speed: 2.2084s/iter; left time: 19.6544 min
+
+Fold: 2, Epoch: 3, iters: 850/1334 | speed: 2.2322s/iter; left time: 18.0066 min
+
+Fold: 2, Epoch: 3, iters: 900/1334 | speed: 2.2208s/iter; left time: 16.0636 min
+
+Fold: 2, Epoch: 3, iters: 950/1334 | speed: 2.2049s/iter; left time: 14.1114 min
+
+Fold: 2, Epoch: 3, iters: 1000/1334 | speed: 2.2168s/iter; left time: 12.3403 min
+
+Fold: 2, Epoch: 3, iters: 1050/1334 | speed: 2.2276s/iter; left time: 10.5440 min
+
+Fold: 2, Epoch: 3, iters: 1100/1334 | speed: 2.2121s/iter; left time: 8.6271 min
+
+Fold: 2, Epoch: 3, iters: 1150/1334 | speed: 2.1772s/iter; left time: 6.6768 min
+
+Fold: 2, Epoch: 3, iters: 1200/1334 | speed: 2.2029s/iter; left time: 4.9198 min
+
+Fold: 2, Epoch: 3, iters: 1250/1334 | speed: 2.2034s/iter; left time: 3.0847 min
+
+Fold: 2, Epoch: 3, iters: 1300/1334 | speed: 2.2208s/iter; left time: 1.2584 min
+Epoch: 3 cost time: 2959.6243250370026Updating learning rate to 0.000125
+Namespace(seed=3407, model='iTransformer_iFlashFormer', clean_data=True, root_path='/home/mw/input/bdc_train9198/global/global', checkpoints='./best_model/', factor=1.0, train_val_size=0.95, k_fold=3, print_freq=50, n_experts=2, task='both', seq_len=168, pred_len=72, freq='h', enc_in=56, d_model=128, n_heads=8, e_layers=1, d_ff=64, dropout=0.1, activation='gelu', pretrain=False, pretrain_ckpt='', resume_epoch=0, num_workers=9, itr=1, train_epochs=3, batch_size=10240, learning_rate=0.001, lradj='type1', weight_decay=1e-06, use_gpu=True, gpu=0, use_multi_gpu=True, devices='0,1', device_ids=[0, 1])
+Use GPU: cuda:0
+Traceback (most recent call last):
+  File "/home/mw/project/my_code/train.py", line 147, in <module>
+    exp.train()
+  File "/home/mw/project/my_code/exp/exp_long_term_forecasting.py", line 160, in train
+    iter += 1
+    ^^^^
+UnboundLocalError: cannot access local variable 'iter' where it is not associated with a value
+Namespace(seed=3407, model='iTransformer_iFlashFormer', clean_data=True, root_path='/home/mw/input/bdc_train9198/global/global', checkpoints='./best_model/', factor=1.0, train_val_size=0.95, k_fold=3, print_freq=50, n_experts=2, task='temp', seq_len=168, pred_len=72, freq='h', enc_in=56, d_model=128, n_heads=8, e_layers=1, d_ff=64, dropout=0.1, activation='gelu', pretrain=False, pretrain_ckpt='', resume_epoch=0, num_workers=9, itr=1, train_epochs=3, batch_size=10240, learning_rate=0.001, lradj='type1', weight_decay=1e-06, use_gpu=True, gpu=0, use_multi_gpu=True, devices='0,1', device_ids=[0, 1])
+Use GPU: cuda:0
+Traceback (most recent call last):
+  File "/home/mw/project/my_code/train.py", line 147, in <module>
+    exp.train()
+  File "/home/mw/project/my_code/exp/exp_long_term_forecasting.py", line 160, in train
+    iter += 1
+    ^^^^
+UnboundLocalError: cannot access local variable 'iter' where it is not associated with a value
+Namespace(seed=3407, model='iTransformer_iFlashFormer', clean_data=True, root_path='/home/mw/input/bdc_train9198/global/global', checkpoints='./best_model/', factor=1.0, train_val_size=0.95, k_fold=3, print_freq=50, n_experts=2, task='wind', seq_len=168, pred_len=72, freq='h', enc_in=56, d_model=128, n_heads=8, e_layers=1, d_ff=64, dropout=0.1, activation='gelu', pretrain=False, pretrain_ckpt='', resume_epoch=0, num_workers=9, itr=1, train_epochs=3, batch_size=10240, learning_rate=0.001, lradj='type1', weight_decay=1e-06, use_gpu=True, gpu=0, use_multi_gpu=True, devices='0,1', device_ids=[0, 1])
+Use GPU: cuda:0
+
+Fold: 0, Epoch: 1, iters: 50/1337 | loss: 3.5176891 temp 0.0000000 wind 3.5176891 speed: 2.4464s/iter; left time: 161.5059 min
+
+Fold: 0, Epoch: 1, iters: 100/1337 | loss: 3.3624722 temp 0.0000000 wind 3.3624722 speed: 2.1996s/iter; left time: 143.3773 min
+
+Fold: 0, Epoch: 1, iters: 150/1337 | loss: 3.3292978 temp 0.0000000 wind 3.3292978 speed: 2.2317s/iter; left time: 143.6080 min
+
+Fold: 0, Epoch: 1, iters: 200/1337 | loss: 3.3050121 temp 0.0000000 wind 3.3050121 speed: 2.2310s/iter; left time: 141.7088 min
+
+Fold: 0, Epoch: 1, iters: 250/1337 | loss: 3.2893241 temp 0.0000000 wind 3.2893241 speed: 2.2228s/iter; left time: 139.3343 min
+
+Fold: 0, Epoch: 1, iters: 300/1337 | loss: 3.2786558 temp 0.0000000 wind 3.2786558 speed: 2.2290s/iter; left time: 137.8662 min
+
+Fold: 0, Epoch: 1, iters: 350/1337 | loss: 3.2632505 temp 0.0000000 wind 3.2632505 speed: 2.2491s/iter; left time: 137.2311 min
+
+Fold: 0, Epoch: 1, iters: 400/1337 | loss: 3.2507102 temp 0.0000000 wind 3.2507102 speed: 2.2335s/iter; left time: 134.4166 min
+
+Fold: 0, Epoch: 1, iters: 450/1337 | loss: 3.2565864 temp 0.0000000 wind 3.2565864 speed: 2.2259s/iter; left time: 132.1073 min
+
+Fold: 0, Epoch: 1, iters: 500/1337 | loss: 3.2407976 temp 0.0000000 wind 3.2407976 speed: 2.2038s/iter; left time: 128.9614 min
+
+Fold: 0, Epoch: 1, iters: 550/1337 | loss: 3.2360140 temp 0.0000000 wind 3.2360140 speed: 2.2494s/iter; left time: 129.7532 min
+
+Fold: 0, Epoch: 1, iters: 600/1337 | loss: 3.2257096 temp 0.0000000 wind 3.2257096 speed: 2.2186s/iter; left time: 126.1260 min
+
+Fold: 0, Epoch: 1, iters: 650/1337 | loss: 3.2181450 temp 0.0000000 wind 3.2181450 speed: 2.2324s/iter; left time: 125.0508 min
+
+Fold: 0, Epoch: 1, iters: 700/1337 | loss: 3.2154668 temp 0.0000000 wind 3.2154668 speed: 2.2403s/iter; left time: 123.6275 min
+
+Fold: 0, Epoch: 1, iters: 750/1337 | loss: 3.2167309 temp 0.0000000 wind 3.2167309 speed: 2.2388s/iter; left time: 121.6766 min
+
+Fold: 0, Epoch: 1, iters: 800/1337 | loss: 3.2114821 temp 0.0000000 wind 3.2114821 speed: 2.2210s/iter; left time: 118.8593 min
+
+Fold: 0, Epoch: 1, iters: 850/1337 | loss: 3.2059595 temp 0.0000000 wind 3.2059595 speed: 2.2311s/iter; left time: 117.5440 min
+
+Fold: 0, Epoch: 1, iters: 900/1337 | loss: 3.1947465 temp 0.0000000 wind 3.1947465 speed: 2.2541s/iter; left time: 116.8736 min
+
+Fold: 0, Epoch: 1, iters: 950/1337 | loss: 3.2000196 temp 0.0000000 wind 3.2000196 speed: 2.2208s/iter; left time: 113.2962 min
+
+Fold: 0, Epoch: 1, iters: 1000/1337 | loss: 3.1857366 temp 0.0000000 wind 3.1857366 speed: 2.2376s/iter; left time: 112.2918 min
+
+Fold: 0, Epoch: 1, iters: 1050/1337 | loss: 3.1808816 temp 0.0000000 wind 3.1808816 speed: 2.2078s/iter; left time: 108.9554 min
+
+Fold: 0, Epoch: 1, iters: 1100/1337 | loss: 3.1801782 temp 0.0000000 wind 3.1801782 speed: 2.2119s/iter; left time: 107.3151 min
+
+Fold: 0, Epoch: 1, iters: 1150/1337 | loss: 3.1798443 temp 0.0000000 wind 3.1798443 speed: 2.2195s/iter; left time: 105.8319 min
+
+Fold: 0, Epoch: 1, iters: 1200/1337 | loss: 3.1657235 temp 0.0000000 wind 3.1657235 speed: 2.2296s/iter; left time: 104.4572 min
+
+Fold: 0, Epoch: 1, iters: 1250/1337 | loss: 3.1717022 temp 0.0000000 wind 3.1717022 speed: 2.2166s/iter; left time: 102.0006 min
+
+Fold: 0, Epoch: 1, iters: 1300/1337 | loss: 3.1629848 temp 0.0000000 wind 3.1629848 speed: 2.1968s/iter; left time: 99.2570 min
+Epoch: 1 cost time: 2979.2461886405945	Fold: 0, Epoch: 1, Steps: 1337 | Train Loss: 3.2377199, Temp 0.0000000, Wind 3.2377199, Val Loss: 0.0000000 Temp 0.0000000 Wind 0.0000000
+Updating learning rate to 0.0005
+
+Fold: 0, Epoch: 2, iters: 50/1337 | loss: 3.1450772 temp 0.0000000 wind 3.1450772 speed: 4.0219s/iter; left time: 175.8929 min
+
+Fold: 0, Epoch: 2, iters: 100/1337 | loss: 3.1482227 temp 0.0000000 wind 3.1482227 speed: 2.2338s/iter; left time: 95.8319 min
+
+Fold: 0, Epoch: 2, iters: 150/1337 | loss: 3.1392472 temp 0.0000000 wind 3.1392472 speed: 2.2201s/iter; left time: 93.3921 min
+
+Fold: 0, Epoch: 2, iters: 200/1337 | loss: 3.1342337 temp 0.0000000 wind 3.1342337 speed: 2.2312s/iter; left time: 91.9987 min
+
+Fold: 0, Epoch: 2, iters: 250/1337 | loss: 3.1444957 temp 0.0000000 wind 3.1444957 speed: 2.2226s/iter; left time: 89.7918 min
+
+Fold: 0, Epoch: 2, iters: 300/1337 | loss: 3.1369641 temp 0.0000000 wind 3.1369641 speed: 2.2243s/iter; left time: 88.0089 min
+
+Fold: 0, Epoch: 2, iters: 350/1337 | loss: 3.1320429 temp 0.0000000 wind 3.1320429 speed: 2.2258s/iter; left time: 86.2127 min
+
+Fold: 0, Epoch: 2, iters: 400/1337 | loss: 3.1306464 temp 0.0000000 wind 3.1306464 speed: 2.2270s/iter; left time: 84.4029 min
+
+Fold: 0, Epoch: 2, iters: 450/1337 | loss: 3.1267407 temp 0.0000000 wind 3.1267407 speed: 2.2270s/iter; left time: 82.5465 min
+
+Fold: 0, Epoch: 2, iters: 500/1337 | loss: 3.1306932 temp 0.0000000 wind 3.1306932 speed: 2.2305s/iter; left time: 80.8185 min
+
+Fold: 0, Epoch: 2, iters: 550/1337 | loss: 3.1242237 temp 0.0000000 wind 3.1242237 speed: 2.2091s/iter; left time: 78.2025 min
+
+Fold: 0, Epoch: 2, iters: 600/1337 | loss: 3.1212301 temp 0.0000000 wind 3.1212301 speed: 2.2140s/iter; left time: 76.5306 min
+
+Fold: 0, Epoch: 2, iters: 650/1337 | loss: 3.1217319 temp 0.0000000 wind 3.1217319 speed: 2.2381s/iter; left time: 75.4985 min
+
+Fold: 0, Epoch: 2, iters: 700/1337 | loss: 3.1166483 temp 0.0000000 wind 3.1166483 speed: 2.2217s/iter; left time: 73.0946 min
+
+Fold: 0, Epoch: 2, iters: 750/1337 | loss: 3.1189390 temp 0.0000000 wind 3.1189390 speed: 2.2264s/iter; left time: 71.3921 min
+
+Fold: 0, Epoch: 2, iters: 800/1337 | loss: 3.1139227 temp 0.0000000 wind 3.1139227 speed: 2.2136s/iter; left time: 69.1369 min
+
+Fold: 0, Epoch: 2, iters: 850/1337 | loss: 3.1146396 temp 0.0000000 wind 3.1146396 speed: 2.2406s/iter; left time: 68.1130 min
+
+Fold: 0, Epoch: 2, iters: 900/1337 | loss: 3.1139713 temp 0.0000000 wind 3.1139713 speed: 2.2197s/iter; left time: 65.6287 min
+
+Fold: 0, Epoch: 2, iters: 950/1337 | loss: 3.1147625 temp 0.0000000 wind 3.1147625 speed: 2.2092s/iter; left time: 63.4766 min
+
+Fold: 0, Epoch: 2, iters: 1000/1337 | loss: 3.0996360 temp 0.0000000 wind 3.0996360 speed: 2.2297s/iter; left time: 62.2084 min
+
+Fold: 0, Epoch: 2, iters: 1050/1337 | loss: 3.1074223 temp 0.0000000 wind 3.1074223 speed: 2.2332s/iter; left time: 60.4443 min
+
+Fold: 0, Epoch: 2, iters: 1100/1337 | loss: 3.1039804 temp 0.0000000 wind 3.1039804 speed: 2.2251s/iter; left time: 58.3725 min
+
+Fold: 0, Epoch: 2, iters: 1150/1337 | loss: 3.1006724 temp 0.0000000 wind 3.1006724 speed: 2.2283s/iter; left time: 56.5980 min
+
+Fold: 0, Epoch: 2, iters: 1200/1337 | loss: 3.1029455 temp 0.0000000 wind 3.1029455 speed: 2.2325s/iter; left time: 54.8442 min
+
+Fold: 0, Epoch: 2, iters: 1250/1337 | loss: 3.1036519 temp 0.0000000 wind 3.1036519 speed: 2.2241s/iter; left time: 52.7855 min
+
+Fold: 0, Epoch: 2, iters: 1300/1337 | loss: 3.1002753 temp 0.0000000 wind 3.1002753 speed: 2.2388s/iter; left time: 51.2684 min
+Epoch: 2 cost time: 2977.1007046699524	Fold: 0, Epoch: 2, Steps: 1337 | Train Loss: 3.1203632, Temp 0.0000000, Wind 3.1203632, Val Loss: 0.0000000 Temp 0.0000000 Wind 0.0000000
+Updating learning rate to 0.00025
+
+Fold: 0, Epoch: 3, iters: 50/1337 | loss: 3.0860344 temp 0.0000000 wind 3.0860344 speed: 4.0659s/iter; left time: 87.2143 min
+
+Fold: 0, Epoch: 3, iters: 100/1337 | loss: 3.0841963 temp 0.0000000 wind 3.0841963 speed: 2.2294s/iter; left time: 45.9634 min
+
+Fold: 0, Epoch: 3, iters: 150/1337 | loss: 3.0857325 temp 0.0000000 wind 3.0857325 speed: 2.2228s/iter; left time: 43.9739 min
+
+Fold: 0, Epoch: 3, iters: 200/1337 | loss: 3.0833523 temp 0.0000000 wind 3.0833523 speed: 2.2271s/iter; left time: 42.2040 min
+
+Fold: 0, Epoch: 3, iters: 250/1337 | loss: 3.0863381 temp 0.0000000 wind 3.0863381 speed: 2.2380s/iter; left time: 40.5459 min
+
+Fold: 0, Epoch: 3, iters: 300/1337 | loss: 3.0741903 temp 0.0000000 wind 3.0741903 speed: 2.2229s/iter; left time: 38.4198 min
+
+Fold: 0, Epoch: 3, iters: 350/1337 | loss: 3.0769752 temp 0.0000000 wind 3.0769752 speed: 2.2411s/iter; left time: 36.8669 min
+
+Fold: 0, Epoch: 3, iters: 400/1337 | loss: 3.0845685 temp 0.0000000 wind 3.0845685 speed: 2.2355s/iter; left time: 34.9116 min
+
+Fold: 0, Epoch: 3, iters: 450/1337 | loss: 3.0760753 temp 0.0000000 wind 3.0760753 speed: 2.2191s/iter; left time: 32.8053 min
+
+Fold: 0, Epoch: 3, iters: 500/1337 | loss: 3.0763425 temp 0.0000000 wind 3.0763425 speed: 2.2197s/iter; left time: 30.9651 min
+
+Fold: 0, Epoch: 3, iters: 550/1337 | loss: 3.0749727 temp 0.0000000 wind 3.0749727 speed: 2.2312s/iter; left time: 29.2665 min
+
+Fold: 0, Epoch: 3, iters: 600/1337 | loss: 3.0761065 temp 0.0000000 wind 3.0761065 speed: 2.2116s/iter; left time: 27.1655 min
+
+Fold: 0, Epoch: 3, iters: 650/1337 | loss: 3.0695701 temp 0.0000000 wind 3.0695701 speed: 2.2270s/iter; left time: 25.4989 min
+
+Fold: 0, Epoch: 3, iters: 700/1337 | loss: 3.0819179 temp 0.0000000 wind 3.0819179 speed: 2.2358s/iter; left time: 23.7364 min
+
+Fold: 0, Epoch: 3, iters: 750/1337 | loss: 3.0741127 temp 0.0000000 wind 3.0741127 speed: 2.2356s/iter; left time: 21.8713 min
+
+Fold: 0, Epoch: 3, iters: 800/1337 | loss: 3.0724297 temp 0.0000000 wind 3.0724297 speed: 2.2417s/iter; left time: 20.0634 min
+
+Fold: 0, Epoch: 3, iters: 850/1337 | loss: 3.0670353 temp 0.0000000 wind 3.0670353 speed: 2.2211s/iter; left time: 18.0278 min
+
+Fold: 0, Epoch: 3, iters: 900/1337 | loss: 3.0765679 temp 0.0000000 wind 3.0765679 speed: 2.2007s/iter; left time: 16.0285 min
+
+Fold: 0, Epoch: 3, iters: 950/1337 | loss: 3.0747864 temp 0.0000000 wind 3.0747864 speed: 2.2200s/iter; left time: 14.3188 min
+
+Fold: 0, Epoch: 3, iters: 1000/1337 | loss: 3.0696670 temp 0.0000000 wind 3.0696670 speed: 2.2117s/iter; left time: 12.4225 min
+
+Fold: 0, Epoch: 3, iters: 1050/1337 | loss: 3.0691844 temp 0.0000000 wind 3.0691844 speed: 2.2311s/iter; left time: 10.6719 min
+
+Fold: 0, Epoch: 3, iters: 1100/1337 | loss: 3.0670286 temp 0.0000000 wind 3.0670286 speed: 2.2357s/iter; left time: 8.8308 min
+
+Fold: 0, Epoch: 3, iters: 1150/1337 | loss: 3.0693985 temp 0.0000000 wind 3.0693985 speed: 2.2226s/iter; left time: 6.9272 min
+
+Fold: 0, Epoch: 3, iters: 1200/1337 | loss: 3.0707582 temp 0.0000000 wind 3.0707582 speed: 2.2091s/iter; left time: 5.0441 min
+
+Fold: 0, Epoch: 3, iters: 1250/1337 | loss: 3.0676179 temp 0.0000000 wind 3.0676179 speed: 2.2246s/iter; left time: 3.2257 min
+
+Fold: 0, Epoch: 3, iters: 1300/1337 | loss: 3.0675283 temp 0.0000000 wind 3.0675283 speed: 2.2441s/iter; left time: 1.3839 min
+Epoch: 3 cost time: 2978.484219789505	Fold: 0, Epoch: 3, Steps: 1337 | Train Loss: 3.0753938, Temp 0.0000000, Wind 3.0753938, Val Loss: 0.0000000 Temp 0.0000000 Wind 0.0000000
+Updating learning rate to 0.000125
+
+Fold: 1, Epoch: 1, iters: 50/1337 | loss: 3.5041423 temp 0.0000000 wind 3.5041423 speed: 2.3833s/iter; left time: 157.3374 min
+
+Fold: 1, Epoch: 1, iters: 100/1337 | loss: 3.3559895 temp 0.0000000 wind 3.3559895 speed: 2.2166s/iter; left time: 144.4875 min
+
+Fold: 1, Epoch: 1, iters: 150/1337 | loss: 3.3284587 temp 0.0000000 wind 3.3284587 speed: 2.1996s/iter; left time: 141.5461 min
+
+Fold: 1, Epoch: 1, iters: 200/1337 | loss: 3.3061331 temp 0.0000000 wind 3.3061331 speed: 2.2197s/iter; left time: 140.9873 min
+
+Fold: 1, Epoch: 1, iters: 250/1337 | loss: 3.2941771 temp 0.0000000 wind 3.2941771 speed: 2.2273s/iter; left time: 139.6123 min
+
+Fold: 1, Epoch: 1, iters: 300/1337 | loss: 3.2817633 temp 0.0000000 wind 3.2817633 speed: 2.2289s/iter; left time: 137.8599 min
+
+Fold: 1, Epoch: 1, iters: 350/1337 | loss: 3.2789369 temp 0.0000000 wind 3.2789369 speed: 2.2412s/iter; left time: 136.7510 min
+
+Fold: 1, Epoch: 1, iters: 400/1337 | loss: 3.2561753 temp 0.0000000 wind 3.2561753 speed: 2.2322s/iter; left time: 134.3414 min
+
+Fold: 1, Epoch: 1, iters: 450/1337 | loss: 3.2540204 temp 0.0000000 wind 3.2540204 speed: 2.2153s/iter; left time: 131.4780 min
+
+Fold: 1, Epoch: 1, iters: 500/1337 | loss: 3.2473966 temp 0.0000000 wind 3.2473966 speed: 2.2139s/iter; left time: 129.5485 min
+
+Fold: 1, Epoch: 1, iters: 550/1337 | loss: 3.2375829 temp 0.0000000 wind 3.2375829 speed: 2.2238s/iter; left time: 128.2742 min
+
+Fold: 1, Epoch: 1, iters: 600/1337 | loss: 3.2287170 temp 0.0000000 wind 3.2287170 speed: 2.2140s/iter; left time: 125.8663 min
+
+Fold: 1, Epoch: 1, iters: 650/1337 | loss: 3.2236758 temp 0.0000000 wind 3.2236758 speed: 2.2333s/iter; left time: 125.1028 min
+
+Fold: 1, Epoch: 1, iters: 700/1337 | loss: 3.2180354 temp 0.0000000 wind 3.2180354 speed: 2.2246s/iter; left time: 122.7598 min
+
+Fold: 1, Epoch: 1, iters: 750/1337 | loss: 3.2186013 temp 0.0000000 wind 3.2186013 speed: 2.2381s/iter; left time: 121.6430 min
+
+Fold: 1, Epoch: 1, iters: 800/1337 | loss: 3.2078171 temp 0.0000000 wind 3.2078171 speed: 2.2178s/iter; left time: 118.6894 min
+
+Fold: 1, Epoch: 1, iters: 850/1337 | loss: 3.2070201 temp 0.0000000 wind 3.2070201 speed: 2.2325s/iter; left time: 117.6132 min
+
+Fold: 1, Epoch: 1, iters: 900/1337 | loss: 3.2065050 temp 0.0000000 wind 3.2065050 speed: 2.2154s/iter; left time: 114.8669 min
+
+Fold: 1, Epoch: 1, iters: 950/1337 | loss: 3.1923685 temp 0.0000000 wind 3.1923685 speed: 2.2281s/iter; left time: 113.6697 min
+
+Fold: 1, Epoch: 1, iters: 1000/1337 | loss: 3.1860779 temp 0.0000000 wind 3.1860779 speed: 2.2362s/iter; left time: 112.2184 min
+
+Fold: 1, Epoch: 1, iters: 1050/1337 | loss: 3.1797916 temp 0.0000000 wind 3.1797916 speed: 2.2432s/iter; left time: 110.7023 min
+
+Fold: 1, Epoch: 1, iters: 1100/1337 | loss: 3.1777518 temp 0.0000000 wind 3.1777518 speed: 2.2284s/iter; left time: 108.1124 min
+
+Fold: 1, Epoch: 1, iters: 1150/1337 | loss: 3.1801963 temp 0.0000000 wind 3.1801963 speed: 2.2433s/iter; left time: 106.9684 min
+
+Fold: 1, Epoch: 1, iters: 1200/1337 | loss: 3.1667250 temp 0.0000000 wind 3.1667250 speed: 2.2288s/iter; left time: 104.4171 min
+
+Fold: 1, Epoch: 1, iters: 1250/1337 | loss: 3.1690734 temp 0.0000000 wind 3.1690734 speed: 2.2165s/iter; left time: 101.9969 min
+
+Fold: 1, Epoch: 1, iters: 1300/1337 | loss: 3.1626343 temp 0.0000000 wind 3.1626343 speed: 2.2504s/iter; left time: 101.6790 min
+Epoch: 1 cost time: 2978.4969322681427	Fold: 1, Epoch: 1, Steps: 1337 | Train Loss: 3.2390096, Temp 0.0000000, Wind 3.2390096, Val Loss: 0.0000000 Temp 0.0000000 Wind 0.0000000
+Updating learning rate to 0.0005
+
+Fold: 1, Epoch: 2, iters: 50/1337 | loss: 3.1557420 temp 0.0000000 wind 3.1557420 speed: 4.0491s/iter; left time: 177.0797 min
+
+Fold: 1, Epoch: 2, iters: 100/1337 | loss: 3.1396403 temp 0.0000000 wind 3.1396403 speed: 2.2152s/iter; left time: 95.0327 min
+
+Fold: 1, Epoch: 2, iters: 150/1337 | loss: 3.1408120 temp 0.0000000 wind 3.1408120 speed: 2.2013s/iter; left time: 92.6009 min
+
+Fold: 1, Epoch: 2, iters: 200/1337 | loss: 3.1441385 temp 0.0000000 wind 3.1441385 speed: 2.2392s/iter; left time: 92.3304 min
+
+Fold: 1, Epoch: 2, iters: 250/1337 | loss: 3.1433845 temp 0.0000000 wind 3.1433845 speed: 2.1948s/iter; left time: 88.6685 min
+
+Fold: 1, Epoch: 2, iters: 300/1337 | loss: 3.1372994 temp 0.0000000 wind 3.1372994 speed: 2.2529s/iter; left time: 89.1378 min
+
+Fold: 1, Epoch: 2, iters: 350/1337 | loss: 3.1353362 temp 0.0000000 wind 3.1353362 speed: 2.2317s/iter; left time: 86.4428 min
+
+Fold: 1, Epoch: 2, iters: 400/1337 | loss: 3.1346755 temp 0.0000000 wind 3.1346755 speed: 2.2202s/iter; left time: 84.1446 min
+
+Fold: 1, Epoch: 2, iters: 450/1337 | loss: 3.1280512 temp 0.0000000 wind 3.1280512 speed: 2.2464s/iter; left time: 83.2662 min
+
+Fold: 1, Epoch: 2, iters: 500/1337 | loss: 3.1326930 temp 0.0000000 wind 3.1326930 speed: 2.2490s/iter; left time: 81.4884 min
+
+Fold: 1, Epoch: 2, iters: 550/1337 | loss: 3.1251627 temp 0.0000000 wind 3.1251627 speed: 2.2263s/iter; left time: 78.8113 min
+
+Fold: 1, Epoch: 2, iters: 600/1337 | loss: 3.1228627 temp 0.0000000 wind 3.1228627 speed: 2.2290s/iter; left time: 77.0504 min
+
+Fold: 1, Epoch: 2, iters: 650/1337 | loss: 3.1199563 temp 0.0000000 wind 3.1199563 speed: 2.2168s/iter; left time: 74.7807 min
+
+Fold: 1, Epoch: 2, iters: 700/1337 | loss: 3.1210606 temp 0.0000000 wind 3.1210606 speed: 2.2246s/iter; left time: 73.1885 min
+
+Fold: 1, Epoch: 2, iters: 750/1337 | loss: 3.1172651 temp 0.0000000 wind 3.1172651 speed: 2.2225s/iter; left time: 71.2678 min
+
+Fold: 1, Epoch: 2, iters: 800/1337 | loss: 3.1088622 temp 0.0000000 wind 3.1088622 speed: 2.2251s/iter; left time: 69.4978 min
+
+Fold: 1, Epoch: 2, iters: 850/1337 | loss: 3.1097196 temp 0.0000000 wind 3.1097196 speed: 2.2357s/iter; left time: 67.9655 min
+
+Fold: 1, Epoch: 2, iters: 900/1337 | loss: 3.1050084 temp 0.0000000 wind 3.1050084 speed: 2.2336s/iter; left time: 66.0412 min
+
+Fold: 1, Epoch: 2, iters: 950/1337 | loss: 3.1107226 temp 0.0000000 wind 3.1107226 speed: 2.2193s/iter; left time: 63.7673 min
+
+Fold: 1, Epoch: 2, iters: 1000/1337 | loss: 3.1098677 temp 0.0000000 wind 3.1098677 speed: 2.2263s/iter; left time: 62.1130 min
+
+Fold: 1, Epoch: 2, iters: 1050/1337 | loss: 3.1027044 temp 0.0000000 wind 3.1027044 speed: 2.2286s/iter; left time: 60.3196 min
+
+Fold: 1, Epoch: 2, iters: 1100/1337 | loss: 3.0984277 temp 0.0000000 wind 3.0984277 speed: 2.2178s/iter; left time: 58.1809 min
+
+Fold: 1, Epoch: 2, iters: 1150/1337 | loss: 3.1072124 temp 0.0000000 wind 3.1072124 speed: 2.2349s/iter; left time: 56.7674 min
+
+Fold: 1, Epoch: 2, iters: 1200/1337 | loss: 3.0977842 temp 0.0000000 wind 3.0977842 speed: 2.2185s/iter; left time: 54.5003 min
+
+Fold: 1, Epoch: 2, iters: 1250/1337 | loss: 3.0977943 temp 0.0000000 wind 3.0977943 speed: 2.2332s/iter; left time: 53.0021 min
+
+Fold: 1, Epoch: 2, iters: 1300/1337 | loss: 3.0945387 temp 0.0000000 wind 3.0945387 speed: 2.2262s/iter; left time: 50.9789 min
+Epoch: 2 cost time: 2978.7773444652557	Fold: 1, Epoch: 2, Steps: 1337 | Train Loss: 3.1200032, Temp 0.0000000, Wind 3.1200032, Val Loss: 0.0000000 Temp 0.0000000 Wind 0.0000000
+Updating learning rate to 0.00025
+
+Fold: 1, Epoch: 3, iters: 50/1337 | loss: 3.0893441 temp 0.0000000 wind 3.0893441 speed: 4.0449s/iter; left time: 86.7622 min
+
+Fold: 1, Epoch: 3, iters: 100/1337 | loss: 3.0829982 temp 0.0000000 wind 3.0829982 speed: 2.2204s/iter; left time: 45.7770 min
+
+Fold: 1, Epoch: 3, iters: 150/1337 | loss: 3.0820127 temp 0.0000000 wind 3.0820127 speed: 2.2340s/iter; left time: 44.1965 min
+
+Fold: 1, Epoch: 3, iters: 200/1337 | loss: 3.0778463 temp 0.0000000 wind 3.0778463 speed: 2.2339s/iter; left time: 42.3324 min
+
+Fold: 1, Epoch: 3, iters: 250/1337 | loss: 3.0842813 temp 0.0000000 wind 3.0842813 speed: 2.2260s/iter; left time: 40.3272 min
+
+Fold: 1, Epoch: 3, iters: 300/1337 | loss: 3.0810563 temp 0.0000000 wind 3.0810563 speed: 2.2277s/iter; left time: 38.5015 min
+
+Fold: 1, Epoch: 3, iters: 350/1337 | loss: 3.0743871 temp 0.0000000 wind 3.0743871 speed: 2.2115s/iter; left time: 36.3791 min
+
+Fold: 1, Epoch: 3, iters: 400/1337 | loss: 3.0825418 temp 0.0000000 wind 3.0825418 speed: 2.2492s/iter; left time: 35.1249 min
+
+Fold: 1, Epoch: 3, iters: 450/1337 | loss: 3.0722535 temp 0.0000000 wind 3.0722535 speed: 2.1904s/iter; left time: 32.3817 min
+
+Fold: 1, Epoch: 3, iters: 500/1337 | loss: 3.0818732 temp 0.0000000 wind 3.0818732 speed: 2.2331s/iter; left time: 31.1519 min
+
+Fold: 1, Epoch: 3, iters: 550/1337 | loss: 3.0771209 temp 0.0000000 wind 3.0771209 speed: 2.2031s/iter; left time: 28.8975 min
+
+Fold: 1, Epoch: 3, iters: 600/1337 | loss: 3.0798886 temp 0.0000000 wind 3.0798886 speed: 2.2170s/iter; left time: 27.2325 min
+
+Fold: 1, Epoch: 3, iters: 650/1337 | loss: 3.0782083 temp 0.0000000 wind 3.0782083 speed: 2.2388s/iter; left time: 25.6343 min
+
+Fold: 1, Epoch: 3, iters: 700/1337 | loss: 3.0700309 temp 0.0000000 wind 3.0700309 speed: 2.2346s/iter; left time: 23.7244 min
+
+Fold: 1, Epoch: 3, iters: 750/1337 | loss: 3.0653587 temp 0.0000000 wind 3.0653587 speed: 2.2124s/iter; left time: 21.6442 min
+
+Fold: 1, Epoch: 3, iters: 800/1337 | loss: 3.0703837 temp 0.0000000 wind 3.0703837 speed: 2.2158s/iter; left time: 19.8313 min
+
+Fold: 1, Epoch: 3, iters: 850/1337 | loss: 3.0720343 temp 0.0000000 wind 3.0720343 speed: 2.2205s/iter; left time: 18.0233 min
+
+Fold: 1, Epoch: 3, iters: 900/1337 | loss: 3.0616667 temp 0.0000000 wind 3.0616667 speed: 2.1926s/iter; left time: 15.9691 min
+
+Fold: 1, Epoch: 3, iters: 950/1337 | loss: 3.0686644 temp 0.0000000 wind 3.0686644 speed: 2.2268s/iter; left time: 14.3630 min
+
+Fold: 1, Epoch: 3, iters: 1000/1337 | loss: 3.0728891 temp 0.0000000 wind 3.0728891 speed: 2.2162s/iter; left time: 12.4478 min
+
+Fold: 1, Epoch: 3, iters: 1050/1337 | loss: 3.0656821 temp 0.0000000 wind 3.0656821 speed: 1.7430s/iter; left time: 8.3372 min
+
+Fold: 1, Epoch: 3, iters: 1100/1337 | loss: 3.0704870 temp 0.0000000 wind 3.0704870 speed: 2.2338s/iter; left time: 8.8234 min
+
+Fold: 1, Epoch: 3, iters: 1150/1337 | loss: 3.0660420 temp 0.0000000 wind 3.0660420 speed: 2.2589s/iter; left time: 7.0403 min
+
+Fold: 1, Epoch: 3, iters: 1200/1337 | loss: 3.0642479 temp 0.0000000 wind 3.0642479 speed: 2.2554s/iter; left time: 5.1498 min
+
+Fold: 1, Epoch: 3, iters: 1250/1337 | loss: 3.0691332 temp 0.0000000 wind 3.0691332 speed: 2.2801s/iter; left time: 3.3061 min
+
+Fold: 1, Epoch: 3, iters: 1300/1337 | loss: 3.0653203 temp 0.0000000 wind 3.0653203 speed: 2.2324s/iter; left time: 1.3766 min
+Epoch: 3 cost time: 2956.821581840515	Fold: 1, Epoch: 3, Steps: 1337 | Train Loss: 3.0738709, Temp 0.0000000, Wind 3.0738709, Val Loss: 0.0000000 Temp 0.0000000 Wind 0.0000000
+Updating learning rate to 0.000125
+
+Fold: 2, Epoch: 1, iters: 50/1337 | loss: 3.5100703 temp 0.0000000 wind 3.5100703 speed: 2.4241s/iter; left time: 160.0279 min
+
+Fold: 2, Epoch: 1, iters: 100/1337 | loss: 3.3670240 temp 0.0000000 wind 3.3670240 speed: 2.2594s/iter; left time: 147.2744 min
+
+Fold: 2, Epoch: 1, iters: 150/1337 | loss: 3.3282799 temp 0.0000000 wind 3.3282799 speed: 2.2278s/iter; left time: 143.3613 min
+
+Fold: 2, Epoch: 1, iters: 200/1337 | loss: 3.2982542 temp 0.0000000 wind 3.2982542 speed: 2.2652s/iter; left time: 143.8787 min
+
+Fold: 2, Epoch: 1, iters: 250/1337 | loss: 3.2887846 temp 0.0000000 wind 3.2887846 speed: 2.2677s/iter; left time: 142.1450 min
+
+Fold: 2, Epoch: 1, iters: 300/1337 | loss: 3.2811052 temp 0.0000000 wind 3.2811052 speed: 2.2840s/iter; left time: 141.2659 min
+
+Fold: 2, Epoch: 1, iters: 350/1337 | loss: 3.2634357 temp 0.0000000 wind 3.2634357 speed: 2.2359s/iter; left time: 136.4256 min
+
+Fold: 2, Epoch: 1, iters: 400/1337 | loss: 3.2552803 temp 0.0000000 wind 3.2552803 speed: 2.2685s/iter; left time: 136.5288 min
+
+Fold: 2, Epoch: 1, iters: 450/1337 | loss: 3.2559314 temp 0.0000000 wind 3.2559314 speed: 2.2478s/iter; left time: 133.4086 min
+
+Fold: 2, Epoch: 1, iters: 500/1337 | loss: 3.2468968 temp 0.0000000 wind 3.2468968 speed: 2.2637s/iter; left time: 132.4633 min
+
+Fold: 2, Epoch: 1, iters: 550/1337 | loss: 3.2462981 temp 0.0000000 wind 3.2462981 speed: 2.2622s/iter; left time: 130.4930 min
+
+Fold: 2, Epoch: 1, iters: 600/1337 | loss: 3.2241339 temp 0.0000000 wind 3.2241339 speed: 2.2525s/iter; left time: 128.0562 min
+
+Fold: 2, Epoch: 1, iters: 650/1337 | loss: 3.2282150 temp 0.0000000 wind 3.2282150 speed: 2.2328s/iter; left time: 125.0761 min
+
+Fold: 2, Epoch: 1, iters: 700/1337 | loss: 3.2248039 temp 0.0000000 wind 3.2248039 speed: 2.2524s/iter; left time: 124.2953 min
+
+Fold: 2, Epoch: 1, iters: 750/1337 | loss: 3.2101125 temp 0.0000000 wind 3.2101125 speed: 2.2607s/iter; left time: 122.8713 min
+
+Fold: 2, Epoch: 1, iters: 800/1337 | loss: 3.2165099 temp 0.0000000 wind 3.2165099 speed: 2.2196s/iter; left time: 118.7868 min
+
+Fold: 2, Epoch: 1, iters: 850/1337 | loss: 3.2141254 temp 0.0000000 wind 3.2141254 speed: 2.2498s/iter; left time: 118.5259 min
+
+Fold: 2, Epoch: 1, iters: 900/1337 | loss: 3.2089027 temp 0.0000000 wind 3.2089027 speed: 2.2694s/iter; left time: 117.6677 min
+
+Fold: 2, Epoch: 1, iters: 950/1337 | loss: 3.2002416 temp 0.0000000 wind 3.2002416 speed: 2.2917s/iter; left time: 116.9143 min
+
+Fold: 2, Epoch: 1, iters: 1000/1337 | loss: 3.1961328 temp 0.0000000 wind 3.1961328 speed: 2.2518s/iter; left time: 113.0008 min
+
+Fold: 2, Epoch: 1, iters: 1050/1337 | loss: 3.1900625 temp 0.0000000 wind 3.1900625 speed: 2.2676s/iter; left time: 111.9060 min
+
+Fold: 2, Epoch: 1, iters: 1100/1337 | loss: 3.1811461 temp 0.0000000 wind 3.1811461 speed: 2.2477s/iter; left time: 109.0526 min
+
+Fold: 2, Epoch: 1, iters: 1150/1337 | loss: 3.1736134 temp 0.0000000 wind 3.1736134 speed: 2.2602s/iter; left time: 107.7751 min
+
+Fold: 2, Epoch: 1, iters: 1200/1337 | loss: 3.1652933 temp 0.0000000 wind 3.1652933 speed: 2.2452s/iter; left time: 105.1892 min
+
+Fold: 2, Epoch: 1, iters: 1250/1337 | loss: 3.1645616 temp 0.0000000 wind 3.1645616 speed: 2.2715s/iter; left time: 104.5288 min
+
+Fold: 2, Epoch: 1, iters: 1300/1337 | loss: 3.1670658 temp 0.0000000 wind 3.1670658 speed: 2.2573s/iter; left time: 101.9906 min
+Epoch: 1 cost time: 3018.063717842102	Fold: 2, Epoch: 1, Steps: 1337 | Train Loss: 3.2401660, Temp 0.0000000, Wind 3.2401660, Val Loss: 0.0000000 Temp 0.0000000 Wind 0.0000000
+Updating learning rate to 0.0005
+
+Fold: 2, Epoch: 2, iters: 50/1337 | loss: 3.1501436 temp 0.0000000 wind 3.1501436 speed: 4.1401s/iter; left time: 181.0597 min
+
+Fold: 2, Epoch: 2, iters: 100/1337 | loss: 3.1498037 temp 0.0000000 wind 3.1498037 speed: 2.2318s/iter; left time: 95.7438 min
+
+Fold: 2, Epoch: 2, iters: 150/1337 | loss: 3.1502581 temp 0.0000000 wind 3.1502581 speed: 2.2691s/iter; left time: 95.4530 min
+
+Fold: 2, Epoch: 2, iters: 200/1337 | loss: 3.1397032 temp 0.0000000 wind 3.1397032 speed: 2.2365s/iter; left time: 92.2179 min
+
+Fold: 2, Epoch: 2, iters: 250/1337 | loss: 3.1432719 temp 0.0000000 wind 3.1432719 speed: 2.2316s/iter; left time: 90.1570 min
+
+Fold: 2, Epoch: 2, iters: 300/1337 | loss: 3.1408025 temp 0.0000000 wind 3.1408025 speed: 2.2304s/iter; left time: 88.2494 min
+
+Fold: 2, Epoch: 2, iters: 350/1337 | loss: 3.1308274 temp 0.0000000 wind 3.1308274 speed: 2.2509s/iter; left time: 87.1853 min
+
+Fold: 2, Epoch: 2, iters: 400/1337 | loss: 3.1369176 temp 0.0000000 wind 3.1369176 speed: 2.2547s/iter; left time: 85.4550 min
+
+Fold: 2, Epoch: 2, iters: 450/1337 | loss: 3.1254028 temp 0.0000000 wind 3.1254028 speed: 2.2638s/iter; left time: 83.9117 min
+
+Fold: 2, Epoch: 2, iters: 500/1337 | loss: 3.1239115 temp 0.0000000 wind 3.1239115 speed: 2.2015s/iter; left time: 79.7678 min
+
+Fold: 2, Epoch: 2, iters: 550/1337 | loss: 3.1264147 temp 0.0000000 wind 3.1264147 speed: 2.2421s/iter; left time: 79.3700 min
+
+Fold: 2, Epoch: 2, iters: 600/1337 | loss: 3.1197055 temp 0.0000000 wind 3.1197055 speed: 2.2398s/iter; left time: 77.4231 min
+
+Fold: 2, Epoch: 2, iters: 650/1337 | loss: 3.1260239 temp 0.0000000 wind 3.1260239 speed: 2.2567s/iter; left time: 76.1258 min
+
+Fold: 2, Epoch: 2, iters: 700/1337 | loss: 3.1160282 temp 0.0000000 wind 3.1160282 speed: 2.2571s/iter; left time: 74.2594 min
+
+Fold: 2, Epoch: 2, iters: 750/1337 | loss: 3.1159062 temp 0.0000000 wind 3.1159062 speed: 2.2485s/iter; left time: 72.1018 min
+
+Fold: 2, Epoch: 2, iters: 800/1337 | loss: 3.1170085 temp 0.0000000 wind 3.1170085 speed: 2.2537s/iter; left time: 70.3918 min
+
+Fold: 2, Epoch: 2, iters: 850/1337 | loss: 3.1197857 temp 0.0000000 wind 3.1197857 speed: 2.2353s/iter; left time: 67.9545 min
+
+Fold: 2, Epoch: 2, iters: 900/1337 | loss: 3.1096296 temp 0.0000000 wind 3.1096296 speed: 2.2685s/iter; left time: 67.0710 min
+
+Fold: 2, Epoch: 2, iters: 950/1337 | loss: 3.1073737 temp 0.0000000 wind 3.1073737 speed: 2.2583s/iter; left time: 64.8879 min
+
+Fold: 2, Epoch: 2, iters: 1000/1337 | loss: 3.1068334 temp 0.0000000 wind 3.1068334 speed: 2.2418s/iter; left time: 62.5472 min
+
+Fold: 2, Epoch: 2, iters: 1050/1337 | loss: 3.1063957 temp 0.0000000 wind 3.1063957 speed: 2.2335s/iter; left time: 60.4522 min
+
+Fold: 2, Epoch: 2, iters: 1100/1337 | loss: 3.0989612 temp 0.0000000 wind 3.0989612 speed: 2.2746s/iter; left time: 59.6710 min
+
+Fold: 2, Epoch: 2, iters: 1150/1337 | loss: 3.1001703 temp 0.0000000 wind 3.1001703 speed: 2.2571s/iter; left time: 57.3310 min
+
+Fold: 2, Epoch: 2, iters: 1200/1337 | loss: 3.0991767 temp 0.0000000 wind 3.0991767 speed: 2.2580s/iter; left time: 55.4718 min
+
+Fold: 2, Epoch: 2, iters: 1250/1337 | loss: 3.0998921 temp 0.0000000 wind 3.0998921 speed: 2.2412s/iter; left time: 53.1916 min
+
+Fold: 2, Epoch: 2, iters: 1300/1337 | loss: 3.1007307 temp 0.0000000 wind 3.1007307 speed: 2.2527s/iter; left time: 51.5871 min
+Epoch: 2 cost time: 3007.0931508541107	Fold: 2, Epoch: 2, Steps: 1337 | Train Loss: 3.1209773, Temp 0.0000000, Wind 3.1209773, Val Loss: 0.0000000 Temp 0.0000000 Wind 0.0000000
+Updating learning rate to 0.00025
+
+Fold: 2, Epoch: 3, iters: 50/1337 | loss: 3.0856609 temp 0.0000000 wind 3.0856609 speed: 4.0544s/iter; left time: 86.9663 min
+
+Fold: 2, Epoch: 3, iters: 100/1337 | loss: 3.0907385 temp 0.0000000 wind 3.0907385 speed: 2.2640s/iter; left time: 46.6764 min
+
+Fold: 2, Epoch: 3, iters: 150/1337 | loss: 3.0896890 temp 0.0000000 wind 3.0896890 speed: 2.2577s/iter; left time: 44.6641 min
+
+Fold: 2, Epoch: 3, iters: 200/1337 | loss: 3.0875077 temp 0.0000000 wind 3.0875077 speed: 2.2248s/iter; left time: 42.1604 min
+
+Fold: 2, Epoch: 3, iters: 250/1337 | loss: 3.0860012 temp 0.0000000 wind 3.0860012 speed: 2.2534s/iter; left time: 40.8238 min
+
+Fold: 2, Epoch: 3, iters: 300/1337 | loss: 3.0823781 temp 0.0000000 wind 3.0823781 speed: 2.2600s/iter; left time: 39.0610 min
+
+Fold: 2, Epoch: 3, iters: 350/1337 | loss: 3.0788839 temp 0.0000000 wind 3.0788839 speed: 2.2619s/iter; left time: 37.2082 min
+
+Fold: 2, Epoch: 3, iters: 400/1337 | loss: 3.0783766 temp 0.0000000 wind 3.0783766 speed: 2.2602s/iter; left time: 35.2964 min
+
+Fold: 2, Epoch: 3, iters: 450/1337 | loss: 3.0805064 temp 0.0000000 wind 3.0805064 speed: 2.2513s/iter; left time: 33.2816 min
+
+Fold: 2, Epoch: 3, iters: 500/1337 | loss: 3.0809839 temp 0.0000000 wind 3.0809839 speed: 2.2501s/iter; left time: 31.3883 min
+
+Fold: 2, Epoch: 3, iters: 550/1337 | loss: 3.0760297 temp 0.0000000 wind 3.0760297 speed: 2.2337s/iter; left time: 29.2987 min
+
+Fold: 2, Epoch: 3, iters: 600/1337 | loss: 3.0791479 temp 0.0000000 wind 3.0791479 speed: 2.2365s/iter; left time: 27.4721 min
+
+Fold: 2, Epoch: 3, iters: 650/1337 | loss: 3.0710906 temp 0.0000000 wind 3.0710906 speed: 2.2424s/iter; left time: 25.6760 min
+
+Fold: 2, Epoch: 3, iters: 700/1337 | loss: 3.0716720 temp 0.0000000 wind 3.0716720 speed: 2.2455s/iter; left time: 23.8394 min
+
+Fold: 2, Epoch: 3, iters: 750/1337 | loss: 3.0729636 temp 0.0000000 wind 3.0729636 speed: 2.2702s/iter; left time: 22.2106 min
+
+Fold: 2, Epoch: 3, iters: 800/1337 | loss: 3.0692821 temp 0.0000000 wind 3.0692821 speed: 2.2336s/iter; left time: 19.9904 min
+
+Fold: 2, Epoch: 3, iters: 850/1337 | loss: 3.0653270 temp 0.0000000 wind 3.0653270 speed: 2.2575s/iter; left time: 18.3237 min
+
+Fold: 2, Epoch: 3, iters: 900/1337 | loss: 3.0770567 temp 0.0000000 wind 3.0770567 speed: 2.2439s/iter; left time: 16.3431 min
+
+Fold: 2, Epoch: 3, iters: 950/1337 | loss: 3.0706454 temp 0.0000000 wind 3.0706454 speed: 2.2750s/iter; left time: 14.6739 min
+
+Fold: 2, Epoch: 3, iters: 1000/1337 | loss: 3.0684651 temp 0.0000000 wind 3.0684651 speed: 2.2626s/iter; left time: 12.7084 min
+
+Fold: 2, Epoch: 3, iters: 1050/1337 | loss: 3.0683851 temp 0.0000000 wind 3.0683851 speed: 2.2548s/iter; left time: 10.7854 min
+
+Fold: 2, Epoch: 3, iters: 1100/1337 | loss: 3.0692341 temp 0.0000000 wind 3.0692341 speed: 2.2826s/iter; left time: 9.0164 min
+
+Fold: 2, Epoch: 3, iters: 1150/1337 | loss: 3.0659604 temp 0.0000000 wind 3.0659604 speed: 2.2409s/iter; left time: 6.9842 min
+
+Fold: 2, Epoch: 3, iters: 1200/1337 | loss: 3.0739628 temp 0.0000000 wind 3.0739628 speed: 2.2230s/iter; left time: 5.0758 min
+
+Fold: 2, Epoch: 3, iters: 1250/1337 | loss: 3.0661619 temp 0.0000000 wind 3.0661619 speed: 2.2386s/iter; left time: 3.2459 min
+
+Fold: 2, Epoch: 3, iters: 1300/1337 | loss: 3.0603025 temp 0.0000000 wind 3.0603025 speed: 2.2561s/iter; left time: 1.3913 min
+Epoch: 3 cost time: 3007.1243813037872	Fold: 2, Epoch: 3, Steps: 1337 | Train Loss: 3.0752636, Temp 0.0000000, Wind 3.0752636, Val Loss: 0.0000000 Temp 0.0000000 Wind 0.0000000
+Updating learning rate to 0.000125

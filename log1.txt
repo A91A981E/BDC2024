@@ -1,0 +1,242 @@
+nohup: ignoring input
+Namespace(seed=3407, model='iTransformer_iFlashFormer', clean_data=False, root_path='/home/mw/input/bdc_train9198/global/global', checkpoints='./best_model/', factor=1.0, train_val_size=0.95, k_fold=3, print_freq=50, n_experts=2, task='wind', seq_len=168, pred_len=72, freq='h', enc_in=56, d_model=128, n_heads=8, e_layers=1, d_ff=64, dropout=0.1, activation='gelu', pretrain=False, pretrain_ckpt='', resume_epoch=0, num_workers=9, itr=1, train_epochs=3, batch_size=10240, learning_rate=0.001, lradj='type1', weight_decay=1e-06, use_gpu=True, gpu=0, use_multi_gpu=True, devices='0,1', device_ids=[0, 1])
+Use GPU: cuda:0
+
+Fold: 2, Epoch: 1, iters: 50/1957 | loss: 3.8122271 temp 0.0000000 wind 3.8122271 speed: 1.4890s/iter; left time: 144.4538 min
+
+Fold: 2, Epoch: 1, iters: 100/1957 | loss: 3.6543182 temp 0.0000000 wind 3.6543182 speed: 1.2578s/iter; left time: 120.9834 min
+
+Fold: 2, Epoch: 1, iters: 150/1957 | loss: 3.6222227 temp 0.0000000 wind 3.6222227 speed: 1.2713s/iter; left time: 121.2202 min
+
+Fold: 2, Epoch: 1, iters: 200/1957 | loss: 3.5851242 temp 0.0000000 wind 3.5851242 speed: 1.2787s/iter; left time: 120.8605 min
+
+Fold: 2, Epoch: 1, iters: 350/1957 | loss: 3.5580283 temp 0.0000000 wind 3.5580283 speed: 1.2836s/iter; left time: 118.1135 min
+
+Fold: 2, Epoch: 1, iters: 400/1957 | loss: 3.5395587 temp 0.0000000 wind 3.5395587 speed: 1.2718s/iter; left time: 115.9678 min
+
+Fold: 2, Epoch: 1, iters: 450/1957 | loss: 3.5336822 temp 0.0000000 wind 3.5336822 speed: 1.2717s/iter; left time: 114.8937 min
+
+Fold: 2, Epoch: 1, iters: 500/1957 | loss: 3.5142786 temp 0.0000000 wind 3.5142786 speed: 1.2679s/iter; left time: 113.4972 min
+
+Fold: 2, Epoch: 1, iters: 550/1957 | loss: 3.5159370 temp 0.0000000 wind 3.5159370 speed: 1.2737s/iter; left time: 112.9565 min
+
+Fold: 2, Epoch: 1, iters: 600/1957 | loss: 3.5044373 temp 0.0000000 wind 3.5044373 speed: 1.2751s/iter; left time: 112.0203 min
+
+Fold: 2, Epoch: 1, iters: 650/1957 | loss: 3.5080514 temp 0.0000000 wind 3.5080514 speed: 1.2706s/iter; left time: 110.5607 min
+
+Fold: 2, Epoch: 1, iters: 700/1957 | loss: 3.4931518 temp 0.0000000 wind 3.4931518 speed: 1.2590s/iter; left time: 108.5085 min
+
+Fold: 2, Epoch: 1, iters: 750/1957 | loss: 3.4873578 temp 0.0000000 wind 3.4873578 speed: 1.2728s/iter; left time: 108.6304 min
+
+Fold: 2, Epoch: 1, iters: 800/1957 | loss: 3.4873789 temp 0.0000000 wind 3.4873789 speed: 1.2683s/iter; left time: 107.1926 min
+
+Fold: 2, Epoch: 1, iters: 850/1957 | loss: 3.4817058 temp 0.0000000 wind 3.4817058 speed: 1.2764s/iter; left time: 106.8161 min
+
+Fold: 2, Epoch: 1, iters: 900/1957 | loss: 3.4702082 temp 0.0000000 wind 3.4702082 speed: 1.2778s/iter; left time: 105.8621 min
+
+Fold: 2, Epoch: 1, iters: 950/1957 | loss: 3.4704738 temp 0.0000000 wind 3.4704738 speed: 1.2609s/iter; left time: 103.4132 min
+
+Fold: 2, Epoch: 1, iters: 1000/1957 | loss: 3.4616854 temp 0.0000000 wind 3.4616854 speed: 1.2688s/iter; left time: 103.0014 min
+
+Fold: 2, Epoch: 1, iters: 1050/1957 | loss: 3.4511083 temp 0.0000000 wind 3.4511083 speed: 1.2767s/iter; left time: 102.5790 min
+
+Fold: 2, Epoch: 1, iters: 1100/1957 | loss: 3.4583679 temp 0.0000000 wind 3.4583679 speed: 1.2701s/iter; left time: 100.9936 min
+
+Fold: 2, Epoch: 1, iters: 1150/1957 | loss: 3.4387180 temp 0.0000000 wind 3.4387180 speed: 1.2754s/iter; left time: 100.3555 min
+
+Fold: 2, Epoch: 1, iters: 1200/1957 | loss: 3.4482356 temp 0.0000000 wind 3.4482356 speed: 1.2641s/iter; left time: 98.4111 min
+
+Fold: 2, Epoch: 1, iters: 1250/1957 | loss: 3.4435185 temp 0.0000000 wind 3.4435185 speed: 1.2594s/iter; left time: 96.9913 min
+
+Fold: 2, Epoch: 1, iters: 1300/1957 | loss: 3.4306833 temp 0.0000000 wind 3.4306833 speed: 1.2730s/iter; left time: 96.9794 min
+
+Fold: 2, Epoch: 1, iters: 1350/1957 | loss: 3.4321544 temp 0.0000000 wind 3.4321544 speed: 1.2752s/iter; left time: 96.0828 min
+
+Fold: 2, Epoch: 1, iters: 1400/1957 | loss: 3.4298667 temp 0.0000000 wind 3.4298667 speed: 1.2732s/iter; left time: 94.8723 min
+
+Fold: 2, Epoch: 1, iters: 1450/1957 | loss: 3.4189911 temp 0.0000000 wind 3.4189911 speed: 1.2709s/iter; left time: 93.6414 min
+
+Fold: 2, Epoch: 1, iters: 1500/1957 | loss: 3.4215071 temp 0.0000000 wind 3.4215071 speed: 1.2631s/iter; left time: 92.0145 min
+
+Fold: 2, Epoch: 1, iters: 1550/1957 | loss: 3.4126354 temp 0.0000000 wind 3.4126354 speed: 1.2645s/iter; left time: 91.0646 min
+
+Fold: 2, Epoch: 1, iters: 1600/1957 | loss: 3.4158090 temp 0.0000000 wind 3.4158090 speed: 1.2709s/iter; left time: 90.4696 min
+
+Fold: 2, Epoch: 1, iters: 1650/1957 | loss: 3.4036436 temp 0.0000000 wind 3.4036436 speed: 1.2770s/iter; left time: 89.8384 min
+
+Fold: 2, Epoch: 1, iters: 1700/1957 | loss: 3.3862623 temp 0.0000000 wind 3.3862623 speed: 1.2760s/iter; left time: 88.7029 min
+
+Fold: 2, Epoch: 1, iters: 1750/1957 | loss: 3.4021132 temp 0.0000000 wind 3.4021132 speed: 1.2654s/iter; left time: 86.9144 min
+
+Fold: 2, Epoch: 1, iters: 1800/1957 | loss: 3.4115780 temp 0.0000000 wind 3.4115780 speed: 1.2665s/iter; left time: 85.9336 min
+
+Fold: 2, Epoch: 1, iters: 1850/1957 | loss: 3.3878887 temp 0.0000000 wind 3.3878887 speed: 1.2720s/iter; left time: 85.2434 min
+
+Fold: 2, Epoch: 1, iters: 1900/1957 | loss: 3.3893036 temp 0.0000000 wind 3.3893036 speed: 1.2717s/iter; left time: 84.1642 min
+
+Fold: 2, Epoch: 1, iters: 1950/1957 | loss: 3.3829384 temp 0.0000000 wind 3.3829384 speed: 1.2753s/iter; left time: 83.3431 min
+Epoch: 1 cost time: 2488.4832966327667	Fold: 2, Epoch: 1, Steps: 1957 | Train Loss: 3.4815136, Temp 0.0000000, Wind 3.4815136, Val Loss: 0.0000000 Temp 0.0000000 Wind 0.0000000
+Updating learning rate to 0.0005
+
+Fold: 2, Epoch: 2, iters: 50/1957 | loss: 3.3685855 temp 0.0000000 wind 3.3685855 speed: 1.5692s/iter; left time: 101.0570 min
+
+Fold: 2, Epoch: 2, iters: 100/1957 | loss: 3.3836681 temp 0.0000000 wind 3.3836681 speed: 1.2649s/iter; left time: 80.4067 min
+
+Fold: 2, Epoch: 2, iters: 150/1957 | loss: 3.3611565 temp 0.0000000 wind 3.3611565 speed: 1.2685s/iter; left time: 79.5799 min
+
+Fold: 2, Epoch: 2, iters: 200/1957 | loss: 3.3576321 temp 0.0000000 wind 3.3576321 speed: 1.2655s/iter; left time: 78.3318 min
+
+Fold: 2, Epoch: 2, iters: 250/1957 | loss: 3.3606333 temp 0.0000000 wind 3.3606333 speed: 1.2631s/iter; left time: 77.1313 min
+
+Fold: 2, Epoch: 2, iters: 300/1957 | loss: 3.3705243 temp 0.0000000 wind 3.3705243 speed: 1.2663s/iter; left time: 76.2706 min
+
+Fold: 2, Epoch: 2, iters: 350/1957 | loss: 3.3651398 temp 0.0000000 wind 3.3651398 speed: 1.2559s/iter; left time: 74.5988 min
+
+Fold: 2, Epoch: 2, iters: 400/1957 | loss: 3.3567286 temp 0.0000000 wind 3.3567286 speed: 1.2686s/iter; left time: 74.3005 min
+
+Fold: 2, Epoch: 2, iters: 450/1957 | loss: 3.3574430 temp 0.0000000 wind 3.3574430 speed: 1.2789s/iter; left time: 73.8372 min
+
+Fold: 2, Epoch: 2, iters: 500/1957 | loss: 3.3480463 temp 0.0000000 wind 3.3480463 speed: 1.2660s/iter; left time: 72.0379 min
+
+Fold: 2, Epoch: 2, iters: 550/1957 | loss: 3.3417567 temp 0.0000000 wind 3.3417567 speed: 1.2759s/iter; left time: 71.5359 min
+
+Fold: 2, Epoch: 2, iters: 600/1957 | loss: 3.3610428 temp 0.0000000 wind 3.3610428 speed: 1.2667s/iter; left time: 69.9646 min
+
+Fold: 2, Epoch: 2, iters: 650/1957 | loss: 3.3497925 temp 0.0000000 wind 3.3497925 speed: 1.2684s/iter; left time: 69.0036 min
+
+Fold: 2, Epoch: 2, iters: 700/1957 | loss: 3.3491102 temp 0.0000000 wind 3.3491102 speed: 1.2829s/iter; left time: 68.7189 min
+
+Fold: 2, Epoch: 2, iters: 750/1957 | loss: 3.3547036 temp 0.0000000 wind 3.3547036 speed: 1.2884s/iter; left time: 67.9395 min
+
+Fold: 2, Epoch: 2, iters: 800/1957 | loss: 3.3415281 temp 0.0000000 wind 3.3415281 speed: 1.2715s/iter; left time: 65.9917 min
+
+Fold: 2, Epoch: 2, iters: 850/1957 | loss: 3.3312222 temp 0.0000000 wind 3.3312222 speed: 1.2748s/iter; left time: 65.0979 min
+
+Fold: 2, Epoch: 2, iters: 900/1957 | loss: 3.3312280 temp 0.0000000 wind 3.3312280 speed: 1.2713s/iter; left time: 63.8628 min
+
+Fold: 2, Epoch: 2, iters: 950/1957 | loss: 3.3352035 temp 0.0000000 wind 3.3352035 speed: 1.2739s/iter; left time: 62.9329 min
+
+Fold: 2, Epoch: 2, iters: 1000/1957 | loss: 3.3317310 temp 0.0000000 wind 3.3317310 speed: 1.2787s/iter; left time: 62.1037 min
+
+Fold: 2, Epoch: 2, iters: 1050/1957 | loss: 3.3400747 temp 0.0000000 wind 3.3400747 speed: 1.2711s/iter; left time: 60.6752 min
+
+Fold: 2, Epoch: 2, iters: 1100/1957 | loss: 3.3369452 temp 0.0000000 wind 3.3369452 speed: 1.2770s/iter; left time: 59.8899 min
+
+Fold: 2, Epoch: 2, iters: 1150/1957 | loss: 3.3253640 temp 0.0000000 wind 3.3253640 speed: 1.2725s/iter; left time: 58.6178 min
+
+Fold: 2, Epoch: 2, iters: 1200/1957 | loss: 3.3301746 temp 0.0000000 wind 3.3301746 speed: 1.2745s/iter; left time: 57.6505 min
+
+Fold: 2, Epoch: 2, iters: 1250/1957 | loss: 3.3268759 temp 0.0000000 wind 3.3268759 speed: 1.2712s/iter; left time: 56.4419 min
+
+Fold: 2, Epoch: 2, iters: 1300/1957 | loss: 3.3208652 temp 0.0000000 wind 3.3208652 speed: 1.2812s/iter; left time: 55.8172 min
+
+Fold: 2, Epoch: 2, iters: 1350/1957 | loss: 3.3272375 temp 0.0000000 wind 3.3272375 speed: 1.2813s/iter; left time: 54.7533 min
+
+Fold: 2, Epoch: 2, iters: 1400/1957 | loss: 3.3264455 temp 0.0000000 wind 3.3264455 speed: 1.2682s/iter; left time: 53.1396 min
+
+Fold: 2, Epoch: 2, iters: 1450/1957 | loss: 3.3172672 temp 0.0000000 wind 3.3172672 speed: 1.2677s/iter; left time: 52.0609 min
+
+Fold: 2, Epoch: 2, iters: 1500/1957 | loss: 3.3275479 temp 0.0000000 wind 3.3275479 speed: 1.2701s/iter; left time: 51.1020 min
+
+Fold: 2, Epoch: 2, iters: 1550/1957 | loss: 3.3198628 temp 0.0000000 wind 3.3198628 speed: 1.2750s/iter; left time: 50.2366 min
+
+Fold: 2, Epoch: 2, iters: 1600/1957 | loss: 3.3105336 temp 0.0000000 wind 3.3105336 speed: 1.2780s/iter; left time: 49.2879 min
+
+Fold: 2, Epoch: 2, iters: 1650/1957 | loss: 3.3065688 temp 0.0000000 wind 3.3065688 speed: 1.2731s/iter; left time: 48.0391 min
+
+Fold: 2, Epoch: 2, iters: 1700/1957 | loss: 3.3132454 temp 0.0000000 wind 3.3132454 speed: 1.2648s/iter; left time: 46.6704 min
+
+Fold: 2, Epoch: 2, iters: 1750/1957 | loss: 3.3130163 temp 0.0000000 wind 3.3130163 speed: 1.2729s/iter; left time: 45.9107 min
+
+Fold: 2, Epoch: 2, iters: 1800/1957 | loss: 3.3070632 temp 0.0000000 wind 3.3070632 speed: 1.2787s/iter; left time: 45.0520 min
+
+Fold: 2, Epoch: 2, iters: 1850/1957 | loss: 3.3079326 temp 0.0000000 wind 3.3079326 speed: 1.2773s/iter; left time: 43.9390 min
+
+Fold: 2, Epoch: 2, iters: 1900/1957 | loss: 3.3132087 temp 0.0000000 wind 3.3132087 speed: 1.2706s/iter; left time: 42.6486 min
+
+Fold: 2, Epoch: 2, iters: 1950/1957 | loss: 3.3184516 temp 0.0000000 wind 3.3184516 speed: 1.2641s/iter; left time: 41.3788 min
+Epoch: 2 cost time: 2488.489935398102	Fold: 2, Epoch: 2, Steps: 1957 | Train Loss: 3.3368988, Temp 0.0000000, Wind 3.3368988, Val Loss: 0.0000000 Temp 0.0000000 Wind 0.0000000
+Updating learning rate to 0.00025
+
+Fold: 2, Epoch: 3, iters: 50/1957 | loss: 3.3128759 temp 0.0000000 wind 3.3128759 speed: 1.5734s/iter; left time: 50.0088 min
+
+Fold: 2, Epoch: 3, iters: 100/1957 | loss: 3.2900732 temp 0.0000000 wind 3.2900732 speed: 1.2754s/iter; left time: 39.4749 min
+
+Fold: 2, Epoch: 3, iters: 150/1957 | loss: 3.2979661 temp 0.0000000 wind 3.2979661 speed: 1.2724s/iter; left time: 38.3195 min
+
+Fold: 2, Epoch: 3, iters: 200/1957 | loss: 3.2924237 temp 0.0000000 wind 3.2924237 speed: 1.2701s/iter; left time: 37.1936 min
+
+Fold: 2, Epoch: 3, iters: 250/1957 | loss: 3.3126839 temp 0.0000000 wind 3.3126839 speed: 1.2623s/iter; left time: 35.9134 min
+
+Fold: 2, Epoch: 3, iters: 300/1957 | loss: 3.2863365 temp 0.0000000 wind 3.2863365 speed: 1.2606s/iter; left time: 34.8138 min
+
+Fold: 2, Epoch: 3, iters: 350/1957 | loss: 3.2955005 temp 0.0000000 wind 3.2955005 speed: 1.2746s/iter; left time: 34.1392 min
+
+Fold: 2, Epoch: 3, iters: 400/1957 | loss: 3.2892317 temp 0.0000000 wind 3.2892317 speed: 1.2721s/iter; left time: 33.0116 min
+
+Fold: 2, Epoch: 3, iters: 450/1957 | loss: 3.2998989 temp 0.0000000 wind 3.2998989 speed: 1.2696s/iter; left time: 31.8870 min
+
+Fold: 2, Epoch: 3, iters: 500/1957 | loss: 3.2910651 temp 0.0000000 wind 3.2910651 speed: 1.2716s/iter; left time: 30.8784 min
+
+Fold: 2, Epoch: 3, iters: 550/1957 | loss: 3.2813627 temp 0.0000000 wind 3.2813627 speed: 1.2732s/iter; left time: 29.8556 min
+
+Fold: 2, Epoch: 3, iters: 600/1957 | loss: 3.2788023 temp 0.0000000 wind 3.2788023 speed: 1.2704s/iter; left time: 28.7324 min
+
+Fold: 2, Epoch: 3, iters: 650/1957 | loss: 3.2832239 temp 0.0000000 wind 3.2832239 speed: 1.2745s/iter; left time: 27.7622 min
+
+Fold: 2, Epoch: 3, iters: 700/1957 | loss: 3.2814019 temp 0.0000000 wind 3.2814019 speed: 1.2775s/iter; left time: 26.7628 min
+
+Fold: 2, Epoch: 3, iters: 750/1957 | loss: 3.2896089 temp 0.0000000 wind 3.2896089 speed: 1.2682s/iter; left time: 25.5119 min
+
+Fold: 2, Epoch: 3, iters: 800/1957 | loss: 3.2868185 temp 0.0000000 wind 3.2868185 speed: 1.2650s/iter; left time: 24.3944 min
+
+Fold: 2, Epoch: 3, iters: 850/1957 | loss: 3.2851497 temp 0.0000000 wind 3.2851497 speed: 1.2721s/iter; left time: 23.4701 min
+
+Fold: 2, Epoch: 3, iters: 900/1957 | loss: 3.2721243 temp 0.0000000 wind 3.2721243 speed: 1.2713s/iter; left time: 22.3962 min
+
+Fold: 2, Epoch: 3, iters: 950/1957 | loss: 3.2907069 temp 0.0000000 wind 3.2907069 speed: 1.2695s/iter; left time: 21.3069 min
+
+Fold: 2, Epoch: 3, iters: 1000/1957 | loss: 3.2866382 temp 0.0000000 wind 3.2866382 speed: 1.2773s/iter; left time: 20.3734 min
+
+Fold: 2, Epoch: 3, iters: 1050/1957 | loss: 3.2776679 temp 0.0000000 wind 3.2776679 speed: 1.2619s/iter; left time: 19.0753 min
+
+Fold: 2, Epoch: 3, iters: 1100/1957 | loss: 3.2932157 temp 0.0000000 wind 3.2932157 speed: 1.2736s/iter; left time: 18.1906 min
+
+Fold: 2, Epoch: 3, iters: 1150/1957 | loss: 3.2753614 temp 0.0000000 wind 3.2753614 speed: 1.2790s/iter; left time: 17.2024 min
+
+Fold: 2, Epoch: 3, iters: 1200/1957 | loss: 3.2745145 temp 0.0000000 wind 3.2745145 speed: 1.2829s/iter; left time: 16.1859 min
+
+Fold: 2, Epoch: 3, iters: 1250/1957 | loss: 3.2752808 temp 0.0000000 wind 3.2752808 speed: 1.2814s/iter; left time: 15.0990 min
+
+Fold: 2, Epoch: 3, iters: 1300/1957 | loss: 3.2802309 temp 0.0000000 wind 3.2802309 speed: 1.2672s/iter; left time: 13.8758 min
+
+Fold: 2, Epoch: 3, iters: 1350/1957 | loss: 3.2759701 temp 0.0000000 wind 3.2759701 speed: 1.2675s/iter; left time: 12.8224 min
+
+Fold: 2, Epoch: 3, iters: 1400/1957 | loss: 3.2725194 temp 0.0000000 wind 3.2725194 speed: 1.2710s/iter; left time: 11.7991 min
+
+Fold: 2, Epoch: 3, iters: 1450/1957 | loss: 3.2871685 temp 0.0000000 wind 3.2871685 speed: 1.2770s/iter; left time: 10.7909 min
+
+Fold: 2, Epoch: 3, iters: 1500/1957 | loss: 3.2736472 temp 0.0000000 wind 3.2736472 speed: 1.2766s/iter; left time: 9.7237 min
+
+Fold: 2, Epoch: 3, iters: 1550/1957 | loss: 3.2723055 temp 0.0000000 wind 3.2723055 speed: 1.2749s/iter; left time: 8.6483 min
+
+Fold: 2, Epoch: 3, iters: 1600/1957 | loss: 3.2657212 temp 0.0000000 wind 3.2657212 speed: 1.2681s/iter; left time: 7.5451 min
+
+Fold: 2, Epoch: 3, iters: 1650/1957 | loss: 3.2669055 temp 0.0000000 wind 3.2669055 speed: 1.2708s/iter; left time: 6.5020 min
+
+Fold: 2, Epoch: 3, iters: 1700/1957 | loss: 3.2709921 temp 0.0000000 wind 3.2709921 speed: 1.2726s/iter; left time: 5.4509 min
+
+Fold: 2, Epoch: 3, iters: 1750/1957 | loss: 3.2724675 temp 0.0000000 wind 3.2724675 speed: 1.2769s/iter; left time: 4.4053 min
+
+Fold: 2, Epoch: 3, iters: 1800/1957 | loss: 3.2709680 temp 0.0000000 wind 3.2709680 speed: 1.2725s/iter; left time: 3.3296 min
+
+Fold: 2, Epoch: 3, iters: 1850/1957 | loss: 3.2783538 temp 0.0000000 wind 3.2783538 speed: 1.2660s/iter; left time: 2.2578 min
+
+Fold: 2, Epoch: 3, iters: 1900/1957 | loss: 3.2761576 temp 0.0000000 wind 3.2761576 speed: 1.2674s/iter; left time: 1.2040 min
+
+Fold: 2, Epoch: 3, iters: 1950/1957 | loss: 3.2710942 temp 0.0000000 wind 3.2710942 speed: 1.2709s/iter; left time: 0.1483 min
+Epoch: 3 cost time: 2488.2346658706665	Fold: 2, Epoch: 3, Steps: 1957 | Train Loss: 3.2829201, Temp 0.0000000, Wind 3.2829201, Val Loss: 0.0000000 Temp 0.0000000 Wind 0.0000000
+Updating learning rate to 0.000125
+train.sh: line 38: type1: command not found
+train.sh: line 39: syntax error near unexpected token `done'
+train.sh: line 39: `  done'
